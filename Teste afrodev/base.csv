@@ -1,0 +1,2399 @@
+atleta,idade,pais,ano,data,esporte,ouro,prata,bronze,total
+Michael Phelps,23,United States,2008,24/08/2008,Swimming,8,0,0,8
+Michael Phelps,19,United States,2004,29/08/2004,Swimming,6,0,2,8
+Michael Phelps,27,United States,2012,12/08/2012,Swimming,4,2,0,6
+Natalie Coughlin,25,United States,2008,24/08/2008,Swimming,1,2,3,6
+Aleksey Nemov,24,Russia,2000,01/10/2000,Gymnastics,2,1,3,6
+Alicia Coutts,24,Australia,2012,12/08/2012,Swimming,1,3,1,5
+Missy Franklin,17,United States,2012,12/08/2012,Swimming,4,0,1,5
+Ryan Lochte,27,United States,2012,12/08/2012,Swimming,2,2,1,5
+Allison Schmitt,22,United States,2012,12/08/2012,Swimming,3,1,1,5
+Natalie Coughlin,21,United States,2004,29/08/2004,Swimming,2,2,1,5
+Ian Thorpe,17,Australia,2000,01/10/2000,Swimming,3,2,0,5
+Dara Torres,33,United States,2000,01/10/2000,Swimming,2,0,3,5
+Cindy Klassen,26,Canada,2006,26/02/2006,Speed Skating,1,2,2,5
+Nastia Liukin,18,United States,2008,24/08/2008,Gymnastics,1,3,1,5
+Marit Bjørgen,29,Norway,2010,28/02/2010,Cross pais Skiing,3,1,1,5
+Sun Yang,20,China,2012,12/08/2012,Swimming,2,1,1,4
+Kirsty Coventry,24,Zimbabwe,2008,24/08/2008,Swimming,1,3,0,4
+Libby Lenton-Trickett,23,Australia,2008,24/08/2008,Swimming,2,1,1,4
+Ryan Lochte,24,United States,2008,24/08/2008,Swimming,2,0,2,4
+Inge de Bruijn,30,Netherlands,2004,29/08/2004,Swimming,1,1,2,4
+Petria Thomas,28,Australia,2004,29/08/2004,Swimming,3,1,0,4
+Ian Thorpe,21,Australia,2004,29/08/2004,Swimming,2,1,1,4
+Inge de Bruijn,27,Netherlands,2000,01/10/2000,Swimming,3,1,0,4
+Gary Hall Jr.,25,United States,2000,01/10/2000,Swimming,2,1,1,4
+Michael Klim,23,Australia,2000,01/10/2000,Swimming,2,2,0,4
+Susie O'Neill,27,Australia,2000,01/10/2000,Swimming,1,3,0,4
+Jenny Thompson,27,United States,2000,01/10/2000,Swimming,3,0,1,4
+Pieter van den Hoogenband,22,Netherlands,2000,01/10/2000,Swimming,2,0,2,4
+An Hyeon-Su,20,South Korea,2006,26/02/2006,Short-Track Speed Skating,3,0,1,4
+Aliya Mustafina,17,Russia,2012,12/08/2012,Gymnastics,1,1,2,4
+Shawn Johnson,16,United States,2008,24/08/2008,Gymnastics,1,3,0,4
+Dmitry Sautin,26,Russia,2000,01/10/2000,Diving,1,1,2,4
+Leontien Zijlaard-van Moorsel,30,Netherlands,2000,01/10/2000,Cycling,3,1,0,4
+Petter Northug Jr.,24,Norway,2010,28/02/2010,Cross pais Skiing,2,1,1,4
+Ole Einar Bjørndalen,28,Norway,2002,24/02/2002,Biathlon,4,0,0,4
+Janica Kostelic,20,Croatia,2002,24/02/2002,Alpine Skiing,3,1,0,4
+Nathan Adrian,23,United States,2012,12/08/2012,Swimming,2,1,0,3
+Yannick Agnel,20,France,2012,12/08/2012,Swimming,2,1,0,3
+Brittany Elmslie,18,Australia,2012,12/08/2012,Swimming,1,2,0,3
+Matt Grevers,27,United States,2012,12/08/2012,Swimming,2,1,0,3
+Ryosuke Irie,22,Japan,2012,12/08/2012,Swimming,0,2,1,3
+Cullen Jones,28,United States,2012,12/08/2012,Swimming,1,2,0,3
+Ranomi Kromowidjojo,21,Netherlands,2012,12/08/2012,Swimming,2,1,0,3
+Camille Muffat,22,France,2012,12/08/2012,Swimming,1,1,1,3
+Mel Schlanger,25,Australia,2012,12/08/2012,Swimming,1,2,0,3
+Emily Seebohm,20,Australia,2012,12/08/2012,Swimming,1,2,0,3
+Rebecca Soni,25,United States,2012,12/08/2012,Swimming,2,1,0,3
+Satomi Suzuki,21,Japan,2012,12/08/2012,Swimming,0,1,2,3
+Dana Vollmer,24,United States,2012,12/08/2012,Swimming,3,0,0,3
+Alain Bernard,25,France,2008,24/08/2008,Swimming,1,1,1,3
+László Cseh Jr.,22,Hungary,2008,24/08/2008,Swimming,0,3,0,3
+Matt Grevers,23,United States,2008,24/08/2008,Swimming,2,1,0,3
+Margaret Hoelzer,25,United States,2008,24/08/2008,Swimming,0,2,1,3
+Katie Hoff,19,United States,2008,24/08/2008,Swimming,0,1,2,3
+Leisel Jones,22,Australia,2008,24/08/2008,Swimming,2,1,0,3
+Kosuke Kitajima,25,Japan,2008,24/08/2008,Swimming,2,0,1,3
+Andrew Lauterstein,21,Australia,2008,24/08/2008,Swimming,0,1,2,3
+Jason Lezak,32,United States,2008,24/08/2008,Swimming,2,0,1,3
+Pang Jiaying,23,China,2008,24/08/2008,Swimming,0,1,2,3
+Aaron Peirsol,25,United States,2008,24/08/2008,Swimming,2,1,0,3
+Steph Rice,20,Australia,2008,24/08/2008,Swimming,3,0,0,3
+Jess Schipper,21,Australia,2008,24/08/2008,Swimming,1,0,2,3
+Rebecca Soni,21,United States,2008,24/08/2008,Swimming,1,2,0,3
+Eamon Sullivan,22,Australia,2008,24/08/2008,Swimming,0,2,1,3
+Dara Torres,41,United States,2008,24/08/2008,Swimming,0,3,0,3
+Amanda Beard,22,United States,2004,29/08/2004,Swimming,1,2,0,3
+Antje Buschschulte,25,Germany,2004,29/08/2004,Swimming,0,0,3,3
+Kirsty Coventry,20,Zimbabwe,2004,29/08/2004,Swimming,1,1,1,3
+Ian Crocker,21,United States,2004,29/08/2004,Swimming,1,1,1,3
+Grant Hackett,24,Australia,2004,29/08/2004,Swimming,1,2,0,3
+Brendan Hansen,22,United States,2004,29/08/2004,Swimming,1,1,1,3
+Jodie Henry,20,Australia,2004,29/08/2004,Swimming,3,0,0,3
+Otylia Jedrzejczak,20,Poland,2004,29/08/2004,Swimming,1,2,0,3
+Leisel Jones,18,Australia,2004,29/08/2004,Swimming,1,1,1,3
+Kosuke Kitajima,21,Japan,2004,29/08/2004,Swimming,2,0,1,3
+Laure Manaudou,17,France,2004,29/08/2004,Swimming,1,1,1,3
+Aaron Peirsol,21,United States,2004,29/08/2004,Swimming,3,0,0,3
+Kaitlin Sandeno,21,United States,2004,29/08/2004,Swimming,1,1,1,3
+Roland Schoeman,24,South Africa,2004,29/08/2004,Swimming,1,1,1,3
+Pieter van den Hoogenband,26,Netherlands,2004,29/08/2004,Swimming,1,2,0,3
+Therese Alshammar,23,Sweden,2000,01/10/2000,Swimming,0,2,1,3
+Yana Klochkova,18,Ukraine,2000,01/10/2000,Swimming,2,1,0,3
+Lenny Krayzelburg,24,United States,2000,01/10/2000,Swimming,3,0,0,3
+Massimiliano Rosolino,22,Italy,2000,01/10/2000,Swimming,1,1,1,3
+Petria Thomas,25,Australia,2000,01/10/2000,Swimming,0,2,1,3
+Matt Welsh,23,Australia,2000,01/10/2000,Swimming,0,2,1,3
+Lee Jeong-Su,20,South Korea,2010,28/02/2010,Short-Track Speed Skating,2,1,0,3
+Apolo Anton Ohno,27,United States,2010,28/02/2010,Short-Track Speed Skating,0,1,2,3
+Wang Meng,24,China,2010,28/02/2010,Short-Track Speed Skating,3,0,0,3
+Jin Seon-Yu,17,South Korea,2006,26/02/2006,Short-Track Speed Skating,3,0,0,3
+Lee Ho-Seok,19,South Korea,2006,26/02/2006,Short-Track Speed Skating,1,2,0,3
+Apolo Anton Ohno,23,United States,2006,26/02/2006,Short-Track Speed Skating,1,0,2,3
+Wang Meng,20,China,2006,26/02/2006,Short-Track Speed Skating,1,1,1,3
+Marc Gagnon,26,Canada,2002,24/02/2002,Short-Track Speed Skating,2,0,1,3
+Yang Yang (A),25,China,2002,24/02/2002,Short-Track Speed Skating,2,1,0,3
+Stephanie Beckert,21,Germany,2010,28/02/2010,Speed Skating,1,2,0,3
+Martina Sáblíková,22,Czech Republic,2010,28/02/2010,Speed Skating,2,0,1,3
+Enrico Fabris,24,Italy,2006,26/02/2006,Speed Skating,2,0,1,3
+Chad Hedrick,28,United States,2006,26/02/2006,Speed Skating,1,1,1,3
+Jochem Uytdehaidade,25,Netherlands,2002,24/02/2002,Speed Skating,2,1,0,3
+Sabine Völker,28,Germany,2002,24/02/2002,Speed Skating,0,2,1,3
+Gregor Schlierenzauer,20,Austria,2010,28/02/2010,Ski Jumping,1,0,2,3
+Lars Bystøl,27,Norway,2006,26/02/2006,Ski Jumping,1,0,2,3
+Johnny Spillane,29,United States,2010,28/02/2010,Nordic Combined,0,3,0,3
+Felix Gottwald,30,Austria,2006,26/02/2006,Nordic Combined,2,1,0,3
+Georg Hettich,27,Germany,2006,26/02/2006,Nordic Combined,1,1,1,3
+Felix Gottwald,26,Austria,2002,24/02/2002,Nordic Combined,0,0,3,3
+Samppa Lajunen,22,Finland,2002,24/02/2002,Nordic Combined,3,0,0,3
+Aly Raisman,18,United States,2012,12/08/2012,Gymnastics,2,0,1,3
+Kohei Uchimura,23,Japan,2012,12/08/2012,Gymnastics,1,2,0,3
+Zou Kai,24,China,2012,12/08/2012,Gymnastics,2,0,1,3
+Cheng Fei,20,China,2008,24/08/2008,Gymnastics,1,0,2,3
+Yang Wei,28,China,2008,24/08/2008,Gymnastics,2,1,0,3
+Yang Yilin,15,China,2008,24/08/2008,Gymnastics,1,0,2,3
+Zou Kai,20,China,2008,24/08/2008,Gymnastics,3,0,0,3
+Marian Dragulescu,23,Romania,2004,29/08/2004,Gymnastics,0,1,2,3
+Paul Hamm,21,United States,2004,29/08/2004,Gymnastics,1,2,0,3
+Carly Patterson,16,United States,2004,29/08/2004,Gymnastics,1,2,0,3
+Catalina Ponor,16,Romania,2004,29/08/2004,Gymnastics,3,0,0,3
+Simona Amânar,20,Romania,2000,01/10/2000,Gymnastics,2,0,1,3
+Svetlana Khorkina,21,Russia,2000,01/10/2000,Gymnastics,1,2,0,3
+Yekaterina Lobaznyuk,17,Russia,2000,01/10/2000,Gymnastics,0,2,1,3
+Yelena Zamolodchikova,17,Russia,2000,01/10/2000,Gymnastics,2,1,0,3
+Guo Shuang,26,China,2012,12/08/2012,Cycling,0,2,1,3
+Chris Hoy,32,Great Britain,2008,24/08/2008,Cycling,3,0,0,3
+Bradley Wiggins,24,Great Britain,2004,29/08/2004,Cycling,1,1,1,3
+Florian Rousseau,26,France,2000,01/10/2000,Cycling,2,1,0,3
+Justyna Kowalczyk,27,Poland,2010,28/02/2010,Cross pais Skiing,1,1,1,3
+Johan Olsson,29,Sweden,2010,28/02/2010,Cross pais Skiing,1,0,2,3
+Stefania Belmondo,33,Italy,2002,24/02/2002,Cross pais Skiing,1,1,1,3
+Yuliya Chepalova,25,Russia,2002,24/02/2002,Cross pais Skiing,1,1,1,3
+Frode Estil,29,Norway,2002,24/02/2002,Cross pais Skiing,2,1,0,3
+Bente Skari-Martinsen,29,Norway,2002,24/02/2002,Cross pais Skiing,1,1,1,3
+Magdalena Neuner,23,Germany,2010,28/02/2010,Biathlon,2,1,0,3
+Emil Hegle Svendsen,24,Norway,2010,28/02/2010,Biathlon,2,1,0,3
+Albina Akhatova,29,Russia,2006,26/02/2006,Biathlon,1,0,2,3
+Ole Einar Bjørndalen,32,Norway,2006,26/02/2006,Biathlon,0,2,1,3
+Sven Fischer,34,Germany,2006,26/02/2006,Biathlon,2,0,1,3
+Martina Glagow-Beck,26,Germany,2006,26/02/2006,Biathlon,0,3,0,3
+Michael Greis,29,Germany,2006,26/02/2006,Biathlon,3,0,0,3
+Kati Wilhelm,29,Germany,2006,26/02/2006,Biathlon,1,2,0,3
+Kati Wilhelm,25,Germany,2002,24/02/2002,Biathlon,2,1,0,3
+Yohan Blake,22,Jamaica,2012,12/08/2012,Athletics,1,2,0,3
+Usain Bolt,25,Jamaica,2012,12/08/2012,Athletics,3,0,0,3
+Allyson Felix,26,United States,2012,12/08/2012,Athletics,3,0,0,3
+Shelly-Ann Fraser-Pryce,25,Jamaica,2012,12/08/2012,Athletics,1,2,0,3
+Carmelita Jeter,32,United States,2012,12/08/2012,Athletics,1,1,1,3
+Usain Bolt,21,Jamaica,2008,24/08/2008,Athletics,3,0,0,3
+Veronica Campbell-Brown,22,Jamaica,2004,29/08/2004,Athletics,2,0,1,3
+Justin Gatlin,22,United States,2004,29/08/2004,Athletics,1,1,1,3
+Bode Miller,32,United States,2010,28/02/2010,Alpine Skiing,1,1,1,3
+Aksel Lund Svindal,27,Norway,2010,28/02/2010,Alpine Skiing,1,1,1,3
+Anja Pärson,24,Sweden,2006,26/02/2006,Alpine Skiing,1,0,2,3
+Stephan Eberharter,32,Austria,2002,24/02/2002,Alpine Skiing,1,1,1,3
+Ding Ning,22,China,2012,12/08/2012,Table Tennis,1,1,0,2
+Feng Tian Wei,25,Singapore,2012,12/08/2012,Table Tennis,0,0,2,2
+Li Xiaoxia,24,China,2012,12/08/2012,Table Tennis,2,0,0,2
+Dmitrij Ovtcharov,23,Germany,2012,12/08/2012,Table Tennis,0,0,2,2
+Wang Hao,28,China,2012,12/08/2012,Table Tennis,1,1,0,2
+Zhang Jike,24,China,2012,12/08/2012,Table Tennis,2,0,0,2
+Guo Yue,20,China,2008,24/08/2008,Table Tennis,1,0,1,2
+Ma Lin,28,China,2008,24/08/2008,Table Tennis,2,0,0,2
+Wang Hao,24,China,2008,24/08/2008,Table Tennis,1,1,0,2
+Wang Liqin,30,China,2008,24/08/2008,Table Tennis,1,0,1,2
+Wang Nan,29,China,2008,24/08/2008,Table Tennis,1,1,0,2
+Zhang Yining,26,China,2008,24/08/2008,Table Tennis,2,0,0,2
+Zhang Yining,22,China,2004,29/08/2004,Table Tennis,2,0,0,2
+Kong Linghui,24,China,2000,01/10/2000,Table Tennis,1,1,0,2
+Li Ju,24,China,2000,01/10/2000,Table Tennis,1,1,0,2
+Liu Guoliang,24,China,2000,01/10/2000,Table Tennis,0,1,1,2
+Wang Nan,21,China,2000,01/10/2000,Table Tennis,2,0,0,2
+Viktoriya Azarenko,22,Belarus,2012,12/08/2012,Tennis,1,0,1,2
+Mike Bryan,34,United States,2012,12/08/2012,Tennis,1,0,1,2
+Andy Murray,25,Great Britain,2012,12/08/2012,Tennis,1,1,0,2
+Serena Williams,30,United States,2012,12/08/2012,Tennis,2,0,0,2
+Fernando González,24,Chile,2004,29/08/2004,Tennis,1,0,1,2
+Nicolás Massú,26,Chile,2004,29/08/2004,Tennis,2,0,0,2
+Venus Williams,20,United States,2000,01/10/2000,Tennis,2,0,0,2
+Ona Carbonell,22,Spain,2012,12/08/2012,Synchronized Swimming,0,1,1,2
+Andrea Fuentes,29,Spain,2012,12/08/2012,Synchronized Swimming,0,1,1,2
+Huang Xuechen,22,China,2012,12/08/2012,Synchronized Swimming,0,1,1,2
+Nataliya Ishchenko,26,Russia,2012,12/08/2012,Synchronized Swimming,2,0,0,2
+Liu Ou,25,China,2012,12/08/2012,Synchronized Swimming,0,1,1,2
+Svetlana Romashina,22,Russia,2012,12/08/2012,Synchronized Swimming,2,0,0,2
+Anastasiya Davydova,25,Russia,2008,24/08/2008,Synchronized Swimming,2,0,0,2
+Andrea Fuentes,25,Spain,2008,24/08/2008,Synchronized Swimming,0,2,0,2
+Gemma Mengual,31,Spain,2008,24/08/2008,Synchronized Swimming,0,2,0,2
+Anastasiya Yermakova,25,Russia,2008,24/08/2008,Synchronized Swimming,2,0,0,2
+Alison Bartosik,21,United States,2004,29/08/2004,Synchronized Swimming,0,0,2,2
+Anastasiya Davydova,21,Russia,2004,29/08/2004,Synchronized Swimming,2,0,0,2
+Anna Kozlova,31,United States,2004,29/08/2004,Synchronized Swimming,0,0,2,2
+Miya Tachibana,29,Japan,2004,29/08/2004,Synchronized Swimming,0,2,0,2
+Miho Takeda,27,Japan,2004,29/08/2004,Synchronized Swimming,0,2,0,2
+Anastasiya Yermakova,21,Russia,2004,29/08/2004,Synchronized Swimming,2,0,0,2
+Olga Brusnikina,21,Russia,2000,01/10/2000,Synchronized Swimming,2,0,0,2
+Mariya Kiselyova,25,Russia,2000,01/10/2000,Synchronized Swimming,2,0,0,2
+Miya Tachibana,25,Japan,2000,01/10/2000,Synchronized Swimming,0,2,0,2
+Miho Takeda,24,Japan,2000,01/10/2000,Synchronized Swimming,0,2,0,2
+Becky Adlington,23,Great Britain,2012,12/08/2012,Swimming,0,0,2,2
+Bronte Barratt,23,Australia,2012,12/08/2012,Swimming,0,1,1,2
+Elizabeth Beisel,19,United States,2012,12/08/2012,Swimming,0,1,1,2
+Mireia Belmonte,21,Spain,2012,12/08/2012,Swimming,0,2,0,2
+Ricky Berens,24,United States,2012,12/08/2012,Swimming,1,1,0,2
+Aleksandra Gerasimenya,26,Belarus,2012,12/08/2012,Swimming,0,2,0,2
+Brendan Hansen,30,United States,2012,12/08/2012,Swimming,1,0,1,2
+Jessica Hardy,25,United States,2012,12/08/2012,Swimming,1,0,1,2
+Chad le Clos,20,South Africa,2012,12/08/2012,Swimming,1,1,0,2
+Clément Lefert,24,France,2012,12/08/2012,Swimming,1,1,0,2
+Amaury Leveaux,26,France,2012,12/08/2012,Swimming,1,1,0,2
+James Magnussen,21,Australia,2012,12/08/2012,Swimming,0,1,1,2
+Takeshi Matsuda,28,Japan,2012,12/08/2012,Swimming,0,1,1,2
+Oussama Mellouli,28,Tunisia,2012,12/08/2012,Swimming,1,0,1,2
+Park Tae-Hwan,22,South Korea,2012,12/08/2012,Swimming,0,2,0,2
+Christian Sprenger,26,Australia,2012,12/08/2012,Swimming,0,1,1,2
+Jeremy Stravius,24,France,2012,12/08/2012,Swimming,1,1,0,2
+Aya Terakawa,27,Japan,2012,12/08/2012,Swimming,0,0,2,2
+Nick Thoman,26,United States,2012,12/08/2012,Swimming,1,1,0,2
+Marleen Veldhuis,33,Netherlands,2012,12/08/2012,Swimming,0,1,1,2
+Ye Shiwen,16,China,2012,12/08/2012,Swimming,2,0,0,2
+Becky Adlington,19,Great Britain,2008,24/08/2008,Swimming,2,0,0,2
+Leith Brodie,22,Australia,2008,24/08/2008,Swimming,0,0,2,2
+Cate Campbell,16,Australia,2008,24/08/2008,Swimming,0,0,2,2
+César Cielo Filho,21,Brazil,2008,24/08/2008,Swimming,1,0,1,2
+Hugues Duboscq,26,France,2008,24/08/2008,Swimming,0,0,2,2
+Felicity Galvez,23,Australia,2008,24/08/2008,Swimming,2,0,0,2
+Grant Hackett,28,Australia,2008,24/08/2008,Swimming,0,1,1,2
+Kara Lynn Joyce,22,United States,2008,24/08/2008,Swimming,0,2,0,2
+Amaury Leveaux,22,France,2008,24/08/2008,Swimming,0,2,0,2
+Christine Magnuson,22,United States,2008,24/08/2008,Swimming,0,2,0,2
+Patrick Murphy,24,Australia,2008,24/08/2008,Swimming,0,0,2,2
+Park Tae-Hwan,18,South Korea,2008,24/08/2008,Swimming,1,1,0,2
+Shayne Reese,25,Australia,2008,24/08/2008,Swimming,1,0,1,2
+Brenton Rickard,24,Australia,2008,24/08/2008,Swimming,0,2,0,2
+Mel Schlanger,21,Australia,2008,24/08/2008,Swimming,1,0,1,2
+Julia Smit,20,United States,2008,24/08/2008,Swimming,0,1,1,2
+Britta Steffen,24,Germany,2008,24/08/2008,Swimming,2,0,0,2
+Hayden Stoeckel,24,Australia,2008,24/08/2008,Swimming,0,1,1,2
+Matt Targett,22,Australia,2008,24/08/2008,Swimming,0,1,1,2
+Peter Vanderkaay,24,United States,2008,24/08/2008,Swimming,1,0,1,2
+Arkady Vyachanin,24,Russia,2008,24/08/2008,Swimming,0,0,2,2
+Garrett Weber-Gale,23,United States,2008,24/08/2008,Swimming,2,0,0,2
+Lindsay Benko,27,United States,2004,29/08/2004,Swimming,1,1,0,2
+Gary Hall Jr.,29,United States,2004,29/08/2004,Swimming,1,0,1,2
+Brooke Hanson,26,Australia,2004,29/08/2004,Swimming,1,1,0,2
+Kara Lynn Joyce,18,United States,2004,29/08/2004,Swimming,0,2,0,2
+Klete Keller,22,United States,2004,29/08/2004,Swimming,1,0,1,2
+Yana Klochkova,22,Ukraine,2004,29/08/2004,Swimming,2,0,0,2
+Rachel Komisarz,27,United States,2004,29/08/2004,Swimming,1,1,0,2
+Libby Lenton-Trickett,19,Australia,2004,29/08/2004,Swimming,1,0,1,2
+Jason Lezak,28,United States,2004,29/08/2004,Swimming,1,0,1,2
+Ryan Lochte,20,United States,2004,29/08/2004,Swimming,1,1,0,2
+Alice Mills,18,Australia,2004,29/08/2004,Swimming,2,0,0,2
+Tomomi Morita,19,Japan,2004,29/08/2004,Swimming,0,0,2,2
+Markus Rogan,22,Austria,2004,29/08/2004,Swimming,0,2,0,2
+Jenny Thompson,31,United States,2004,29/08/2004,Swimming,0,2,0,2
+Franziska van Almsick,26,Germany,2004,29/08/2004,Swimming,0,0,2,2
+Neil Walker,28,United States,2004,29/08/2004,Swimming,1,0,1,2
+Amanda Weir,18,United States,2004,29/08/2004,Swimming,0,2,0,2
+Takashi Yamamoto,26,Japan,2004,29/08/2004,Swimming,0,1,1,2
+Brooke Bennett,20,United States,2000,01/10/2000,Swimming,2,0,0,2
+Beatrice Coada-Caslaru,25,Romania,2000,01/10/2000,Swimming,0,1,1,2
+Josh Davis,28,United States,2000,01/10/2000,Swimming,0,2,0,2
+Tom Dolan,25,United States,2000,01/10/2000,Swimming,1,1,0,2
+Anthony Ervin,19,United States,2000,01/10/2000,Swimming,1,1,0,2
+Domenico Fioravanti,23,Italy,2000,01/10/2000,Swimming,2,0,0,2
+Grant Hackett,20,Australia,2000,01/10/2000,Swimming,2,0,0,2
+Geoff Huegill,21,Australia,2000,01/10/2000,Swimming,0,1,1,2
+Leisel Jones,15,Australia,2000,01/10/2000,Swimming,0,2,0,2
+Klete Keller,18,United States,2000,01/10/2000,Swimming,0,1,1,2
+Jason Lezak,24,United States,2000,01/10/2000,Swimming,1,1,0,2
+Diana Mocanu,16,Romania,2000,01/10/2000,Swimming,2,0,0,2
+Martina Moravcová,24,Slovakia,2000,01/10/2000,Swimming,0,2,0,2
+Ed Moses,20,United States,2000,01/10/2000,Swimming,1,1,0,2
+Diana Munz,18,United States,2000,01/10/2000,Swimming,1,1,0,2
+Mai Nakamura,21,Japan,2000,01/10/2000,Swimming,0,1,1,2
+Todd Pearson,22,Australia,2000,01/10/2000,Swimming,2,0,0,2
+Adam Pine,24,Australia,2000,01/10/2000,Swimming,1,1,0,2
+Claudia Poll,27,Costa Rica,2000,01/10/2000,Swimming,0,0,2,2
+Megan Quann-Jendrick,16,United States,2000,01/10/2000,Swimming,2,0,0,2
+Giaan Rooney,17,Australia,2000,01/10/2000,Swimming,0,2,0,2
+Courtney Shealy,22,United States,2000,01/10/2000,Swimming,2,0,0,2
+Ashley Tappin,25,United States,2000,01/10/2000,Swimming,2,0,0,2
+Stev Theloke,22,Germany,2000,01/10/2000,Swimming,0,0,2,2
+Amy Van Dyken,27,United States,2000,01/10/2000,Swimming,2,0,0,2
+Neil Walker,24,United States,2000,01/10/2000,Swimming,1,1,0,2
+J. R. Celski,19,United States,2010,28/02/2010,Short-Track Speed Skating,0,0,2,2
+Charles Hamelin,25,Canada,2010,28/02/2010,Short-Track Speed Skating,2,0,0,2
+Lee Ho-Seok,23,South Korea,2010,28/02/2010,Short-Track Speed Skating,0,2,0,2
+Park Seung-Hui,17,South Korea,2010,28/02/2010,Short-Track Speed Skating,0,0,2,2
+Katherine Reutter,21,United States,2010,28/02/2010,Short-Track Speed Skating,0,1,1,2
+Seong Si-Baek,22,South Korea,2010,28/02/2010,Short-Track Speed Skating,0,2,0,2
+Marianne St-Gelais,19,Canada,2010,28/02/2010,Short-Track Speed Skating,0,2,0,2
+François-Louis Tremblay,29,Canada,2010,28/02/2010,Short-Track Speed Skating,1,0,1,2
+Zhou Yang,18,China,2010,28/02/2010,Short-Track Speed Skating,2,0,0,2
+Choi Eun-Gyeong,21,South Korea,2006,26/02/2006,Short-Track Speed Skating,1,1,0,2
+Anouk Leblanc-Boucher,21,Canada,2006,26/02/2006,Short-Track Speed Skating,0,1,1,2
+François-Louis Tremblay,25,Canada,2006,26/02/2006,Short-Track Speed Skating,0,2,0,2
+Choi Eun-Gyeong,17,South Korea,2002,24/02/2002,Short-Track Speed Skating,1,1,0,2
+Go Gi-Hyeon,15,South Korea,2002,24/02/2002,Short-Track Speed Skating,1,1,0,2
+Jonathan Guilmette,23,Canada,2002,24/02/2002,Short-Track Speed Skating,1,1,0,2
+Li Jiajun,26,China,2002,24/02/2002,Short-Track Speed Skating,0,1,1,2
+Apolo Anton Ohno,19,United States,2002,24/02/2002,Short-Track Speed Skating,1,1,0,2
+Evgeniya Radanova,24,Bulgaria,2002,24/02/2002,Short-Track Speed Skating,0,1,1,2
+Mathieu Turcotte,25,Canada,2002,24/02/2002,Short-Track Speed Skating,1,0,1,2
+Wang Chunlu,23,China,2002,24/02/2002,Short-Track Speed Skating,0,1,1,2
+Yang Yang (S),24,China,2002,24/02/2002,Short-Track Speed Skating,0,1,1,2
+Shani Davis,27,United States,2010,28/02/2010,Speed Skating,1,1,0,2
+Kristina Groves,33,Canada,2010,28/02/2010,Speed Skating,0,1,1,2
+Chad Hedrick,32,United States,2010,28/02/2010,Speed Skating,0,1,1,2
+Sven Kramer,23,Netherlands,2010,28/02/2010,Speed Skating,1,0,1,2
+Lee Seung-Hun,21,South Korea,2010,28/02/2010,Speed Skating,1,1,0,2
+Mo Tae-Beom,21,South Korea,2010,28/02/2010,Speed Skating,1,1,0,2
+Ivan Skobrev,27,Russia,2010,28/02/2010,Speed Skating,0,1,1,2
+Mark Tuitert,29,Netherlands,2010,28/02/2010,Speed Skating,1,0,1,2
+Joey Cheek,26,United States,2006,26/02/2006,Speed Skating,1,1,0,2
+Shani Davis,23,United States,2006,26/02/2006,Speed Skating,1,1,0,2
+Anni Friesinger-Postma,29,Germany,2006,26/02/2006,Speed Skating,1,0,1,2
+Kristina Groves,29,Canada,2006,26/02/2006,Speed Skating,0,2,0,2
+Clara Hughes,33,Canada,2006,26/02/2006,Speed Skating,1,1,0,2
+Sven Kramer,19,Netherlands,2006,26/02/2006,Speed Skating,0,1,1,2
+Claudia Pechstein,33,Germany,2006,26/02/2006,Speed Skating,1,1,0,2
+Carl Verheijen,30,Netherlands,2006,26/02/2006,Speed Skating,0,0,2,2
+Erben Wennemars,30,Netherlands,2006,26/02/2006,Speed Skating,0,0,2,2
+Ireen Wüst,19,Netherlands,2006,26/02/2006,Speed Skating,1,0,1,2
+Derek Parra,31,United States,2002,24/02/2002,Speed Skating,1,1,0,2
+Claudia Pechstein,29,Germany,2002,24/02/2002,Speed Skating,2,0,0,2
+Jennifer Rodriguez,25,United States,2002,24/02/2002,Speed Skating,0,0,2,2
+Simon Ammann,28,Switzerland,2010,28/02/2010,Ski Jumping,2,0,0,2
+Adam Malysz,32,Poland,2010,28/02/2010,Ski Jumping,0,2,0,2
+Matti Hautamäki,24,Finland,2006,26/02/2006,Ski Jumping,0,2,0,2
+Andreas Kofler,21,Austria,2006,26/02/2006,Ski Jumping,1,1,0,2
+Roar Ljøkelsøy,29,Norway,2006,26/02/2006,Ski Jumping,0,0,2,2
+Thomas Morgenstern,19,Austria,2006,26/02/2006,Ski Jumping,2,0,0,2
+Simon Ammann,20,Switzerland,2002,24/02/2002,Ski Jumping,2,0,0,2
+Sven Hannawald,27,Germany,2002,24/02/2002,Ski Jumping,1,1,0,2
+Matti Hautamäki,20,Finland,2002,24/02/2002,Ski Jumping,0,1,1,2
+Adam Malysz,24,Poland,2002,24/02/2002,Ski Jumping,0,1,1,2
+Niccolò Campriani,24,Italy,2012,12/08/2012,Shooting,1,1,0,2
+Jin Jong-O,32,South Korea,2012,12/08/2012,Shooting,2,0,0,2
+Olena Kostevych,27,Ukraine,2012,12/08/2012,Shooting,0,0,2,2
+Jin Jong-O,28,South Korea,2008,24/08/2008,Shooting,1,1,0,2
+Katerina Kurková-Emmons,24,Czech Republic,2008,24/08/2008,Shooting,1,1,0,2
+Lyubov Galkina,31,Russia,2004,29/08/2004,Shooting,1,1,0,2
+Mariya Grozdeva,32,Bulgaria,2004,29/08/2004,Shooting,1,0,1,2
+Lee Bo-Na,23,South Korea,2004,29/08/2004,Shooting,0,1,1,2
+Mikhail Nestruyev,35,Russia,2004,29/08/2004,Shooting,1,1,0,2
+Igor Basinsky,37,Belarus,2000,01/10/2000,Shooting,0,1,1,2
+Tao Luna,26,China,2000,01/10/2000,Shooting,1,1,0,2
+Kim Crow,26,Australia,2012,12/08/2012,Rowing,0,1,1,2
+Georgeta Damian-Andrunache,32,Romania,2008,24/08/2008,Rowing,1,0,1,2
+Viorica Susanu,32,Romania,2008,24/08/2008,Rowing,1,0,1,2
+Georgeta Damian-Andrunache,28,Romania,2004,29/08/2004,Rowing,2,0,0,2
+Viorica Susanu,28,Romania,2004,29/08/2004,Rowing,2,0,0,2
+Georgeta Damian-Andrunache,24,Romania,2000,01/10/2000,Rowing,2,0,0,2
+Doina Ignat,31,Romania,2000,01/10/2000,Rowing,2,0,0,2
+Pieta van Dishoeck,28,Netherlands,2000,01/10/2000,Rowing,0,2,0,2
+Eeke van Nes,31,Netherlands,2000,01/10/2000,Rowing,0,2,0,2
+Bill Demong,29,United States,2010,28/02/2010,Nordic Combined,1,1,0,2
+Bernhard Gruber,27,Austria,2010,28/02/2010,Nordic Combined,1,0,1,2
+Magnus Moan,22,Norway,2006,26/02/2006,Nordic Combined,0,1,1,2
+Ronny Ackermann,24,Germany,2002,24/02/2002,Nordic Combined,0,2,0,2
+Jaakko Tallus,20,Finland,2002,24/02/2002,Nordic Combined,1,1,0,2
+Denis Ablyazin,19,Russia,2012,12/08/2012,Gymnastics,0,1,1,2
+Chen Yibing,27,China,2012,12/08/2012,Gymnastics,1,1,0,2
+Gabby Douglas,16,United States,2012,12/08/2012,Gymnastics,2,0,0,2
+Feng Zhe,24,China,2012,12/08/2012,Gymnastics,2,0,0,2
+Sandra Izbasa,22,Romania,2012,12/08/2012,Gymnastics,1,0,1,2
+Viktoriya Komova,17,Russia,2012,12/08/2012,Gymnastics,0,2,0,2
+McKayla Maroney,16,United States,2012,12/08/2012,Gymnastics,1,1,0,2
+Marcel Nguyen,24,Germany,2012,12/08/2012,Gymnastics,0,2,0,2
+Mariya Paseka,17,Russia,2012,12/08/2012,Gymnastics,0,1,1,2
+Catalina Ponor,24,Romania,2012,12/08/2012,Gymnastics,0,1,1,2
+Louis Smith,23,Great Britain,2012,12/08/2012,Gymnastics,0,1,1,2
+Max Whitlock,19,Great Britain,2012,12/08/2012,Gymnastics,0,0,2,2
+Chen Yibing,23,China,2008,24/08/2008,Gymnastics,2,0,0,2
+Anton Golotsutskov,23,Russia,2008,24/08/2008,Gymnastics,0,0,2,2
+He Kexin,16,China,2008,24/08/2008,Gymnastics,2,0,0,2
+Jonathan Horton,22,United States,2008,24/08/2008,Gymnastics,0,1,1,2
+Sandra Izbasa,18,Romania,2008,24/08/2008,Gymnastics,1,0,1,2
+Li Xiaopeng,27,China,2008,24/08/2008,Gymnastics,2,0,0,2
+Kohei Uchimura,19,Japan,2008,24/08/2008,Gymnastics,0,2,0,2
+Xiao Qin,23,China,2008,24/08/2008,Gymnastics,2,0,0,2
+Alexandra Eremia,17,Romania,2004,29/08/2004,Gymnastics,1,0,1,2
+Annia Hatch,26,United States,2004,29/08/2004,Gymnastics,0,2,0,2
+Terin Humphrey,18,United States,2004,29/08/2004,Gymnastics,0,2,0,2
+Takehiro Kashima,24,Japan,2004,29/08/2004,Gymnastics,1,0,1,2
+Svetlana Khorkina,25,Russia,2004,29/08/2004,Gymnastics,0,1,1,2
+Courtney Kupets,18,United States,2004,29/08/2004,Gymnastics,0,1,1,2
+Anna Pavlova,16,Russia,2004,29/08/2004,Gymnastics,0,0,2,2
+Monica Rosu,17,Romania,2004,29/08/2004,Gymnastics,2,0,0,2
+Dana Sofronie,16,Romania,2004,29/08/2004,Gymnastics,1,1,0,2
+Hiroyuki Tomita,23,Japan,2004,29/08/2004,Gymnastics,1,1,0,2
+Marius Urzica,28,Romania,2004,29/08/2004,Gymnastics,0,1,1,2
+Isao Yoneda,26,Japan,2004,29/08/2004,Gymnastics,1,0,1,2
+Yordan Yovchev,31,Bulgaria,2004,29/08/2004,Gymnastics,0,1,1,2
+Oleksandr Beresh,22,Ukraine,2000,01/10/2000,Gymnastics,0,1,1,2
+Aleksey Bondarenko,22,Russia,2000,01/10/2000,Gymnastics,0,1,1,2
+Lee Ju-Hyeong,27,South Korea,2000,01/10/2000,Gymnastics,0,1,1,2
+Li Xiaopeng,19,China,2000,01/10/2000,Gymnastics,2,0,0,2
+Liu Xuan,21,China,2000,01/10/2000,Gymnastics,1,0,1,2
+Maria Olaru,18,Romania,2000,01/10/2000,Gymnastics,1,1,0,2
+Yelena Produnova,20,Russia,2000,01/10/2000,Gymnastics,0,1,1,2
+Andreea Raducan,16,Romania,2000,01/10/2000,Gymnastics,1,1,0,2
+Yang Wei,20,China,2000,01/10/2000,Gymnastics,1,1,0,2
+Yordan Yovchev,27,Bulgaria,2000,01/10/2000,Gymnastics,0,0,2,2
+Elisa Di Francisca,29,Italy,2012,12/08/2012,Fencing,2,0,0,2
+Arianna Errigo,24,Italy,2012,12/08/2012,Fencing,1,1,0,2
+Diego Occhiuzzi,31,Italy,2012,12/08/2012,Fencing,0,1,1,2
+Sun Yujie,19,China,2012,12/08/2012,Fencing,1,0,1,2
+Valentina Vezzali,38,Italy,2012,12/08/2012,Fencing,1,0,1,2
+Stefano Carozzo,29,Italy,2008,24/08/2008,Fencing,0,0,2,2
+Margherita Granbassi,28,Italy,2008,24/08/2008,Fencing,0,0,2,2
+Sada Jacobson,25,United States,2008,24/08/2008,Fencing,0,1,1,2
+Fabrice Jeannet,27,France,2008,24/08/2008,Fencing,1,1,0,2
+Nicolas Lopez,27,France,2008,24/08/2008,Fencing,1,1,0,2
+Matteo Tagliariol,25,Italy,2008,24/08/2008,Fencing,1,0,1,2
+Valentina Vezzali,34,Italy,2008,24/08/2008,Fencing,1,0,1,2
+Becca Ward,18,United States,2008,24/08/2008,Fencing,0,0,2,2
+Mariel Zagunis,23,United States,2008,24/08/2008,Fencing,1,0,1,2
+Andrea Cassarà,20,Italy,2004,29/08/2004,Fencing,1,0,1,2
+Laura Flessel-Colovic,32,France,2004,29/08/2004,Fencing,0,1,1,2
+Aldo Montano,25,Italy,2004,29/08/2004,Fencing,1,1,0,2
+Maureen Nisima,23,France,2004,29/08/2004,Fencing,0,0,2,2
+Salvatore Sanzo,28,Italy,2004,29/08/2004,Fencing,1,1,0,2
+Mathieu Gourdain,26,France,2000,01/10/2000,Fencing,0,2,0,2
+Gianna Hablützel-Bürki,30,Switzerland,2000,01/10/2000,Fencing,0,2,0,2
+Rita König,23,Germany,2000,01/10/2000,Fencing,0,1,1,2
+Wiradech Kothny,21,Germany,2000,01/10/2000,Fencing,0,0,2,2
+Hugues Obry,27,France,2000,01/10/2000,Fencing,0,2,0,2
+Giovanna Trillini,30,Italy,2000,01/10/2000,Fencing,1,0,1,2
+Valentina Vezzali,26,Italy,2000,01/10/2000,Fencing,2,0,0,2
+Sandra Auffarth,25,Germany,2012,12/08/2012,Equestrian,1,0,1,2
+Laura Bechtolsheimer,27,Great Britain,2012,12/08/2012,Equestrian,1,0,1,2
+Adelinde Cornelissen,33,Netherlands,2012,12/08/2012,Equestrian,0,1,1,2
+Charlotte Dujardin,27,Great Britain,2012,12/08/2012,Equestrian,2,0,0,2
+Michael Jung,29,Germany,2012,12/08/2012,Equestrian,2,0,0,2
+Gerco Schröder,34,Netherlands,2012,12/08/2012,Equestrian,0,2,0,2
+Tina Cook,37,Great Britain,2008,24/08/2008,Equestrian,0,0,2,2
+Heike Kemmer,46,Germany,2008,24/08/2008,Equestrian,1,0,1,2
+Eric Lamaze,40,Canada,2008,24/08/2008,Equestrian,1,1,0,2
+Beezie Madden,44,United States,2008,24/08/2008,Equestrian,1,0,1,2
+Hinrich Romeike,45,Germany,2008,24/08/2008,Equestrian,2,0,0,2
+Anky van Grunsven,40,Netherlands,2008,24/08/2008,Equestrian,1,1,0,2
+Isabell Werth,39,Germany,2008,24/08/2008,Equestrian,1,1,0,2
+Beatriz Ferrer-Salat,38,Spain,2004,29/08/2004,Equestrian,0,1,1,2
+Pippa Funnell,35,Great Britain,2004,29/08/2004,Equestrian,0,1,1,2
+Chris Kappler,37,United States,2004,29/08/2004,Equestrian,1,1,0,2
+Marco Kutscher,29,Germany,2004,29/08/2004,Equestrian,0,0,2,2
+Leslie Law,39,Great Britain,2004,29/08/2004,Equestrian,1,1,0,2
+Ulla Salzgeber,46,Germany,2004,29/08/2004,Equestrian,1,1,0,2
+Kim Severson,30,United States,2004,29/08/2004,Equestrian,0,1,1,2
+Andrew Hoy,41,Australia,2000,01/10/2000,Equestrian,1,1,0,2
+David O'Connor,38,United States,2000,01/10/2000,Equestrian,1,0,1,2
+Ulla Salzgeber,42,Germany,2000,01/10/2000,Equestrian,1,0,1,2
+Anky van Grunsven,32,Netherlands,2000,01/10/2000,Equestrian,1,1,0,2
+Isabell Werth,31,Germany,2000,01/10/2000,Equestrian,1,1,0,2
+David Boudia,23,United States,2012,12/08/2012,Diving,1,0,1,2
+Chen Ruolin,19,China,2012,12/08/2012,Diving,2,0,0,2
+He Zi,21,China,2012,12/08/2012,Diving,1,1,0,2
+Qin Kai,26,China,2012,12/08/2012,Diving,1,1,0,2
+Wu Minxia,26,China,2012,12/08/2012,Diving,2,0,0,2
+Ilya Zakharov,21,Russia,2012,12/08/2012,Diving,1,1,0,2
+Chen Ruolin,15,China,2008,24/08/2008,Diving,2,0,0,2
+Gleb Galperin,25,Russia,2008,24/08/2008,Diving,0,0,2,2
+Guo Jingjing,26,China,2008,24/08/2008,Diving,2,0,0,2
+Yuliya Pakhalina,30,Russia,2008,24/08/2008,Diving,0,2,0,2
+Qin Kai,22,China,2008,24/08/2008,Diving,1,0,1,2
+Wang Xin,16,China,2008,24/08/2008,Diving,1,0,1,2
+Wu Minxia,22,China,2008,24/08/2008,Diving,1,0,1,2
+Guo Jingjing,22,China,2004,29/08/2004,Diving,2,0,0,2
+Mathew Helm,23,Australia,2004,29/08/2004,Diving,0,1,1,2
+Lao Lishi,16,China,2004,29/08/2004,Diving,1,1,0,2
+Chantelle Michell-Newbery,27,Australia,2004,29/08/2004,Diving,1,0,1,2
+Robert Newbery,25,Australia,2004,29/08/2004,Diving,0,0,2,2
+Yuliya Pakhalina,26,Russia,2004,29/08/2004,Diving,0,1,1,2
+Tian Liang,24,China,2004,29/08/2004,Diving,1,0,1,2
+Wu Minxia,18,China,2004,29/08/2004,Diving,1,1,0,2
+Fu Mingxia,22,China,2000,01/10/2000,Diving,1,1,0,2
+Guo Jingjing,18,China,2000,01/10/2000,Diving,0,2,0,2
+Hu Jia,17,China,2000,01/10/2000,Diving,0,2,0,2
+Li Na,16,China,2000,01/10/2000,Diving,1,1,0,2
+Anne Montminy,25,Canada,2000,01/10/2000,Diving,0,1,1,2
+Tian Liang,21,China,2000,01/10/2000,Diving,1,1,0,2
+Xiong Ni,26,China,2000,01/10/2000,Diving,2,0,0,2
+Grégory Baugé,27,France,2012,12/08/2012,Cycling,0,2,0,2
+Ed Clancy,27,Great Britain,2012,12/08/2012,Cycling,1,0,1,2
+Sarah Hammer,28,United States,2012,12/08/2012,Cycling,0,2,0,2
+Chris Hoy,36,Great Britain,2012,12/08/2012,Cycling,2,0,0,2
+Jason Kenny,24,Great Britain,2012,12/08/2012,Cycling,2,0,0,2
+Maximilian Levy,25,Germany,2012,12/08/2012,Cycling,0,1,1,2
+Anna Meares,28,Australia,2012,12/08/2012,Cycling,1,0,1,2
+Vicki Pendleton,31,Great Britain,2012,12/08/2012,Cycling,1,1,0,2
+Laura Trott,20,Great Britain,2012,12/08/2012,Cycling,2,0,0,2
+Olga Zabelinskaya,32,Russia,2012,12/08/2012,Cycling,0,0,2,2
+Mickaël Bourgain,28,France,2008,24/08/2008,Cycling,0,1,1,2
+Fabian Cancellara,27,Switzerland,2008,24/08/2008,Cycling,1,1,0,2
+Jason Kenny,20,Great Britain,2008,24/08/2008,Cycling,1,1,0,2
+Joan Llaneras,39,Spain,2008,24/08/2008,Cycling,1,1,0,2
+Hayden Roulston,27,New Zealand,2008,24/08/2008,Cycling,0,1,1,2
+Bradley Wiggins,28,Great Britain,2008,24/08/2008,Cycling,2,0,0,2
+Ryan Bayley,22,Australia,2004,29/08/2004,Cycling,2,0,0,2
+Graeme Brown,25,Australia,2004,29/08/2004,Cycling,2,0,0,2
+Sergi Escobar,29,Spain,2004,29/08/2004,Cycling,0,0,2,2
+Rob Hayles,31,Great Britain,2004,29/08/2004,Cycling,0,1,1,2
+Brad McGee,28,Australia,2004,29/08/2004,Cycling,1,1,0,2
+Anna Meares,20,Australia,2004,29/08/2004,Cycling,1,0,1,2
+Stefan Nimke,26,Germany,2004,29/08/2004,Cycling,1,0,1,2
+Olga Slyusareva,35,Russia,2004,29/08/2004,Cycling,1,0,1,2
+Arnaud Tournant,26,France,2004,29/08/2004,Cycling,0,1,1,2
+René Wolff,26,Germany,2004,29/08/2004,Cycling,1,0,1,2
+Leontien Zijlaard-van Moorsel,34,Netherlands,2004,29/08/2004,Cycling,1,0,1,2
+Félicia Ballanger,29,France,2000,01/10/2000,Cycling,2,0,0,2
+Robert Bartko,24,Germany,2000,01/10/2000,Cycling,2,0,0,2
+Jens Fiedler,30,Germany,2000,01/10/2000,Cycling,0,0,2,2
+Jens Lehmann,32,Germany,2000,01/10/2000,Cycling,1,1,0,2
+Gary Neiwand,34,Australia,2000,01/10/2000,Cycling,0,1,1,2
+Jason Queally,30,Great Britain,2000,01/10/2000,Cycling,1,1,0,2
+Jan Ullrich,26,Germany,2000,01/10/2000,Cycling,1,1,0,2
+Lukáš Bauer,32,Czech Republic,2010,28/02/2010,Cross pais Skiing,0,0,2,2
+Anna Haag,23,Sweden,2010,28/02/2010,Cross pais Skiing,0,2,0,2
+Marcus Hellner,24,Sweden,2010,28/02/2010,Cross pais Skiing,2,0,0,2
+Charlotte Kalla,22,Sweden,2010,28/02/2010,Cross pais Skiing,1,1,0,2
+Claudia Künzel-Nystad,32,Germany,2010,28/02/2010,Cross pais Skiing,1,1,0,2
+Aino-Kaisa Saarinen,31,Finland,2010,28/02/2010,Cross pais Skiing,0,0,2,2
+Evi Sachenbacher-Stehle,29,Germany,2010,28/02/2010,Cross pais Skiing,1,1,0,2
+Axel Teichmann,30,Germany,2010,28/02/2010,Cross pais Skiing,0,2,0,2
+Tobias Angerer,28,Germany,2006,26/02/2006,Cross pais Skiing,0,1,1,2
+Yuliya Chepalova,29,Russia,2006,26/02/2006,Cross pais Skiing,1,1,0,2
+Yevgeny Dementyev,23,Russia,2006,26/02/2006,Cross pais Skiing,1,1,0,2
+Giorgio Di Centa,33,Italy,2006,26/02/2006,Cross pais Skiing,2,0,0,2
+Thobias Fredriksson,30,Sweden,2006,26/02/2006,Cross pais Skiing,1,0,1,2
+Claudia Künzel-Nystad,28,Germany,2006,26/02/2006,Cross pais Skiing,0,2,0,2
+Björn Lind,27,Sweden,2006,26/02/2006,Cross pais Skiing,2,0,0,2
+Yevgeniya Medvedeva,29,Russia,2006,26/02/2006,Cross pais Skiing,1,0,1,2
+Katerina Neumannová,32,Czech Republic,2006,26/02/2006,Cross pais Skiing,1,1,0,2
+Pietro Piller Cottrer,31,Italy,2006,26/02/2006,Cross pais Skiing,1,0,1,2
+Kristina Šmigun-Vähi,28,Estonia,2006,26/02/2006,Cross pais Skiing,2,0,0,2
+Thomas Alsgaard,30,Norway,2002,24/02/2002,Cross pais Skiing,2,0,0,2
+Viola Bauer,25,Germany,2002,24/02/2002,Cross pais Skiing,1,0,1,2
+Anita Moen-Guidon,34,Norway,2002,24/02/2002,Cross pais Skiing,0,1,1,2
+Katerina Neumannová,28,Czech Republic,2002,24/02/2002,Cross pais Skiing,0,2,0,2
+Evi Sachenbacher-Stehle,21,Germany,2002,24/02/2002,Cross pais Skiing,1,1,0,2
+Kristen Skjeldal,34,Norway,2002,24/02/2002,Cross pais Skiing,1,0,1,2
+Andrus Veerpalu,31,Estonia,2002,24/02/2002,Cross pais Skiing,1,1,0,2
+Cristian Zorzi,29,Italy,2002,24/02/2002,Cross pais Skiing,0,1,1,2
+Tina Dietze,24,Germany,2012,12/08/2012,Canoeing,1,1,0,2
+Natasa Douchev-Janics,30,Hungary,2012,12/08/2012,Canoeing,0,1,1,2
+Katalin Kovács,36,Hungary,2012,12/08/2012,Canoeing,1,1,0,2
+Danuta Kozák,25,Hungary,2012,12/08/2012,Canoeing,2,0,0,2
+Inna Osypenko-Radomska,29,Ukraine,2012,12/08/2012,Canoeing,0,2,0,2
+Franziska Weber,23,Germany,2012,12/08/2012,Canoeing,1,1,0,2
+Tim Brabants,31,Great Britain,2008,24/08/2008,Canoeing,1,0,1,2
+David Cal,25,Spain,2008,24/08/2008,Canoeing,0,2,0,2
+Natasa Douchev-Janics,26,Hungary,2008,24/08/2008,Canoeing,1,1,0,2
+Christian Gille,32,Germany,2008,24/08/2008,Canoeing,0,1,1,2
+Katalin Kovács,32,Hungary,2008,24/08/2008,Canoeing,1,1,0,2
+Vadim Makhnyov,28,Belarus,2008,24/08/2008,Canoeing,1,0,1,2
+Roman Petrushenko,27,Belarus,2008,24/08/2008,Canoeing,1,0,1,2
+Katrin Wagner-Augustin,30,Germany,2008,24/08/2008,Canoeing,1,0,1,2
+Ken Wallace,25,Australia,2008,24/08/2008,Canoeing,1,0,1,2
+Tomasz Wylenzek,25,Germany,2008,24/08/2008,Canoeing,0,1,1,2
+Nathan Baggaley,28,Australia,2004,29/08/2004,Canoeing,0,2,0,2
+David Cal,21,Spain,2004,29/08/2004,Canoeing,1,1,0,2
+Andreas Dittmer,32,Germany,2004,29/08/2004,Canoeing,1,1,0,2
+Natasa Douchev-Janics,22,Hungary,2004,29/08/2004,Canoeing,2,0,0,2
+Birgit Fischer-Schmidt,42,Germany,2004,29/08/2004,Canoeing,1,1,0,2
+Aleksandr Kostoglod,30,Russia,2004,29/08/2004,Canoeing,0,1,1,2
+Katalin Kovács,28,Hungary,2004,29/08/2004,Canoeing,1,1,0,2
+Aleksandr Kovalyov,29,Russia,2004,29/08/2004,Canoeing,0,1,1,2
+Eirik Verås Larsen,28,Norway,2004,29/08/2004,Canoeing,1,0,1,2
+Carolin Leonhardt,19,Germany,2004,29/08/2004,Canoeing,1,1,0,2
+Adam Van Koeverden,22,Canada,2004,29/08/2004,Canoeing,1,0,1,2
+Andreas Dittmer,28,Germany,2000,01/10/2000,Canoeing,1,0,1,2
+Birgit Fischer-Schmidt,38,Germany,2000,01/10/2000,Canoeing,2,0,0,2
+Knut Holmann,32,Norway,2000,01/10/2000,Canoeing,2,0,0,2
+Zoltán Kammerer,22,Hungary,2000,01/10/2000,Canoeing,2,0,0,2
+Katalin Kovács,24,Hungary,2000,01/10/2000,Canoeing,0,2,0,2
+Petar Merkov,23,Bulgaria,2000,01/10/2000,Canoeing,0,2,0,2
+Florin Popescu,26,Romania,2000,01/10/2000,Canoeing,1,0,1,2
+Mitica Pricop,22,Romania,2000,01/10/2000,Canoeing,1,0,1,2
+Botond Storcz,25,Hungary,2000,01/10/2000,Canoeing,2,0,0,2
+Szilvia Szabó,21,Hungary,2000,01/10/2000,Canoeing,0,2,0,2
+Katrin Wagner-Augustin,22,Germany,2000,01/10/2000,Canoeing,2,0,0,2
+Kevin Kuske,31,Germany,2010,28/02/2010,Bobsleigh,1,1,0,2
+André Lange,36,Germany,2010,28/02/2010,Bobsleigh,1,1,0,2
+Martin Annen,32,Switzerland,2006,26/02/2006,Bobsleigh,0,0,2,2
+Beat Hefti,28,Switzerland,2006,26/02/2006,Bobsleigh,0,0,2,2
+Kevin Kuske,27,Germany,2006,26/02/2006,Bobsleigh,2,0,0,2
+André Lange,32,Germany,2006,26/02/2006,Bobsleigh,2,0,0,2
+Ole Einar Bjørndalen,36,Norway,2010,28/02/2010,Biathlon,1,1,0,2
+Marie Laure Brunet,21,France,2010,28/02/2010,Biathlon,0,1,1,2
+Marie Dorin,23,France,2010,28/02/2010,Biathlon,0,1,1,2
+Simone Hauswald,30,Germany,2010,28/02/2010,Biathlon,0,0,2,2
+Vincent Jay,24,France,2010,28/02/2010,Biathlon,1,0,1,2
+Anastasia Kuzmina,25,Slovakia,2010,28/02/2010,Biathlon,1,1,0,2
+Christoph Sumann,34,Austria,2010,28/02/2010,Biathlon,0,2,0,2
+Yevgeny Ustyugov,24,Russia,2010,28/02/2010,Biathlon,1,0,1,2
+Olga Zaytseva,31,Russia,2010,28/02/2010,Biathlon,1,1,0,2
+Florence Baverel-Robert,31,France,2006,26/02/2006,Biathlon,1,0,1,2
+Vincent Defrasne,28,France,2006,26/02/2006,Biathlon,1,0,1,2
+Halvard Hanevold,36,Norway,2006,26/02/2006,Biathlon,0,1,1,2
+Svetlana Ishmuratova,33,Russia,2006,26/02/2006,Biathlon,2,0,0,2
+Anna-Carin Olofsson-Zidek,32,Sweden,2006,26/02/2006,Biathlon,1,1,0,2
+Uschi Disl,31,Germany,2002,24/02/2002,Biathlon,1,1,0,2
+Sven Fischer,30,Germany,2002,24/02/2002,Biathlon,0,2,0,2
+Ricco Groß,31,Germany,2002,24/02/2002,Biathlon,0,1,1,2
+Andrea Henkel,24,Germany,2002,24/02/2002,Biathlon,2,0,0,2
+Frank Luck,34,Germany,2002,24/02/2002,Biathlon,0,2,0,2
+Raphaël Poirée,27,France,2002,24/02/2002,Biathlon,0,1,1,2
+Olga Pylyova-Medvedtseva,26,Russia,2002,24/02/2002,Biathlon,1,0,1,2
+Liv Grete Skjelbreid-Poirée,27,Norway,2002,24/02/2002,Biathlon,0,2,0,2
+Magdalena Wallin-Forsberg,34,Sweden,2002,24/02/2002,Biathlon,0,0,2,2
+Zhao Yunlei,25,China,2012,12/08/2012,Badminton,2,0,0,2
+Lee Hyo-Jeong,27,South Korea,2008,24/08/2008,Badminton,1,1,0,2
+Yu Yang,22,China,2008,24/08/2008,Badminton,1,0,1,2
+Gao Ling,25,China,2004,29/08/2004,Badminton,1,1,0,2
+Gao Ling,21,China,2000,01/10/2000,Badminton,1,0,1,2
+Nataliya Antyukh,31,Russia,2012,12/08/2012,Athletics,1,1,0,2
+Veronica Campbell-Brown,30,Jamaica,2012,12/08/2012,Athletics,0,1,1,2
+Vivian Cheruiyot,28,Kenya,2012,12/08/2012,Athletics,0,1,1,2
+Will Claye,21,United States,2012,12/08/2012,Athletics,0,1,1,2
+Tirunesh Dibaba,27,Ethiopia,2012,12/08/2012,Athletics,1,0,1,2
+Mo Farah,29,Great Britain,2012,12/08/2012,Athletics,2,0,0,2
+Justin Gatlin,30,United States,2012,12/08/2012,Athletics,0,1,1,2
+Lalonde Gordon,23,Trinidad and Tobago,2012,12/08/2012,Athletics,0,0,2,2
+Sanya Richards-Ross,27,United States,2012,12/08/2012,Athletics,2,0,0,2
+DeeDee Trotter,29,United States,2012,12/08/2012,Athletics,1,0,1,2
+Elvan Abeylegesse,25,Turkey,2008,24/08/2008,Athletics,0,2,0,2
+Kenenisa Bekele,26,Ethiopia,2008,24/08/2008,Athletics,2,0,0,2
+Kerron Clement,22,United States,2008,24/08/2008,Athletics,1,1,0,2
+Tirunesh Dibaba,23,Ethiopia,2008,24/08/2008,Athletics,2,0,0,2
+Walter Dix,22,United States,2008,24/08/2008,Athletics,0,0,2,2
+Allyson Felix,22,United States,2008,24/08/2008,Athletics,1,1,0,2
+Yuliya Gushchina,25,Russia,2008,24/08/2008,Athletics,1,1,0,2
+Tatyana Lebedeva,32,Russia,2008,24/08/2008,Athletics,0,2,0,2
+LaShawn Merritt,22,United States,2008,24/08/2008,Athletics,2,0,0,2
+David Neville,24,United States,2008,24/08/2008,Athletics,1,0,1,2
+Sanya Richards-Ross,23,United States,2008,24/08/2008,Athletics,1,0,1,2
+Kerron Stewart,24,Jamaica,2008,24/08/2008,Athletics,0,1,1,2
+Jared Tallent,23,Australia,2008,24/08/2008,Athletics,0,1,1,2
+Angelo Taylor,29,United States,2008,24/08/2008,Athletics,2,0,0,2
+Richard Thompson,23,Trinidad and Tobago,2008,24/08/2008,Athletics,0,2,0,2
+Jeremy Wariner,24,United States,2008,24/08/2008,Athletics,1,1,0,2
+Shericka Williams,22,Jamaica,2008,24/08/2008,Athletics,0,1,1,2
+Nataliya Antyukh,23,Russia,2004,29/08/2004,Athletics,0,1,1,2
+Kenenisa Bekele,22,Ethiopia,2004,29/08/2004,Athletics,1,1,0,2
+Derrick Brew,26,United States,2004,29/08/2004,Athletics,1,0,1,2
+Shawn Crawford,26,United States,2004,29/08/2004,Athletics,1,1,0,2
+Hicham El Guerrouj,29,Morocco,2004,29/08/2004,Athletics,2,0,0,2
+Maurice Greene,30,United States,2004,29/08/2004,Athletics,0,1,1,2
+Otis Harris,22,United States,2004,29/08/2004,Athletics,1,1,0,2
+Kelly Holmes,34,Great Britain,2004,29/08/2004,Athletics,2,0,0,2
+Tatyana Lebedeva,28,Russia,2004,29/08/2004,Athletics,1,0,1,2
+Jeremy Wariner,20,United States,2004,29/08/2004,Athletics,2,0,0,2
+Ato Boldon,26,Trinidad and Tobago,2000,01/10/2000,Athletics,0,1,1,2
+Pauline Davis-Thompson,34,Bahamas,2000,01/10/2000,Athletics,2,0,0,2
+Lorraine Graham,27,Jamaica,2000,01/10/2000,Athletics,0,2,0,2
+Maurice Greene,26,United States,2000,01/10/2000,Athletics,2,0,0,2
+Greg Haughton,26,Jamaica,2000,01/10/2000,Athletics,0,1,1,2
+Deon Hemmings,31,Jamaica,2000,01/10/2000,Athletics,0,2,0,2
+Robert Korzeniowski,32,Poland,2000,01/10/2000,Athletics,2,0,0,2
+Tayna Lawrence,25,Jamaica,2000,01/10/2000,Athletics,0,2,0,2
+Beverly McDonald,30,Jamaica,2000,01/10/2000,Athletics,0,1,1,2
+Merlene Ottey-Pidade,40,Jamaica,2000,01/10/2000,Athletics,0,1,1,2
+Irina Privalova,31,Russia,2000,01/10/2000,Athletics,1,0,1,2
+Gabriela Szabo,24,Romania,2000,01/10/2000,Athletics,1,0,1,2
+Gete Wami,25,Ethiopia,2000,01/10/2000,Athletics,0,1,1,2
+Elisabeth Görgl,28,Austria,2010,28/02/2010,Alpine Skiing,0,0,2,2
+Lindsey Kildow-Vonn,25,United States,2010,28/02/2010,Alpine Skiing,1,0,1,2
+Ivica Kostelic,30,Croatia,2010,28/02/2010,Alpine Skiing,0,2,0,2
+Julia Mancuso,25,United States,2010,28/02/2010,Alpine Skiing,0,2,0,2
+Tina Maze,26,Slovenia,2010,28/02/2010,Alpine Skiing,0,2,0,2
+Maria Riesch,25,Germany,2010,28/02/2010,Alpine Skiing,2,0,0,2
+Michaela Dorfmeister,32,Austria,2006,26/02/2006,Alpine Skiing,2,0,0,2
+Janica Kostelic,24,Croatia,2006,26/02/2006,Alpine Skiing,1,1,0,2
+Hermann Maier,33,Austria,2006,26/02/2006,Alpine Skiing,0,1,1,2
+Benjamin Raich,27,Austria,2006,26/02/2006,Alpine Skiing,2,0,0,2
+Marlies Schild,24,Austria,2006,26/02/2006,Alpine Skiing,0,1,1,2
+Rainer Schönfelder,28,Austria,2006,26/02/2006,Alpine Skiing,0,0,2,2
+Kjetil André Aamodt,30,Norway,2002,24/02/2002,Alpine Skiing,2,0,0,2
+Renate Götschl,26,Austria,2002,24/02/2002,Alpine Skiing,0,1,1,2
+Lasse Kjus,31,Norway,2002,24/02/2002,Alpine Skiing,0,1,1,2
+Bode Miller,24,United States,2002,24/02/2002,Alpine Skiing,0,2,0,2
+Anja Pärson,20,Sweden,2002,24/02/2002,Alpine Skiing,0,1,1,2
+Benjamin Raich,23,Austria,2002,24/02/2002,Alpine Skiing,0,0,2,2
+Ki Bo-Bae,24,South Korea,2012,12/08/2012,Archery,2,0,0,2
+Oh Jin-Hyek,30,South Korea,2012,12/08/2012,Archery,1,0,1,2
+Park Gyeong-Mo,32,South Korea,2008,24/08/2008,Archery,1,1,0,2
+Park Seong-Hyeon,25,South Korea,2008,24/08/2008,Archery,1,1,0,2
+Yun Ok-Hui,23,South Korea,2008,24/08/2008,Archery,1,0,1,2
+Zhang Juanjuan,27,China,2008,24/08/2008,Archery,1,1,0,2
+Lee Seong-Jin,19,South Korea,2004,29/08/2004,Archery,1,1,0,2
+Park Seong-Hyeon,21,South Korea,2004,29/08/2004,Archery,2,0,0,2
+Kim Nam-Sun,20,South Korea,2000,01/10/2000,Archery,1,1,0,2
+Kim Su-Nyeong,29,South Korea,2000,01/10/2000,Archery,1,0,1,2
+Vic Wunderle,24,United States,2000,01/10/2000,Archery,0,1,1,2
+Yun Mi-Jin,17,South Korea,2000,01/10/2000,Archery,2,0,0,2
+Artur Aleksanyan,20,Armenia,2012,12/08/2012,Wrestling,0,0,1,1
+Valeriy Andriitsev,25,Ukraine,2012,12/08/2012,Wrestling,0,1,0,1
+Rövs?n Bayramov,25,Azerbaijan,2012,12/08/2012,Wrestling,0,1,0,1
+Jordan Burroughs,24,United States,2012,12/08/2012,Wrestling,1,0,0,1
+Clarissa Chun,30,United States,2012,12/08/2012,Wrestling,0,0,1,1
+Yogeshwar Dutt,29,India,2012,12/08/2012,Wrestling,0,0,1,1
+Jaime Espinal,27,Puerto Rico,2012,12/08/2012,Wrestling,0,1,0,1
+Johan Eurén,27,Sweden,2012,12/08/2012,Wrestling,0,0,1,1
+Karam Gaber,32,Egypt,2012,12/08/2012,Wrestling,0,1,0,1
+Daniyal Gadzhiyev,26,Kazakhstan,2012,12/08/2012,Wrestling,0,0,1,1
+Komeil Ghasemi,24,Iran,2012,12/08/2012,Wrestling,0,0,1,1
+Giorgi Gogshelidze,32,Georgia,2012,12/08/2012,Wrestling,0,0,1,1
+Sadegh Goudarzi,24,Iran,2012,12/08/2012,Wrestling,0,1,0,1
+Steeve Guénot,26,France,2012,12/08/2012,Wrestling,0,0,1,1
+Carol Huynh,31,Canada,2012,12/08/2012,Wrestling,0,0,1,1
+Kaori Icho,28,Japan,2012,12/08/2012,Wrestling,1,0,0,1
+Damian Janikowski,23,Poland,2012,12/08/2012,Wrestling,0,0,1,1
+Jing Ruixue,24,China,2012,12/08/2012,Wrestling,0,1,0,1
+Arsen Julfalakyan,25,Armenia,2012,12/08/2012,Wrestling,0,1,0,1
+Riza Kayaalp,22,Turkey,2012,12/08/2012,Wrestling,0,0,1,1
+Aleksandras Kazakevicius,26,Lithuania,2012,12/08/2012,Wrestling,0,0,1,1
+Vladimer Khinchegashvili,21,Georgia,2012,12/08/2012,Wrestling,0,1,0,1
+Alan Khugayev,23,Russia,2012,12/08/2012,Wrestling,1,0,0,1
+Kim Hyeon-Wu,23,South Korea,2012,12/08/2012,Wrestling,1,0,0,1
+Besik Kudukhov,25,Russia,2012,12/08/2012,Wrestling,0,1,0,1
+Sushil Kumar,29,India,2012,12/08/2012,Wrestling,0,1,0,1
+Zaur Kuramagomedov,24,Russia,2012,12/08/2012,Wrestling,0,0,1,1
+Ehsan Naser Lashgari,26,Iran,2012,12/08/2012,Wrestling,0,0,1,1
+Revaz Lashkhi,24,Georgia,2012,12/08/2012,Wrestling,0,1,0,1
+Jimmy Lidberg,30,Sweden,2012,12/08/2012,Wrestling,0,0,1,1
+Liván López,30,Cuba,2012,12/08/2012,Wrestling,0,0,1,1
+Mijaín López,29,Cuba,2012,12/08/2012,Wrestling,1,0,0,1
+Tamás Lorincz,25,Hungary,2012,12/08/2012,Wrestling,0,1,0,1
+Bilyal Makhov,24,Russia,2012,12/08/2012,Wrestling,0,0,1,1
+Gyuzel Manyurova,34,Kazakhstan,2012,12/08/2012,Wrestling,0,0,1,1
+Dato Marsagishvili,21,Georgia,2012,12/08/2012,Wrestling,0,0,1,1
+Ryutaro Matsumoto,26,Japan,2012,12/08/2012,Wrestling,0,0,1,1
+Péter Módos,24,Hungary,2012,12/08/2012,Wrestling,0,0,1,1
+Davit Modzmanashvili,25,Georgia,2012,12/08/2012,Wrestling,0,1,0,1
+Heiki Nabi,27,Estonia,2012,12/08/2012,Wrestling,0,1,0,1
+Omid Noroozi,26,Iran,2012,12/08/2012,Wrestling,1,0,0,1
+Hitomi Obara,31,Japan,2012,12/08/2012,Wrestling,1,0,0,1
+Dzhamal Otarsultanov,25,Russia,2012,12/08/2012,Wrestling,1,0,0,1
+Xetaq Qazyumov,29,Azerbaijan,2012,12/08/2012,Wrestling,0,0,1,1
+Yuliya Ratkeviç,27,Azerbaijan,2012,12/08/2012,Wrestling,0,0,1,1
+Jackeline Rentería,26,Colombia,2012,12/08/2012,Wrestling,0,0,1,1
+Ghasem Rezaei,26,Iran,2012,12/08/2012,Wrestling,1,0,0,1
+Coleman Scott,26,United States,2012,12/08/2012,Wrestling,0,0,1,1
+Mingiyan Semyonov,22,Russia,2012,12/08/2012,Wrestling,0,0,1,1
+Soronzonboldyn Battsetseg,22,Mongolia,2012,12/08/2012,Wrestling,0,0,1,1
+Hamid Soryan,26,Iran,2012,12/08/2012,Wrestling,1,0,0,1
+Mariya Stadnik,24,Azerbaijan,2012,12/08/2012,Wrestling,0,1,0,1
+S?rif S?rifov,23,Azerbaijan,2012,12/08/2012,Wrestling,1,0,0,1
+Akzhurek Tanatarov,25,Kazakhstan,2012,12/08/2012,Wrestling,0,0,1,1
+Artur Taymazov,33,Uzbekistan,2012,12/08/2012,Wrestling,1,0,0,1
+Soslan Tigiyev,28,Uzbekistan,2012,12/08/2012,Wrestling,0,0,1,1
+Rustam Totrov,28,Russia,2012,12/08/2012,Wrestling,0,1,0,1
+Denis Tsargush,24,Russia,2012,12/08/2012,Wrestling,0,0,1,1
+Manuchar Tskhadaia,27,Georgia,2012,12/08/2012,Wrestling,0,0,1,1
+Maider Unda,35,Spain,2012,12/08/2012,Wrestling,0,0,1,1
+Jake Varner,26,United States,2012,12/08/2012,Wrestling,1,0,0,1
+Tonya Verbeek,34,Canada,2012,12/08/2012,Wrestling,0,1,0,1
+Roman Vlasov,21,Russia,2012,12/08/2012,Wrestling,1,0,0,1
+Lyubov Volosova,29,Russia,2012,12/08/2012,Wrestling,0,0,1,1
+Nataliya Vorobyova,21,Russia,2012,12/08/2012,Wrestling,1,0,0,1
+Yang Kyong-Il,23,North Korea,2012,12/08/2012,Wrestling,0,0,1,1
+Tatsuhiro Yonemitsu,26,Japan,2012,12/08/2012,Wrestling,1,0,0,1
+Saori Yoshida,29,Japan,2012,12/08/2012,Wrestling,1,0,0,1
+Shinichi Yumoto,27,Japan,2012,12/08/2012,Wrestling,0,0,1,1
+Stanka Zlateva,29,Bulgaria,2012,12/08/2012,Wrestling,0,1,0,1
+Emin ?hm?dov,25,Azerbaijan,2012,12/08/2012,Wrestling,0,0,1,1
+Togrul ?sg?rov,19,Azerbaijan,2012,12/08/2012,Wrestling,1,0,0,1
+Yusuf Abdusalomov,30,Tajikistan,2008,24/08/2008,Wrestling,0,1,0,1
+Bakhtiyar Akhmedov,21,Russia,2008,24/08/2008,Wrestling,0,1,0,1
+Islam-Beka Albiyev,19,Russia,2008,24/08/2008,Wrestling,1,0,0,1
+Roman Amoyan,24,Armenia,2008,24/08/2008,Wrestling,0,0,1,1
+Nazmi Avluca,31,Turkey,2008,24/08/2008,Wrestling,0,0,1,1
+Khasan Baroyev,25,Russia,2008,24/08/2008,Wrestling,0,1,0,1
+Mavlet Batyrov,24,Russia,2008,24/08/2008,Wrestling,1,0,0,1
+Rövs?n Bayramov,21,Azerbaijan,2008,24/08/2008,Wrestling,0,1,0,1
+Kanat Begaliyev,24,Kyrgyzstan,2008,24/08/2008,Wrestling,0,1,0,1
+Henry Cejudo,21,United States,2008,24/08/2008,Wrestling,1,0,0,1
+Chang Yongxiang,24,China,2008,24/08/2008,Wrestling,0,1,0,1
+Taras Danko,28,Ukraine,2008,24/08/2008,Wrestling,0,0,1,1
+Mirko Englich,29,Germany,2008,24/08/2008,Wrestling,0,1,0,1
+Vasyl Fedoryshyn,27,Ukraine,2008,24/08/2008,Wrestling,0,1,0,1
+Zoltán Fodor,23,Hungary,2008,24/08/2008,Wrestling,0,1,0,1
+Murad Gaydarov,28,Belarus,2008,24/08/2008,Wrestling,0,0,1,1
+Giorgi Gogshelidze,28,Georgia,2008,24/08/2008,Wrestling,0,0,1,1
+Christophe Guénot,29,France,2008,24/08/2008,Wrestling,0,0,1,1
+Steeve Guénot,22,France,2008,24/08/2008,Wrestling,1,0,0,1
+Kyoko Hamaguchi,30,Japan,2008,24/08/2008,Wrestling,0,0,1,1
+Carol Huynh,27,Canada,2008,24/08/2008,Wrestling,1,0,0,1
+Chiharu Icho,26,Japan,2008,24/08/2008,Wrestling,0,1,0,1
+Kaori Icho,24,Japan,2008,24/08/2008,Wrestling,1,0,0,1
+Manuchar K'virk'elia,29,Georgia,2008,24/08/2008,Wrestling,1,0,0,1
+Alyona Kartashova,26,Russia,2008,24/08/2008,Wrestling,0,1,0,1
+Georgy Ketoyev,22,Russia,2008,24/08/2008,Wrestling,0,0,1,1
+Aslanbek Khushtov,28,Russia,2008,24/08/2008,Wrestling,1,0,0,1
+Besik Kudukhov,22,Russia,2008,24/08/2008,Wrestling,0,0,1,1
+Sushil Kumar,25,India,2008,24/08/2008,Wrestling,0,0,1,1
+Mijaín López,25,Cuba,2008,24/08/2008,Wrestling,1,0,0,1
+Aset Mambetov,26,Kazakhstan,2008,24/08/2008,Wrestling,0,0,1,1
+Nazyr Mankiyev,23,Russia,2008,24/08/2008,Wrestling,1,0,0,1
+Tomohiro Matsunaga,28,Japan,2008,24/08/2008,Wrestling,0,1,0,1
+Iryna Merleni-Mykulchyn,26,Ukraine,2008,24/08/2008,Wrestling,0,0,1,1
+Randi Miller,24,United States,2008,24/08/2008,Wrestling,0,0,1,1
+Revaz Mindorashvili,32,Georgia,2008,24/08/2008,Wrestling,1,0,0,1
+Andrea Minguzzi,26,Italy,2008,24/08/2008,Wrestling,1,0,0,1
+Mindaugas Mizgaitis,28,Lithuania,2008,24/08/2008,Wrestling,0,0,1,1
+Seyed Mohammadi,28,Iran,2008,24/08/2008,Wrestling,0,0,1,1
+Sharvani Muradov,23,Russia,2008,24/08/2008,Wrestling,1,0,0,1
+David Musulbes,36,Slovakia,2008,24/08/2008,Wrestling,0,0,1,1
+Marid Mutalimov,28,Kazakhstan,2008,24/08/2008,Wrestling,0,0,1,1
+Park Eun-Chul,27,South Korea,2008,24/08/2008,Wrestling,0,0,1,1
+Yury Patrikeyev,28,Armenia,2008,24/08/2008,Wrestling,0,0,1,1
+Xetaq Qazyumov,25,Azerbaijan,2008,24/08/2008,Wrestling,0,0,1,1
+Jackeline Rentería,22,Colombia,2008,24/08/2008,Wrestling,0,0,1,1
+Vitaliy R?himov,23,Azerbaijan,2008,24/08/2008,Wrestling,0,1,0,1
+Ramazan Sahin,25,Turkey,2008,24/08/2008,Wrestling,1,0,0,1
+Buvaisa Saytiyev,33,Russia,2008,24/08/2008,Wrestling,1,0,0,1
+Mikhail Semyonov,24,Belarus,2008,24/08/2008,Wrestling,0,0,1,1
+Yelena Shalygina,21,Kazakhstan,2008,24/08/2008,Wrestling,0,0,1,1
+Andriy Stadnik,26,Ukraine,2008,24/08/2008,Wrestling,0,1,0,1
+Mariya Stadnik,20,Azerbaijan,2008,24/08/2008,Wrestling,0,0,1,1
+Artur Taymazov,29,Uzbekistan,2008,24/08/2008,Wrestling,1,0,0,1
+Nurbakyt Tengizbayev,25,Kazakhstan,2008,24/08/2008,Wrestling,0,0,1,1
+Kiril Terziev,24,Bulgaria,2008,24/08/2008,Wrestling,0,0,1,1
+Soslan Tigiyev,24,Uzbekistan,2008,24/08/2008,Wrestling,0,1,0,1
+Taymuraz Tigiyev,26,Kazakhstan,2008,24/08/2008,Wrestling,0,1,0,1
+Otar Tushishvili,30,Georgia,2008,24/08/2008,Wrestling,0,0,1,1
+Ruslan Tyumenbayev,22,Kyrgyzstan,2008,24/08/2008,Wrestling,0,0,1,1
+Armen Vardanian,25,Ukraine,2008,24/08/2008,Wrestling,0,0,1,1
+Radoslav Velikov,24,Bulgaria,2008,24/08/2008,Wrestling,0,0,1,1
+Tonya Verbeek,31,Canada,2008,24/08/2008,Wrestling,0,0,1,1
+Wang Jiao,20,China,2008,24/08/2008,Wrestling,1,0,0,1
+Adam Wheeler,27,United States,2008,24/08/2008,Wrestling,0,0,1,1
+Agnieszka Wieszczek,25,Poland,2008,24/08/2008,Wrestling,0,0,1,1
+Xu Li,18,China,2008,24/08/2008,Wrestling,0,1,0,1
+Yavor Yanakiev,23,Bulgaria,2008,24/08/2008,Wrestling,0,0,1,1
+Saori Yoshida,25,Japan,2008,24/08/2008,Wrestling,1,0,0,1
+Kenichi Yumoto,23,Japan,2008,24/08/2008,Wrestling,0,0,1,1
+Stanka Zlateva,25,Bulgaria,2008,24/08/2008,Wrestling,0,1,0,1
+Stephen Abas,26,United States,2004,29/08/2004,Wrestling,0,1,0,1
+Ara Abrahamian,29,Sweden,2004,29/08/2004,Wrestling,0,1,0,1
+Khasan Baroyev,21,Russia,2004,29/08/2004,Wrestling,1,0,0,1
+Mavlet Batyrov,20,Russia,2004,29/08/2004,Wrestling,1,0,0,1
+Aleksandr Dokturishivili,24,Uzbekistan,2004,29/08/2004,Wrestling,1,0,0,1
+Seref Eroglu,28,Turkey,2004,29/08/2004,Wrestling,0,1,0,1
+Iván Fundora,28,Cuba,2004,29/08/2004,Wrestling,0,0,1,1
+Karam Gaber,24,Egypt,2004,29/08/2004,Wrestling,1,0,0,1
+Rulon Gardner,33,United States,2004,29/08/2004,Wrestling,0,0,1,1
+Khadzhimurat Gatsalov,21,Russia,2004,29/08/2004,Wrestling,1,0,0,1
+Lise Golliot-Legrand,27,France,2004,29/08/2004,Wrestling,0,0,1,1
+Anna Gomis,30,France,2004,29/08/2004,Wrestling,0,0,1,1
+Kyoko Hamaguchi,26,Japan,2004,29/08/2004,Wrestling,0,0,1,1
+Ali Reza Heidari,28,Iran,2004,29/08/2004,Wrestling,0,0,1,1
+Magamed Ibragimov,21,Uzbekistan,2004,29/08/2004,Wrestling,0,1,0,1
+Chiharu Icho,22,Japan,2004,29/08/2004,Wrestling,0,1,0,1
+Kaori Icho,20,Japan,2004,29/08/2004,Wrestling,1,0,0,1
+Kenji Inoue,27,Japan,2004,29/08/2004,Wrestling,0,0,1,1
+Jeong Ji-Hyeon,21,South Korea,2004,29/08/2004,Wrestling,1,0,0,1
+Jamill Kelly,26,United States,2004,29/08/2004,Wrestling,0,1,0,1
+Atryom Kyuregyan,27,Greece,2004,29/08/2004,Wrestling,0,0,1,1
+Gennady Laliyev,25,Kazakhstan,2004,29/08/2004,Wrestling,0,1,0,1
+István Majoros,30,Hungary,2004,29/08/2004,Wrestling,1,0,0,1
+Vyacheslav Makarenko,28,Belarus,2004,29/08/2004,Wrestling,0,0,1,1
+Gaydar Mamedaliyev,30,Russia,2004,29/08/2004,Wrestling,0,1,0,1
+Mkhitar Manukyan,31,Kazakhstan,2004,29/08/2004,Wrestling,0,0,1,1
+Gyuzel Manyurova,26,Russia,2004,29/08/2004,Wrestling,0,1,0,1
+Sara McMann,23,United States,2004,29/08/2004,Wrestling,0,1,0,1
+Iryna Merleni-Mykulchyn,22,Ukraine,2004,29/08/2004,Wrestling,1,0,0,1
+Patricia Miranda,25,United States,2004,29/08/2004,Wrestling,0,0,1,1
+Aleksey Mishin,25,Russia,2004,29/08/2004,Wrestling,1,0,0,1
+Roberto Monzón,26,Cuba,2004,29/08/2004,Wrestling,0,1,0,1
+Masoud Moustafa Gokar,26,Iran,2004,29/08/2004,Wrestling,0,1,0,1
+Mun Ui-Je,29,South Korea,2004,29/08/2004,Wrestling,0,1,0,1
+Makhach Murtazaliyev,20,Russia,2004,29/08/2004,Wrestling,0,0,1,1
+F?rid M?nsurov,22,Azerbaijan,2004,29/08/2004,Wrestling,1,0,0,1
+Armen Nazaryan,30,Bulgaria,2004,29/08/2004,Wrestling,0,0,1,1
+Ramaz Nozadze,20,Georgia,2004,29/08/2004,Wrestling,0,1,0,1
+Mehmet Özal,30,Turkey,2004,29/08/2004,Wrestling,0,0,1,1
+Aydin Polatçi,27,Turkey,2004,29/08/2004,Wrestling,0,0,1,1
+Yandro Quintana,24,Cuba,2004,29/08/2004,Wrestling,1,0,0,1
+Ali Reza Rezaei,28,Iran,2004,29/08/2004,Wrestling,0,1,0,1
+Varteres Samurgashev,24,Russia,2004,29/08/2004,Wrestling,0,0,1,1
+Cael Sanderson,25,United States,2004,29/08/2004,Wrestling,1,0,0,1
+Buvaisa Saytiyev,29,Russia,2004,29/08/2004,Wrestling,1,0,0,1
+Sazhid Sazhidov,24,Russia,2004,29/08/2004,Wrestling,0,0,1,1
+Chikara Tanabe,29,Japan,2004,29/08/2004,Wrestling,0,0,1,1
+Artur Taymazov,25,Uzbekistan,2004,29/08/2004,Wrestling,1,0,0,1
+Elbrus Tedieiev,29,Ukraine,2004,29/08/2004,Wrestling,1,0,0,1
+Georgy Tsurtsumia,23,Kazakhstan,2004,29/08/2004,Wrestling,0,1,0,1
+Tonya Verbeek,27,Canada,2004,29/08/2004,Wrestling,0,1,0,1
+Wang Xu,18,China,2004,29/08/2004,Wrestling,1,0,0,1
+Marko Yli-Hannuksela,30,Finland,2004,29/08/2004,Wrestling,0,1,0,1
+Saori Yoshida,21,Japan,2004,29/08/2004,Wrestling,1,0,0,1
+Namiq Abdullayev,29,Azerbaijan,2000,01/10/2000,Wrestling,1,0,0,1
+Filiberto Azcuy,27,Cuba,2000,01/10/2000,Wrestling,1,0,0,1
+Sándor István Bárdosi,23,Hungary,2000,01/10/2000,Wrestling,0,1,0,1
+Serafim Barzakov,25,Bulgaria,2000,01/10/2000,Wrestling,0,1,0,1
+Islam Bayramukov,29,Kazakhstan,2000,01/10/2000,Wrestling,0,1,0,1
+Adem Bereket,27,Turkey,2000,01/10/2000,Wrestling,0,0,1,1
+Terry Brands,32,United States,2000,01/10/2000,Wrestling,0,0,1,1
+Yevhen Buslovych,28,Ukraine,2000,01/10/2000,Wrestling,0,1,0,1
+Ak'ak'i Chachua,31,Georgia,2000,01/10/2000,Wrestling,0,0,1,1
+Ali Reza Dabir,23,Iran,2000,01/10/2000,Wrestling,1,0,0,1
+Dmitry Debelka,24,Belarus,2000,01/10/2000,Wrestling,0,0,1,1
+Rulon Gardner,29,United States,2000,01/10/2000,Wrestling,1,0,0,1
+Arsen Gitinov,23,Russia,2000,01/10/2000,Wrestling,0,1,0,1
+Aleksey Glushkov,25,Russia,2000,01/10/2000,Wrestling,0,0,1,1
+Sammie Henson,29,United States,2000,01/10/2000,Wrestling,0,1,0,1
+Mogamed Ibragimov,26,Macedonia,2000,01/10/2000,Wrestling,0,0,1,1
+Daniel Igali,26,Canada,2000,01/10/2000,Wrestling,1,0,0,1
+Jang Jae-Seong,25,South Korea,2000,01/10/2000,Wrestling,0,0,1,1
+Eldar K'urt'anidze,28,Georgia,2000,01/10/2000,Wrestling,0,0,1,1
+Kang Yong-Gyun,26,North Korea,2000,01/10/2000,Wrestling,0,0,1,1
+Amiran Kardanov,24,Greece,2000,01/10/2000,Wrestling,0,0,1,1
+Murat Kardanov,29,Russia,2000,01/10/2000,Wrestling,1,0,0,1
+Aleksandr Karelin,33,Russia,2000,01/10/2000,Wrestling,0,1,0,1
+Kim In-Seop,27,South Korea,2000,01/10/2000,Wrestling,0,1,0,1
+Matt Lindland,30,United States,2000,01/10/2000,Wrestling,0,1,0,1
+Mikael Ljungberg,30,Sweden,2000,01/10/2000,Wrestling,1,0,0,1
+Garrett Lowney,20,United States,2000,01/10/2000,Wrestling,0,0,1,1
+Juan Luis Marén,29,Cuba,2000,01/10/2000,Wrestling,0,1,0,1
+Lincoln McIlravy,26,United States,2000,01/10/2000,Wrestling,0,0,1,1
+Mun Ui-Je,25,South Korea,2000,01/10/2000,Wrestling,0,1,0,1
+Sagid Murtazaliyev,26,Russia,2000,01/10/2000,Wrestling,1,0,0,1
+David Musulbes,28,Russia,2000,01/10/2000,Wrestling,1,0,0,1
+Katsuhiko Nagata,26,Japan,2000,01/10/2000,Wrestling,0,1,0,1
+Armen Nazaryan,26,Bulgaria,2000,01/10/2000,Wrestling,1,0,0,1
+Lázaro Rivas,25,Cuba,2000,01/10/2000,Wrestling,0,1,0,1
+Alexis Rodríguez,22,Cuba,2000,01/10/2000,Wrestling,0,0,1,1
+Yoel Romero,23,Cuba,2000,01/10/2000,Wrestling,0,1,0,1
+David Saldadze,22,Ukraine,2000,01/10/2000,Wrestling,0,1,0,1
+Varteres Samurgashev,21,Russia,2000,01/10/2000,Wrestling,1,0,0,1
+Adam Saytiyev,22,Russia,2000,01/10/2000,Wrestling,1,0,0,1
+Sheng Zetian,27,China,2000,01/10/2000,Wrestling,0,0,1,1
+Sim Gwon-Ho,27,South Korea,2000,01/10/2000,Wrestling,1,0,0,1
+Brandon Slay,24,United States,2000,01/10/2000,Wrestling,1,0,0,1
+Artur Taymazov,21,Uzbekistan,2000,01/10/2000,Wrestling,0,1,0,1
+Murad Umakhanov,23,Russia,2000,01/10/2000,Wrestling,1,0,0,1
+Mukhran Vakht'angadze,27,Georgia,2000,01/10/2000,Wrestling,0,0,1,1
+Hamza Yerlikaya,24,Turkey,2000,01/10/2000,Wrestling,1,0,0,1
+Marko Yli-Hannuksela,26,Finland,2000,01/10/2000,Wrestling,0,0,1,1
+Ruslan Albegov,24,Russia,2012,12/08/2012,Weightlifting,0,0,1,1
+Sajjad Anoushiravani,28,Iran,2012,12/08/2012,Weightlifting,0,1,0,1
+Apti Aukhadov,19,Russia,2012,12/08/2012,Weightlifting,0,1,0,1
+Bartlomiej Bonk,27,Poland,2012,12/08/2012,Weightlifting,0,0,1,1
+Iván Cambar,28,Cuba,2012,12/08/2012,Weightlifting,0,0,1,1
+Zulfiya Chinshanlo,19,Kazakhstan,2012,12/08/2012,Weightlifting,1,0,0,1
+Anatolii Cîrîcu,23,Moldova,2012,12/08/2012,Weightlifting,0,0,1,1
+Roxana Cocos,23,Romania,2012,12/08/2012,Weightlifting,0,1,0,1
+Oscar Figueroa,29,Colombia,2012,12/08/2012,Weightlifting,0,1,0,1
+Christine Girard,27,Canada,2012,12/08/2012,Weightlifting,0,0,1,1
+Hsu Shu-Ching,21,Chinese Taipei,2012,12/08/2012,Weightlifting,0,1,0,1
+Ilya Ilyin,24,Kazakhstan,2012,12/08/2012,Weightlifting,1,0,0,1
+Cristina Iovu,19,Moldova,2012,12/08/2012,Weightlifting,0,0,1,1
+Eko Irawan,23,Indonesia,2012,12/08/2012,Weightlifting,0,0,1,1
+Aleksandr Ivanov,23,Russia,2012,12/08/2012,Weightlifting,0,1,0,1
+Yuliya Kalina,23,Ukraine,2012,12/08/2012,Weightlifting,0,0,1,1
+Tatyana Kashirina,21,Russia,2012,12/08/2012,Weightlifting,0,1,0,1
+Hripsime Khurshudyan,25,Armenia,2012,12/08/2012,Weightlifting,0,0,1,1
+Kim Un-Guk,23,North Korea,2012,12/08/2012,Weightlifting,1,0,0,1
+Irina Kulesha,26,Belarus,2012,12/08/2012,Weightlifting,0,0,1,1
+Li Xueying,22,China,2012,12/08/2012,Weightlifting,1,0,0,1
+Lin Qingfeng,23,China,2012,12/08/2012,Weightlifting,1,0,0,1
+Lu Haojie,21,China,2012,12/08/2012,Weightlifting,0,1,0,1
+Lu Xiaojun,28,China,2012,12/08/2012,Weightlifting,1,0,0,1
+Maiya Maneza,26,Kazakhstan,2012,12/08/2012,Weightlifting,1,0,0,1
+Razvan Martin,20,Romania,2012,12/08/2012,Weightlifting,0,0,1,1
+Hiromi Miyake,26,Japan,2012,12/08/2012,Weightlifting,0,1,0,1
+Navab Nasirshelal,23,Iran,2012,12/08/2012,Weightlifting,0,1,0,1
+Om Yun-Chol,20,North Korea,2012,12/08/2012,Weightlifting,1,0,0,1
+Svetlana Podobedova,26,Kazakhstan,2012,12/08/2012,Weightlifting,1,0,0,1
+Rim Jong-Sim,19,North Korea,2012,12/08/2012,Weightlifting,1,0,0,1
+Kianoush Rostami,21,Iran,2012,12/08/2012,Weightlifting,0,0,1,1
+Ryang Chun-Hwa,21,North Korea,2012,12/08/2012,Weightlifting,0,0,1,1
+Behdad Salimi,22,Iran,2012,12/08/2012,Weightlifting,1,0,0,1
+Marina Shkermankova,22,Belarus,2012,12/08/2012,Weightlifting,0,0,1,1
+Pimsiri Sirikaew,22,Thailand,2012,12/08/2012,Weightlifting,0,1,0,1
+Oleksiy Torokhtiy,26,Ukraine,2012,12/08/2012,Weightlifting,1,0,0,1
+Triyatno,24,Indonesia,2012,12/08/2012,Weightlifting,0,1,0,1
+Svetlana Tsarukayeva,24,Russia,2012,12/08/2012,Weightlifting,0,1,0,1
+Wang Mingjuan,26,China,2012,12/08/2012,Weightlifting,1,0,0,1
+Wu Jingbiao,23,China,2012,12/08/2012,Weightlifting,0,1,0,1
+Valentin Xristov,18,Azerbaijan,2012,12/08/2012,Weightlifting,0,0,1,1
+Nataliya Zabolotnaya,26,Russia,2012,12/08/2012,Weightlifting,0,1,0,1
+Zhou Lulu,24,China,2012,12/08/2012,Weightlifting,1,0,0,1
+Adrian Zielinski,23,Poland,2012,12/08/2012,Weightlifting,1,0,0,1
+Khadzhimurat Akkayev,23,Russia,2008,24/08/2008,Weightlifting,0,0,1,1
+Andrey Aryamnov,20,Belarus,2008,24/08/2008,Weightlifting,1,0,0,1
+Cao Lei,24,China,2008,24/08/2008,Weightlifting,1,0,0,1
+Chen Wei-Ling,26,Chinese Taipei,2008,24/08/2008,Weightlifting,0,0,1,1
+Chen Xiexia,25,China,2008,24/08/2008,Weightlifting,1,0,0,1
+Chen Yanqing,29,China,2008,24/08/2008,Weightlifting,1,0,0,1
+Yevgeny Chigishev,29,Russia,2008,24/08/2008,Weightlifting,0,1,0,1
+Vencelas Dabaya,27,France,2008,24/08/2008,Weightlifting,0,1,0,1
+Gevorg Davtyan,25,Armenia,2008,24/08/2008,Weightlifting,0,0,1,1
+Nataliya Davydova,23,Ukraine,2008,24/08/2008,Weightlifting,0,0,1,1
+Mariya Grabovetskaya,21,Kazakhstan,2008,24/08/2008,Weightlifting,0,0,1,1
+Hoàng Anh Tu?n,23,Vietnam,2008,24/08/2008,Weightlifting,0,1,0,1
+Ilya Ilyin,20,Kazakhstan,2008,24/08/2008,Weightlifting,1,0,0,1
+Eko Irawan,19,Indonesia,2008,24/08/2008,Weightlifting,0,0,1,1
+Jang Mi-Ran,24,South Korea,2008,24/08/2008,Weightlifting,1,0,0,1
+Prapawadee Jaroenrattanatarakoon,24,Thailand,2008,24/08/2008,Weightlifting,1,0,0,1
+Dmitry Klokov,25,Russia,2008,24/08/2008,Weightlifting,0,1,0,1
+Olha Korobka,22,Ukraine,2008,24/08/2008,Weightlifting,0,1,0,1
+Szymon Kolecki,26,Poland,2008,24/08/2008,Weightlifting,0,1,0,1
+Dmitry Lapikov,26,Russia,2008,24/08/2008,Weightlifting,0,0,1,1
+Li Hongli,27,China,2008,24/08/2008,Weightlifting,0,1,0,1
+Liao Hui,20,China,2008,24/08/2008,Weightlifting,1,0,0,1
+Liu Chunhong,25,China,2008,24/08/2008,Weightlifting,1,0,0,1
+Long Qingquan,17,China,2008,24/08/2008,Weightlifting,1,0,0,1
+Lu Ying-Chi,23,Chinese Taipei,2008,24/08/2008,Weightlifting,0,0,1,1
+Lu Yong,22,China,2008,24/08/2008,Weightlifting,1,0,0,1
+Tigran G. Martirosyan,20,Armenia,2008,24/08/2008,Weightlifting,0,0,1,1
+Tigran V. Martirosyan,25,Armenia,2008,24/08/2008,Weightlifting,0,0,1,1
+Irina Nekrasova,20,Kazakhstan,2008,24/08/2008,Weightlifting,0,1,0,1
+Anastasiya Novikova,26,Belarus,2008,24/08/2008,Weightlifting,0,0,1,1
+O Jong-Ae,24,North Korea,2008,24/08/2008,Weightlifting,0,0,1,1
+Sibel Özkan,20,Turkey,2008,24/08/2008,Weightlifting,0,1,0,1
+Pak Hyon-Suk,23,North Korea,2008,24/08/2008,Weightlifting,1,0,0,1
+Andrey Rybakov,26,Belarus,2008,24/08/2008,Weightlifting,0,1,0,1
+Sa Jae-Hyeok,23,South Korea,2008,24/08/2008,Weightlifting,1,0,0,1
+Diego Fernando Salazar,27,Colombia,2008,24/08/2008,Weightlifting,0,1,0,1
+Viktors Šcerbatihs,33,Latvia,2008,24/08/2008,Weightlifting,0,0,1,1
+Marina Shainova,22,Russia,2008,24/08/2008,Weightlifting,0,1,0,1
+Oksana Slivenko,21,Russia,2008,24/08/2008,Weightlifting,0,1,0,1
+Matthias Steiner,25,Germany,2008,24/08/2008,Weightlifting,1,0,0,1
+Triyatno,20,Indonesia,2008,24/08/2008,Weightlifting,0,0,1,1
+Alla Vazhenina,25,Kazakhstan,2008,24/08/2008,Weightlifting,0,1,0,1
+Nadezhda Yevstyukhina,20,Russia,2008,24/08/2008,Weightlifting,0,0,1,1
+Yoon Jin-Hee,22,South Korea,2008,24/08/2008,Weightlifting,0,1,0,1
+Zhang Xiangxiang,25,China,2008,24/08/2008,Weightlifting,1,0,0,1
+Khadzhimurat Akkayev,19,Russia,2004,29/08/2004,Weightlifting,0,1,0,1
+Sedat Artuç,28,Turkey,2004,29/08/2004,Weightlifting,0,0,1,1
+Giorgi Asanidze,28,Georgia,2004,29/08/2004,Weightlifting,1,0,0,1
+Anna Batyushko,22,Belarus,2004,29/08/2004,Weightlifting,0,1,0,1
+Dmitry Berestov,24,Russia,2004,29/08/2004,Weightlifting,1,0,0,1
+Chen Yanqing,25,China,2004,29/08/2004,Weightlifting,1,0,0,1
+Veliçko Çolakov,22,Bulgaria,2004,29/08/2004,Weightlifting,0,0,1,1
+Pyrros Dimas,32,Greece,2004,29/08/2004,Weightlifting,0,0,1,1
+Milen Dobrev,24,Bulgaria,2004,29/08/2004,Weightlifting,1,0,0,1
+Sergey Filimonov,29,Kazakhstan,2004,29/08/2004,Weightlifting,0,1,0,1
+Jang Mi-Ran,20,South Korea,2004,29/08/2004,Weightlifting,0,1,0,1
+Wandee Kameaim,26,Thailand,2004,29/08/2004,Weightlifting,0,0,1,1
+Zarema Kasayeva,17,Russia,2004,29/08/2004,Weightlifting,0,0,1,1
+Eszter Krutzler,23,Hungary,2004,29/08/2004,Weightlifting,0,1,0,1
+Le Maosheng,26,China,2004,29/08/2004,Weightlifting,0,1,0,1
+Lee Bae-Yeong,24,South Korea,2004,29/08/2004,Weightlifting,0,1,0,1
+Li Zhuo,22,China,2004,29/08/2004,Weightlifting,0,1,0,1
+Liu Chunhong,21,China,2004,29/08/2004,Weightlifting,1,0,0,1
+Mabel Mosquera,35,Colombia,2004,29/08/2004,Weightlifting,0,0,1,1
+Halil Mutlu,31,Turkey,2004,29/08/2004,Weightlifting,1,0,0,1
+Oleg Perepechonov,28,Russia,2004,29/08/2004,Weightlifting,0,0,1,1
+Nikolay Peshalov,34,Croatia,2004,29/08/2004,Weightlifting,0,0,1,1
+Gleb Pisarevsky,28,Russia,2004,29/08/2004,Weightlifting,0,0,1,1
+Udomporn Polsak,22,Thailand,2004,29/08/2004,Weightlifting,1,0,0,1
+Valentina Popova,31,Russia,2004,29/08/2004,Weightlifting,0,0,1,1
+Ihor Razoronov,34,Ukraine,2004,29/08/2004,Weightlifting,0,1,0,1
+Hossein Reza Zadeh,26,Iran,2004,29/08/2004,Weightlifting,1,0,0,1
+Ri Song-Hui,25,North Korea,2004,29/08/2004,Weightlifting,0,1,0,1
+Israel José Rubio,23,Venezuela,2004,29/08/2004,Weightlifting,0,0,1,1
+Raema Lisa Rumbewas,23,Indonesia,2004,29/08/2004,Weightlifting,0,1,0,1
+Andrey Rybakov,22,Belarus,2004,29/08/2004,Weightlifting,0,1,0,1
+Taner Sagir,19,Turkey,2004,29/08/2004,Weightlifting,1,0,0,1
+Viktors Šcerbatihs,29,Latvia,2004,29/08/2004,Weightlifting,0,1,0,1
+Shi Zhiyong,24,China,2004,29/08/2004,Weightlifting,1,0,0,1
+Nataliya Skakun,23,Ukraine,2004,29/08/2004,Weightlifting,1,0,0,1
+Tatyana Stukalova,28,Belarus,2004,29/08/2004,Weightlifting,0,0,1,1
+Tang Gonghong,25,China,2004,29/08/2004,Weightlifting,1,0,0,1
+Nurcan Taylan,20,Turkey,2004,29/08/2004,Weightlifting,1,0,0,1
+Pawina Thongsuk,25,Thailand,2004,29/08/2004,Weightlifting,1,0,0,1
+Eduard Tyukin,26,Russia,2004,29/08/2004,Weightlifting,0,0,1,1
+Aree Wiratthaworn,24,Thailand,2004,29/08/2004,Weightlifting,0,0,1,1
+Agata Wróbel,22,Poland,2004,29/08/2004,Weightlifting,0,0,1,1
+Wu Meijin,24,China,2004,29/08/2004,Weightlifting,0,1,0,1
+Nataliya Zabolotnaya,19,Russia,2004,29/08/2004,Weightlifting,0,1,0,1
+Zhang Guozheng,29,China,2004,29/08/2004,Weightlifting,1,0,0,1
+Giorgi Asanidze,25,Georgia,2000,01/10/2000,Weightlifting,0,0,1,1
+Galabin Boevski,25,Bulgaria,2000,01/10/2000,Weightlifting,1,0,0,1
+Andrey Chemerkin,28,Russia,2000,01/10/2000,Weightlifting,0,0,1,1
+Chen Xiaomin,23,China,2000,01/10/2000,Weightlifting,1,0,0,1
+Pyrros Dimas,28,Greece,2000,01/10/2000,Weightlifting,1,0,0,1
+Ding Meiyuan,20,China,2000,01/10/2000,Weightlifting,1,0,0,1
+Cheryl Haworth,17,United States,2000,01/10/2000,Weightlifting,0,0,1,1
+Marc Huster,30,Germany,2000,01/10/2000,Weightlifting,0,1,0,1
+Sri Indriyani,21,Indonesia,2000,01/10/2000,Weightlifting,0,0,1,1
+Soraya Jiménez,23,Mexico,2000,01/10/2000,Weightlifting,1,0,0,1
+Akakios Kakiasvili,31,Greece,2000,01/10/2000,Weightlifting,1,0,0,1
+Ioanna Khatziioannou,26,Greece,2000,01/10/2000,Weightlifting,0,0,1,1
+Szymon Kolecki,18,Poland,2000,01/10/2000,Weightlifting,0,1,0,1
+Kuo Yi-Hang,25,Chinese Taipei,2000,01/10/2000,Weightlifting,0,0,1,1
+Sergey Lavrenov,28,Belarus,2000,01/10/2000,Weightlifting,0,0,1,1
+Li Feng-Ying,25,Chinese Taipei,2000,01/10/2000,Weightlifting,0,1,0,1
+Lin Weining,21,China,2000,01/10/2000,Weightlifting,1,0,0,1
+Karnam Malleswari,25,India,2000,01/10/2000,Weightlifting,0,0,1,1
+Georgi Markov,22,Bulgaria,2000,01/10/2000,Weightlifting,0,1,0,1
+Erzsébet Márkus-Peresztegi,31,Hungary,2000,01/10/2000,Weightlifting,0,1,0,1
+Arsen Melikyan,24,Armenia,2000,01/10/2000,Weightlifting,0,0,1,1
+Viktor Mitrou,27,Greece,2000,01/10/2000,Weightlifting,0,1,0,1
+Halil Mutlu,27,Turkey,2000,01/10/2000,Weightlifting,1,0,0,1
+Tara Nott-Cunningham,28,United States,2000,01/10/2000,Weightlifting,1,0,0,1
+Ruth Ogbeifo,28,Nigeria,2000,01/10/2000,Weightlifting,0,1,0,1
+Gennady Oleshchuk,24,Belarus,2000,01/10/2000,Weightlifting,0,0,1,1
+Nikolay Peshalov,30,Croatia,2000,01/10/2000,Weightlifting,1,0,0,1
+Aleksey Petrov,26,Russia,2000,01/10/2000,Weightlifting,0,0,1,1
+Valentina Popova,27,Russia,2000,01/10/2000,Weightlifting,0,1,0,1
+Hossein Reza Zadeh,22,Iran,2000,01/10/2000,Weightlifting,1,0,0,1
+Ri Song-Hui,21,North Korea,2000,01/10/2000,Weightlifting,0,1,0,1
+Raema Lisa Rumbewas,19,Indonesia,2000,01/10/2000,Weightlifting,0,1,0,1
+Leonidas Sabanis,28,Greece,2000,01/10/2000,Weightlifting,0,1,0,1
+Asaad Said Saif,21,Qatar,2000,01/10/2000,Weightlifting,0,0,1,1
+Winarni Binti Slamet,24,Indonesia,2000,01/10/2000,Weightlifting,0,0,1,1
+Khassaraporn Suta,28,Thailand,2000,01/10/2000,Weightlifting,0,0,1,1
+Hossein Tavakoli,22,Iran,2000,01/10/2000,Weightlifting,1,0,0,1
+Alan Tsagaev,23,Bulgaria,2000,01/10/2000,Weightlifting,0,1,0,1
+María Isabel Urrutia,35,Colombia,2000,01/10/2000,Weightlifting,1,0,0,1
+Ronny Weller,31,Germany,2000,01/10/2000,Weightlifting,0,1,0,1
+Agata Wróbel,19,Poland,2000,01/10/2000,Weightlifting,0,1,0,1
+Wu Wenxiong,19,China,2000,01/10/2000,Weightlifting,0,1,0,1
+Yang Xia,22,China,2000,01/10/2000,Weightlifting,1,0,0,1
+Zhan Xugang,26,China,2000,01/10/2000,Weightlifting,1,0,0,1
+Zhang Xiangxiang,17,China,2000,01/10/2000,Weightlifting,0,0,1,1
+Matteo Aicardi,26,Italy,2012,12/08/2012,Waterpolo,0,1,0,1
+Milan Aleksic,26,Serbia,2012,12/08/2012,Waterpolo,0,0,1,1
+Betsey Armstrong,29,United States,2012,12/08/2012,Waterpolo,1,0,0,1
+Marta Bach,19,Spain,2012,12/08/2012,Waterpolo,0,1,0,1
+Samir Barac,38,Croatia,2012,12/08/2012,Waterpolo,1,0,0,1
+Gemma Beadsworth,25,Australia,2012,12/08/2012,Waterpolo,0,0,1,1
+Andrea Blas,20,Spain,2012,12/08/2012,Waterpolo,0,1,0,1
+Miho Boškovic,29,Croatia,2012,12/08/2012,Waterpolo,1,0,0,1
+Victoria Brown,27,Australia,2012,12/08/2012,Waterpolo,0,0,1,1
+Ivan Buljubašic,24,Croatia,2012,12/08/2012,Waterpolo,1,0,0,1
+Damir Buric,31,Croatia,2012,12/08/2012,Waterpolo,1,0,0,1
+Andro Bušlje,26,Croatia,2012,12/08/2012,Waterpolo,1,0,0,1
+Kami Craig,25,United States,2012,12/08/2012,Waterpolo,1,0,0,1
+Nikša Dobud,26,Croatia,2012,12/08/2012,Waterpolo,1,0,0,1
+Annika Dries,20,United States,2012,12/08/2012,Waterpolo,1,0,0,1
+Anna Espar,19,Spain,2012,12/08/2012,Waterpolo,0,1,0,1
+Laura Ester,22,Spain,2012,12/08/2012,Waterpolo,0,1,0,1
+Maurizio Felugo,31,Italy,2012,12/08/2012,Waterpolo,0,1,0,1
+Pietro Figlioli,28,Italy,2012,12/08/2012,Waterpolo,0,1,0,1
+Filip Filipovic,25,Serbia,2012,12/08/2012,Waterpolo,0,0,1,1
+Deni Fiorentini,28,Italy,2012,12/08/2012,Waterpolo,0,1,0,1
+Valentino Gallo,27,Italy,2012,12/08/2012,Waterpolo,0,1,0,1
+Maica García,21,Spain,2012,12/08/2012,Waterpolo,0,1,0,1
+Massimo Giacoppo,29,Italy,2012,12/08/2012,Waterpolo,0,1,0,1
+Alex Giorgetti,24,Italy,2012,12/08/2012,Waterpolo,0,1,0,1
+Niccolò Gitto,25,Italy,2012,12/08/2012,Waterpolo,0,1,0,1
+Živko Gocic,29,Serbia,2012,12/08/2012,Waterpolo,0,0,1,1
+Kate Gynther,30,Australia,2012,12/08/2012,Waterpolo,0,0,1,1
+Igor Hinic,36,Croatia,2012,12/08/2012,Waterpolo,1,0,0,1
+Maro Jokovic,24,Croatia,2012,12/08/2012,Waterpolo,1,0,0,1
+Bronwen Knox,26,Australia,2012,12/08/2012,Waterpolo,0,0,1,1
+Holly Lincoln-Smith,24,Australia,2012,12/08/2012,Waterpolo,0,0,1,1
+Laura López,24,Spain,2012,12/08/2012,Waterpolo,0,1,0,1
+Dušan Mandic,18,Serbia,2012,12/08/2012,Waterpolo,0,0,1,1
+Courtney Mathewson,25,United States,2012,12/08/2012,Waterpolo,1,0,0,1
+Alicia McCormack,29,Australia,2012,12/08/2012,Waterpolo,0,0,1,1
+Ona Meseguer,24,Spain,2012,12/08/2012,Waterpolo,0,1,0,1
+Lorena Miranda,21,Spain,2012,12/08/2012,Waterpolo,0,1,0,1
+Stefan Mitrovic,24,Serbia,2012,12/08/2012,Waterpolo,0,0,1,1
+Jane Moran,27,Australia,2012,12/08/2012,Waterpolo,0,0,1,1
+Petar Muslim,24,Croatia,2012,12/08/2012,Waterpolo,1,0,0,1
+Slobodan Nikic,29,Serbia,2012,12/08/2012,Waterpolo,0,0,1,1
+Paulo Obradovic,26,Croatia,2012,12/08/2012,Waterpolo,1,0,0,1
+Mati Ortíz,21,Spain,2012,12/08/2012,Waterpolo,0,1,0,1
+Jenny Pareja,28,Spain,2012,12/08/2012,Waterpolo,0,1,0,1
+Giacomo Pastorino,32,Italy,2012,12/08/2012,Waterpolo,0,1,0,1
+Josip Pavic,30,Croatia,2012,12/08/2012,Waterpolo,1,0,0,1
+Pilar Peña,26,Spain,2012,12/08/2012,Waterpolo,0,1,0,1
+Amaurys Perez,36,Italy,2012,12/08/2012,Waterpolo,0,1,0,1
+Heather Petri,34,United States,2012,12/08/2012,Waterpolo,1,0,0,1
+Duško Pijetlovic,27,Serbia,2012,12/08/2012,Waterpolo,0,0,1,1
+Gojko Pijetlovic,28,Serbia,2012,12/08/2012,Waterpolo,0,0,1,1
+Danijel Premuš,31,Italy,2012,12/08/2012,Waterpolo,0,1,0,1
+Christian Presciutti,29,Italy,2012,12/08/2012,Waterpolo,0,1,0,1
+Andrija Prlainovic,25,Serbia,2012,12/08/2012,Waterpolo,0,0,1,1
+Glencora Ralph,24,Australia,2012,12/08/2012,Waterpolo,0,0,1,1
+Nikola Raden,27,Serbia,2012,12/08/2012,Waterpolo,0,0,1,1
+Mel Rippon,31,Australia,2012,12/08/2012,Waterpolo,0,0,1,1
+Kelly Rulon,28,United States,2012,12/08/2012,Waterpolo,1,0,0,1
+Aleksa Šaponjic,20,Serbia,2012,12/08/2012,Waterpolo,0,0,1,1
+Melissa Seidemann,22,United States,2012,12/08/2012,Waterpolo,1,0,0,1
+Sophie Smith,26,Australia,2012,12/08/2012,Waterpolo,0,0,1,1
+Slobodan Soro,33,Serbia,2012,12/08/2012,Waterpolo,0,0,1,1
+Ash Southern,19,Australia,2012,12/08/2012,Waterpolo,0,0,1,1
+Jessica Steffens,25,United States,2012,12/08/2012,Waterpolo,1,0,0,1
+Maggie Steffens,19,United States,2012,12/08/2012,Waterpolo,1,0,0,1
+Sandro Sukno,22,Croatia,2012,12/08/2012,Waterpolo,1,0,0,1
+Roser Tarragó,19,Spain,2012,12/08/2012,Waterpolo,0,1,0,1
+Stefano Tempesti,33,Italy,2012,12/08/2012,Waterpolo,0,1,0,1
+Vanja Udovicic,29,Serbia,2012,12/08/2012,Waterpolo,0,0,1,1
+Frano Vican,36,Croatia,2012,12/08/2012,Waterpolo,1,0,0,1
+Brenda Villa,32,United States,2012,12/08/2012,Waterpolo,1,0,0,1
+Rowie Webster,24,Australia,2012,12/08/2012,Waterpolo,0,0,1,1
+Lauren Wenger,28,United States,2012,12/08/2012,Waterpolo,1,0,0,1
+Elsie Windes,27,United States,2012,12/08/2012,Waterpolo,1,0,0,1
+Nicola Zagame,22,Australia,2012,12/08/2012,Waterpolo,0,0,1,1
+Betsey Armstrong,25,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Tony Azevedo,26,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Ryan Bailey,32,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Gemma Beadsworth,21,Australia,2008,24/08/2008,Waterpolo,0,0,1,1
+Layne Beaubien,32,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Tibor Benedek,36,Hungary,2008,24/08/2008,Waterpolo,1,0,0,1
+Péter Biros,32,Hungary,2008,24/08/2008,Waterpolo,1,0,0,1
+Brandon Brooks,27,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Mieke Cabout,22,Netherlands,2008,24/08/2008,Waterpolo,1,0,0,1
+Patty Cardenas,23,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Aleksandar Ciric,30,Serbia,2008,24/08/2008,Waterpolo,0,0,1,1
+Kami Craig,21,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Nikita Cuffe,28,Australia,2008,24/08/2008,Waterpolo,0,0,1,1
+Daniëlle de Bruijn,30,Netherlands,2008,24/08/2008,Waterpolo,1,0,0,1
+Filip Filipovic,21,Serbia,2008,24/08/2008,Waterpolo,0,0,1,1
+Suzie Fraser,19,Australia,2008,24/08/2008,Waterpolo,0,0,1,1
+István Gergely,31,Hungary,2008,24/08/2008,Waterpolo,1,0,0,1
+Živko Gocic,25,Serbia,2008,24/08/2008,Waterpolo,0,0,1,1
+Taniele Gofers,23,Australia,2008,24/08/2008,Waterpolo,0,0,1,1
+Natalie ouroa,26,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Alison Gregorka,23,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Rianne Guichelaar,24,Netherlands,2008,24/08/2008,Waterpolo,1,0,0,1
+Kate Gynther,26,Australia,2008,24/08/2008,Waterpolo,0,0,1,1
+Biurakn Hakhverdian,22,Netherlands,2008,24/08/2008,Waterpolo,1,0,0,1
+Brittany Hayes,23,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Amy Hetzel,25,Australia,2008,24/08/2008,Waterpolo,0,0,1,1
+Jaime Hipp,26,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Norbert Hosnyánszky,24,Hungary,2008,24/08/2008,Waterpolo,1,0,0,1
+Peter Hudnut,28,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Tim Hutten,23,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Tamás Kásás,32,Hungary,2008,24/08/2008,Waterpolo,1,0,0,1
+Gábor Kis,25,Hungary,2008,24/08/2008,Waterpolo,1,0,0,1
+Gergo Kiss,30,Hungary,2008,24/08/2008,Waterpolo,1,0,0,1
+Noeki Klein,25,Netherlands,2008,24/08/2008,Waterpolo,1,0,0,1
+Bronwen Knox,22,Australia,2008,24/08/2008,Waterpolo,0,0,1,1
+Emma Knox,30,Australia,2008,24/08/2008,Waterpolo,0,0,1,1
+Simone Koot,27,Netherlands,2008,24/08/2008,Waterpolo,1,0,0,1
+J. W. Krumpholz,20,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Norbert Madaras,28,Hungary,2008,24/08/2008,Waterpolo,1,0,0,1
+Alicia McCormack,25,Australia,2008,24/08/2008,Waterpolo,0,0,1,1
+Rick Merlo,26,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Tamás Molnár,33,Hungary,2008,24/08/2008,Waterpolo,1,0,0,1
+Merrill Moses,30,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Branko Pekovic,29,Serbia,2008,24/08/2008,Waterpolo,0,0,1,1
+Heather Petri,30,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Duško Pijetlovic,23,Serbia,2008,24/08/2008,Waterpolo,0,0,1,1
+Jeff Powers,28,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Andrija Prlainovic,21,Serbia,2008,24/08/2008,Waterpolo,0,0,1,1
+Nikola Raden,23,Serbia,2008,24/08/2008,Waterpolo,0,0,1,1
+Bec Rippon,29,Australia,2008,24/08/2008,Waterpolo,0,0,1,1
+Mel Rippon,27,Australia,2008,24/08/2008,Waterpolo,0,0,1,1
+Jenna Santoromito,21,Australia,2008,24/08/2008,Waterpolo,0,0,1,1
+Mia Santoromito,23,Australia,2008,24/08/2008,Waterpolo,0,0,1,1
+Aleksandar Šapic,30,Serbia,2008,24/08/2008,Waterpolo,0,0,1,1
+Dejan Savic,33,Serbia,2008,24/08/2008,Waterpolo,0,0,1,1
+Denis Šefik,31,Serbia,2008,24/08/2008,Waterpolo,0,0,1,1
+Alette Sijbring,26,Netherlands,2008,24/08/2008,Waterpolo,1,0,0,1
+Yasemin Smit,23,Netherlands,2008,24/08/2008,Waterpolo,1,0,0,1
+Jesse Smith,25,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Slobodan Soro,29,Serbia,2008,24/08/2008,Waterpolo,0,0,1,1
+Jessica Steffens,21,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Zoltán Szécsi,30,Hungary,2008,24/08/2008,Waterpolo,1,0,0,1
+Vanja Udovicic,25,Serbia,2008,24/08/2008,Waterpolo,0,0,1,1
+Iefke van Belkum,22,Netherlands,2008,24/08/2008,Waterpolo,1,0,0,1
+Gillian van den Berg,36,Netherlands,2008,24/08/2008,Waterpolo,1,0,0,1
+Marieke van den Ham,25,Netherlands,2008,24/08/2008,Waterpolo,1,0,0,1
+Ilse van der Meijden,19,Netherlands,2008,24/08/2008,Waterpolo,1,0,0,1
+Moriah Van Norman,24,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Peter Varellas,23,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Dániel Varga,24,Hungary,2008,24/08/2008,Waterpolo,1,0,0,1
+Dénes Varga,21,Hungary,2008,24/08/2008,Waterpolo,1,0,0,1
+Tamás Varga,33,Hungary,2008,24/08/2008,Waterpolo,1,0,0,1
+Brenda Villa,28,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Vlada Vujasinovic,34,Serbia,2008,24/08/2008,Waterpolo,0,0,1,1
+Lauren Wenger,24,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Elsie Windes,23,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Adam Wright,31,United States,2008,24/08/2008,Waterpolo,0,1,0,1
+Carmela Allucci,34,Italy,2004,29/08/2004,Waterpolo,1,0,0,1
+Alexandra Araujo,32,Italy,2004,29/08/2004,Waterpolo,1,0,0,1
+Dimitra Asilian,32,Greece,2004,29/08/2004,Waterpolo,0,1,0,1
+Roman Balashov,27,Russia,2004,29/08/2004,Waterpolo,0,0,1,1
+Robin Beauregard,25,United States,2004,29/08/2004,Waterpolo,0,0,1,1
+Tibor Benedek,32,Hungary,2004,29/08/2004,Waterpolo,1,0,0,1
+Péter Biros,28,Hungary,2004,29/08/2004,Waterpolo,1,0,0,1
+Silvia Bosurgi,25,Italy,2004,29/08/2004,Waterpolo,1,0,0,1
+Revaz Chomakhidze,30,Russia,2004,29/08/2004,Waterpolo,0,0,1,1
+Aleksandar Ciric,26,Serbia and Montenegro,2004,29/08/2004,Waterpolo,0,1,0,1
+Francesca Conti,32,Italy,2004,29/08/2004,Waterpolo,1,0,0,1
+Tania Di Mario,25,Italy,2004,29/08/2004,Waterpolo,1,0,0,1
+Margaret Dingeldein,24,United States,2004,29/08/2004,Waterpolo,0,0,1,1
+Georgia Ellinaki,30,Greece,2004,29/08/2004,Waterpolo,0,1,0,1
+Ellen Estes,25,United States,2004,29/08/2004,Waterpolo,0,0,1,1
+Aleksandr Fedorov,23,Russia,2004,29/08/2004,Waterpolo,0,0,1,1
+Rajmund Fodor,28,Hungary,2004,29/08/2004,Waterpolo,1,0,0,1
+Jacqueline Frank,24,United States,2004,29/08/2004,Waterpolo,0,0,1,1
+Sergey Garbuzov,30,Russia,2004,29/08/2004,Waterpolo,0,0,1,1
+István Gergely,27,Hungary,2004,29/08/2004,Waterpolo,1,0,0,1
+Elena Gigli,19,Italy,2004,29/08/2004,Waterpolo,1,0,0,1
+Vladimir Gojkovic,23,Serbia and Montenegro,2004,29/08/2004,Waterpolo,0,1,0,1
+Natalie ouroa,22,United States,2004,29/08/2004,Waterpolo,0,0,1,1
+Dmitry Gorshkov,37,Russia,2004,29/08/2004,Waterpolo,0,0,1,1
+Melania Grego,31,Italy,2004,29/08/2004,Waterpolo,1,0,0,1
+Danilo Ikodinovic,27,Serbia and Montenegro,2004,29/08/2004,Waterpolo,0,1,0,1
+Viktor Jelenic,33,Serbia and Montenegro,2004,29/08/2004,Waterpolo,0,1,0,1
+Predrag Jokic,21,Serbia and Montenegro,2004,29/08/2004,Waterpolo,0,1,0,1
+Eftykhia Karagianni,30,Greece,2004,29/08/2004,Waterpolo,0,1,0,1
+Angeliki Karapataki,29,Greece,2004,29/08/2004,Waterpolo,0,1,0,1
+Tamás Kásás,28,Hungary,2004,29/08/2004,Waterpolo,1,0,0,1
+Gergo Kiss,26,Hungary,2004,29/08/2004,Waterpolo,1,0,0,1
+Nikolay Kozlov,32,Russia,2004,29/08/2004,Waterpolo,0,0,1,1
+Voula Kozomboli,30,Greece,2004,29/08/2004,Waterpolo,0,1,0,1
+Georgia Lara,24,Greece,2004,29/08/2004,Waterpolo,0,1,0,1
+Kiki Liosi,24,Greece,2004,29/08/2004,Waterpolo,0,1,0,1
+Ericka Lorenz,23,United States,2004,29/08/2004,Waterpolo,0,0,1,1
+Norbert Madaras,24,Hungary,2004,29/08/2004,Waterpolo,1,0,0,1
+Nikolay Maksimov,31,Russia,2004,29/08/2004,Waterpolo,0,0,1,1
+Giusi Malato,33,Italy,2004,29/08/2004,Waterpolo,1,0,0,1
+Antiopi Melidoni,26,Greece,2004,29/08/2004,Waterpolo,0,1,0,1
+Martina Miceli,30,Italy,2004,29/08/2004,Waterpolo,1,0,0,1
+Tamás Molnár,29,Hungary,2004,29/08/2004,Waterpolo,1,0,0,1
+Heather Moody,30,United States,2004,29/08/2004,Waterpolo,0,0,1,1
+Tonia Moraiti,27,Greece,2004,29/08/2004,Waterpolo,0,1,0,1
+Evi Moraitidou,29,Greece,2004,29/08/2004,Waterpolo,0,1,0,1
+Thalia Munro,22,United States,2004,29/08/2004,Waterpolo,0,0,1,1
+Maddalena Musumeci,28,Italy,2004,29/08/2004,Waterpolo,1,0,0,1
+Anthi Mylonaki,20,Greece,2004,29/08/2004,Waterpolo,0,1,0,1
+Slobodan Nikic,21,Serbia and Montenegro,2004,29/08/2004,Waterpolo,0,1,0,1
+Katerina Oikonomopoulou,26,Greece,2004,29/08/2004,Waterpolo,0,1,0,1
+Heather Petri,26,United States,2004,29/08/2004,Waterpolo,0,0,1,1
+Cinzia Ragusa,27,Italy,2004,29/08/2004,Waterpolo,1,0,0,1
+Andrey Rekechinsky,23,Russia,2004,29/08/2004,Waterpolo,0,0,1,1
+Antigoni Roumbesi,21,Greece,2004,29/08/2004,Waterpolo,0,1,0,1
+Kelly Rulon,20,United States,2004,29/08/2004,Waterpolo,0,0,1,1
+Aleksandar Šapic,26,Serbia and Montenegro,2004,29/08/2004,Waterpolo,0,1,0,1
+Dejan Savic,29,Serbia and Montenegro,2004,29/08/2004,Waterpolo,0,1,0,1
+Denis Šefik,27,Serbia and Montenegro,2004,29/08/2004,Waterpolo,0,1,0,1
+Amber Stachowski,21,United States,2004,29/08/2004,Waterpolo,0,0,1,1
+Ádám Steinmetz,24,Hungary,2004,29/08/2004,Waterpolo,1,0,0,1
+Barnabás Steinmetz,28,Hungary,2004,29/08/2004,Waterpolo,1,0,0,1
+Dmitry Stratan,29,Russia,2004,29/08/2004,Waterpolo,0,0,1,1
+Zoltán Szécsi,26,Hungary,2004,29/08/2004,Waterpolo,1,0,0,1
+Noémi Tóth,28,Italy,2004,29/08/2004,Waterpolo,1,0,0,1
+Petar Trbojevic,30,Serbia and Montenegro,2004,29/08/2004,Waterpolo,0,1,0,1
+Vanja Udovicic,21,Serbia and Montenegro,2004,29/08/2004,Waterpolo,0,1,0,1
+Tamás Varga,29,Hungary,2004,29/08/2004,Waterpolo,1,0,0,1
+Attila Vári,28,Hungary,2004,29/08/2004,Waterpolo,1,0,0,1
+Brenda Villa,24,United States,2004,29/08/2004,Waterpolo,0,0,1,1
+Vlada Vujasinovic,31,Serbia and Montenegro,2004,29/08/2004,Waterpolo,0,1,0,1
+Aleksandr Yeryshov,31,Russia,2004,29/08/2004,Waterpolo,0,0,1,1
+Vitaly Yurchik,21,Russia,2004,29/08/2004,Waterpolo,0,0,1,1
+Marat Zakirov,30,Russia,2004,29/08/2004,Waterpolo,0,0,1,1
+Emanuela Zanchi,26,Italy,2004,29/08/2004,Waterpolo,1,0,0,1
+Irek Zinnurov,35,Russia,2004,29/08/2004,Waterpolo,0,0,1,1
+Marina Akobiya,25,Russia,2000,01/10/2000,Waterpolo,0,0,1,1
+Yekaterina Anikeyeva,31,Russia,2000,01/10/2000,Waterpolo,0,0,1,1
+Roman Balashov,23,Russia,2000,01/10/2000,Waterpolo,0,1,0,1
+Robin Beauregard,21,United States,2000,01/10/2000,Waterpolo,0,1,0,1
+Tibor Benedek,28,Hungary,2000,01/10/2000,Waterpolo,1,0,0,1
+Péter Biros,24,Hungary,2000,01/10/2000,Waterpolo,1,0,0,1
+Naomi Castle,26,Australia,2000,01/10/2000,Waterpolo,1,0,0,1
+Revaz Chomakhidze,26,Russia,2000,01/10/2000,Waterpolo,0,1,0,1
+Aleksandar Ciric,22,Serbia and Montenegro,2000,01/10/2000,Waterpolo,0,0,1,1
+Dmitry Dugin,32,Russia,2000,01/10/2000,Waterpolo,0,1,0,1
+Ellen Estes,21,United States,2000,01/10/2000,Waterpolo,0,1,0,1
+Rajmund Fodor,24,Hungary,2000,01/10/2000,Waterpolo,1,0,0,1
+Joanne Fox,21,Australia,2000,01/10/2000,Waterpolo,1,0,0,1
+Sergey Garbuzov,26,Russia,2000,01/10/2000,Waterpolo,0,1,0,1
+Dmitry Gorshkov,33,Russia,2000,01/10/2000,Waterpolo,0,1,0,1
+Bridgette Gusterson,27,Australia,2000,01/10/2000,Waterpolo,1,0,0,1
+Simone Hankin,27,Australia,2000,01/10/2000,Waterpolo,1,0,0,1
+Yvette Higgins,22,Australia,2000,01/10/2000,Waterpolo,1,0,0,1
+Kate Hooper,22,Australia,2000,01/10/2000,Waterpolo,1,0,0,1
+Danilo Ikodinovic,23,Serbia and Montenegro,2000,01/10/2000,Waterpolo,0,0,1,1
+Viktor Jelenic,29,Serbia and Montenegro,2000,01/10/2000,Waterpolo,0,0,1,1
+Courtney Johnson,26,United States,2000,01/10/2000,Waterpolo,0,1,0,1
+Tamás Kásás,24,Hungary,2000,01/10/2000,Waterpolo,1,0,0,1
+Gergo Kiss,23,Hungary,2000,01/10/2000,Waterpolo,1,0,0,1
+Sofiya Konukh,20,Russia,2000,01/10/2000,Waterpolo,0,0,1,1
+Mariya Korolyova,25,Russia,2000,01/10/2000,Waterpolo,0,0,1,1
+Zoltán Kósz,32,Hungary,2000,01/10/2000,Waterpolo,1,0,0,1
+Nikolay Kozlov,28,Russia,2000,01/10/2000,Waterpolo,0,1,0,1
+Nikola Kuljaca,26,Serbia and Montenegro,2000,01/10/2000,Waterpolo,0,0,1,1
+Nataliya Kutuzova,25,Russia,2000,01/10/2000,Waterpolo,0,0,1,1
+Svetlana Kuzina,25,Russia,2000,01/10/2000,Waterpolo,0,0,1,1
+Ericka Lorenz,19,United States,2000,01/10/2000,Waterpolo,0,1,0,1
+Nikolay Maksimov,27,Russia,2000,01/10/2000,Waterpolo,0,1,0,1
+Tamás Märcz,26,Hungary,2000,01/10/2000,Waterpolo,1,0,0,1
+Bronwyn Mayer-Smith,26,Australia,2000,01/10/2000,Waterpolo,1,0,0,1
+Gail Miller,23,Australia,2000,01/10/2000,Waterpolo,1,0,0,1
+Melissa Mills,26,Australia,2000,01/10/2000,Waterpolo,1,0,0,1
+Tamás Molnár,25,Hungary,2000,01/10/2000,Waterpolo,1,0,0,1
+Heather Moody,27,United States,2000,01/10/2000,Waterpolo,0,1,0,1
+Mo O'Toole,39,United States,2000,01/10/2000,Waterpolo,0,1,0,1
+Bernice Orwig,23,United States,2000,01/10/2000,Waterpolo,0,1,0,1
+Nicolle Payne,24,United States,2000,01/10/2000,Waterpolo,0,1,0,1
+Heather Petri,22,United States,2000,01/10/2000,Waterpolo,0,1,0,1
+Tatyana Petrova,27,Russia,2000,01/10/2000,Waterpolo,0,0,1,1
+Yuliya Petrova,21,Russia,2000,01/10/2000,Waterpolo,0,0,1,1
+Galina Rytova,25,Russia,2000,01/10/2000,Waterpolo,0,0,1,1
+Aleksandar Šapic,22,Serbia and Montenegro,2000,01/10/2000,Waterpolo,0,0,1,1
+Dejan Savic,25,Serbia and Montenegro,2000,01/10/2000,Waterpolo,0,0,1,1
+Kathy Sheehy,30,United States,2000,01/10/2000,Waterpolo,0,1,0,1
+Coralie Simmons,23,United States,2000,01/10/2000,Waterpolo,0,1,0,1
+Yelena Smurova,26,Russia,2000,01/10/2000,Waterpolo,0,0,1,1
+Aleksandar Šoštar,36,Serbia and Montenegro,2000,01/10/2000,Waterpolo,0,0,1,1
+Barnabás Steinmetz,24,Hungary,2000,01/10/2000,Waterpolo,1,0,0,1
+Dmitry Stratan,25,Russia,2000,01/10/2000,Waterpolo,0,1,0,1
+Julie Swail-Ertel,27,United States,2000,01/10/2000,Waterpolo,0,1,0,1
+Zoltán Szécsi,22,Hungary,2000,01/10/2000,Waterpolo,1,0,0,1
+Bulcsú Székely,24,Hungary,2000,01/10/2000,Waterpolo,1,0,0,1
+Yelena Tokun,26,Russia,2000,01/10/2000,Waterpolo,0,0,1,1
+Irina Tolkunova,29,Russia,2000,01/10/2000,Waterpolo,0,0,1,1
+Petar Trbojevic,27,Serbia and Montenegro,2000,01/10/2000,Waterpolo,0,0,1,1
+Veljko Uskokovic,29,Serbia and Montenegro,2000,01/10/2000,Waterpolo,0,0,1,1
+Zsolt Varga,28,Hungary,2000,01/10/2000,Waterpolo,1,0,0,1
+Attila Vári,24,Hungary,2000,01/10/2000,Waterpolo,1,0,0,1
+Yekaterina Vasilyeva,24,Russia,2000,01/10/2000,Waterpolo,0,0,1,1
+Jugoslav Vasovic,26,Serbia and Montenegro,2000,01/10/2000,Waterpolo,0,0,1,1
+Brenda Villa,20,United States,2000,01/10/2000,Waterpolo,0,1,0,1
+Vlada Vujasinovic,27,Serbia and Montenegro,2000,01/10/2000,Waterpolo,0,0,1,1
+Nenad Vukanic,26,Serbia and Montenegro,2000,01/10/2000,Waterpolo,0,0,1,1
+Debbie Watson,34,Australia,2000,01/10/2000,Waterpolo,1,0,0,1
+Liz Weekes,28,Australia,2000,01/10/2000,Waterpolo,1,0,0,1
+Danielle Woodhouse,31,Australia,2000,01/10/2000,Waterpolo,1,0,0,1
+Taryn Woods,25,Australia,2000,01/10/2000,Waterpolo,1,0,0,1
+Yury Yatsev,21,Russia,2000,01/10/2000,Waterpolo,0,1,0,1
+Aleksandr Yeryshov,27,Russia,2000,01/10/2000,Waterpolo,0,1,0,1
+Marat Zakirov,26,Russia,2000,01/10/2000,Waterpolo,0,1,0,1
+Predrag Zimonjic,29,Serbia and Montenegro,2000,01/10/2000,Waterpolo,0,0,1,1
+Irek Zinnurov,31,Russia,2000,01/10/2000,Waterpolo,0,1,0,1
+,,Brazil,2012,12/08/2012,Volleyball,0,1,0,1
+,,Brazil,2012,12/08/2012,Volleyball,0,1,0,1
+,,Brazil,2012,12/08/2012,Volleyball,0,1,0,1
+Foluke Akinradewo,24,United States,2012,12/08/2012,Volleyball,0,1,0,1
+Thiago Alves,26,Brazil,2012,12/08/2012,Volleyball,0,1,0,1
+Nikolay Apalikov,29,Russia,2012,12/08/2012,Volleyball,1,0,0,1
+Erika Araki,27,Japan,2012,12/08/2012,Volleyball,0,0,1,1
+Andrea Bari,32,Italy,2012,12/08/2012,Volleyball,0,0,1,1
+Yury Berezhko,28,Russia,2012,12/08/2012,Volleyball,1,0,0,1
+Lindsey Berg,32,United States,2012,12/08/2012,Volleyball,0,1,0,1
+Emanuele Birarelli,31,Italy,2012,12/08/2012,Volleyball,0,0,1,1
+Dante Boninfante,35,Italy,2012,12/08/2012,Volleyball,0,0,1,1
+Aleksandr Butko,26,Russia,2012,12/08/2012,Volleyball,1,0,0,1
+Tandara Caixeta,23,Brazil,2012,12/08/2012,Volleyball,1,0,0,1
+Adenízia da Silva,25,Brazil,2012,12/08/2012,Volleyball,1,0,0,1
+Dante,31,Brazil,2012,12/08/2012,Volleyball,0,1,0,1
+Nicole Davis,30,United States,2012,12/08/2012,Volleyball,0,1,0,1
+Wallace de Souza,25,Brazil,2012,12/08/2012,Volleyball,0,1,0,1
+Yukiko Ebata,22,Japan,2012,12/08/2012,Volleyball,0,0,1,1
+Fabi,32,Brazil,2012,12/08/2012,Volleyball,1,0,0,1
+Fabiana,27,Brazil,2012,12/08/2012,Volleyball,1,0,0,1
+Alessandro Fei,33,Italy,2012,12/08/2012,Volleyball,0,0,1,1
+Fernandinha,32,Brazil,2012,12/08/2012,Volleyball,1,0,0,1
+Giba,35,Brazil,2012,12/08/2012,Volleyball,0,1,0,1
+Andrea Giovi,28,Italy,2012,12/08/2012,Volleyball,0,0,1,1
+Sergey Grankin,27,Russia,2012,12/08/2012,Volleyball,1,0,0,1
+Tayyiba Haneef-Park,33,United States,2012,12/08/2012,Volleyball,0,1,0,1
+Christa Harmotto,25,United States,2012,12/08/2012,Volleyball,0,1,0,1
+Megan Hodge,23,United States,2012,12/08/2012,Volleyball,0,1,0,1
+Destinee Hooker,24,United States,2012,12/08/2012,Volleyball,0,1,0,1
+Dmitry Ilyinykh,25,Russia,2012,12/08/2012,Volleyball,1,0,0,1
+Kaori Inoue,29,Japan,2012,12/08/2012,Volleyball,0,0,1,1
+Pereira de Carvalho Endres Jaque,28,Brazil,2012,12/08/2012,Volleyball,1,0,0,1
+Maiko Kano,24,Japan,2012,12/08/2012,Volleyball,0,0,1,1
+Taras Khtey,30,Russia,2012,12/08/2012,Volleyball,1,0,0,1
+Saori Kimura,25,Japan,2012,12/08/2012,Volleyball,0,0,1,1
+Jordan Larson,25,United States,2012,12/08/2012,Volleyball,0,1,0,1
+Michal Lasko,31,Italy,2012,12/08/2012,Volleyball,0,0,1,1
+Dani Lins,27,Brazil,2012,12/08/2012,Volleyball,1,0,0,1
+Luigi Mastrangelo,36,Italy,2012,12/08/2012,Volleyball,0,0,1,1
+Maksim Mikhaylov,24,Russia,2012,12/08/2012,Volleyball,1,0,0,1
+Tamari Miyashiro,25,United States,2012,12/08/2012,Volleyball,0,1,0,1
+Murilo,31,Brazil,2012,12/08/2012,Volleyball,0,1,0,1
+Dmitry Musersky,23,Russia,2012,12/08/2012,Volleyball,1,0,0,1
+Hitomi Nakamichi,26,Japan,2012,12/08/2012,Volleyball,0,0,1,1
+Leandro Neves,29,Brazil,2012,12/08/2012,Volleyball,0,1,0,1
+Aleksey Obmochayev,23,Russia,2012,12/08/2012,Volleyball,1,0,0,1
+Ai Otomo-Yamamoto,30,Japan,2012,12/08/2012,Volleyball,0,0,1,1
+Samuele Papi,39,Italy,2012,12/08/2012,Volleyball,0,0,1,1
+Simone Parodi,26,Italy,2012,12/08/2012,Volleyball,0,0,1,1
+Paula,30,Brazil,2012,12/08/2012,Volleyball,1,0,0,1
+Natália Pereira,23,Brazil,2012,12/08/2012,Volleyball,1,0,0,1
+Rodrigão,33,Brazil,2012,12/08/2012,Volleyball,0,1,0,1
+Fernanda Rodrigues,26,Brazil,2012,12/08/2012,Volleyball,1,0,0,1
+Lucas Saatkamp,26,Brazil,2012,12/08/2012,Volleyball,0,1,0,1
+Saori Sakoda,24,Japan,2012,12/08/2012,Volleyball,0,0,1,1
+Yuko Sano,33,Japan,2012,12/08/2012,Volleyball,0,0,1,1
+Cristian Savani,30,Italy,2012,12/08/2012,Volleyball,0,0,1,1
+Danielle Scott-Arruda,39,United States,2012,12/08/2012,Volleyball,0,1,0,1
+Sheilla,29,Brazil,2012,12/08/2012,Volleyball,1,0,0,1
+Risa Shinnabe,22,Japan,2012,12/08/2012,Volleyball,0,0,1,1
+Sidão,30,Brazil,2012,12/08/2012,Volleyball,0,1,0,1
+Aleksandr Sokolov,30,Russia,2012,12/08/2012,Volleyball,1,0,0,1
+Yoshie Takeshita,34,Japan,2012,12/08/2012,Volleyball,0,0,1,1
+Sergey Tetyukhin,36,Russia,2012,12/08/2012,Volleyball,1,0,0,1
+Thaísa,25,Brazil,2012,12/08/2012,Volleyball,1,0,0,1
+Courtney Thompson,27,United States,2012,12/08/2012,Volleyball,0,1,0,1
+Logan Tom,31,United States,2012,12/08/2012,Volleyball,0,1,0,1
+Dragan Travica,25,Italy,2012,12/08/2012,Volleyball,0,0,1,1
+Aleksandr Volkov,27,Russia,2012,12/08/2012,Volleyball,1,0,0,1
+Mai Yamaguchi,29,Japan,2012,12/08/2012,Volleyball,0,0,1,1
+Ivan Zaytsev,23,Italy,2012,12/08/2012,Volleyball,0,0,1,1
+Robyn Ah Mow-Santos,32,United States,2008,24/08/2008,Volleyball,0,1,0,1
+Anderson,34,Brazil,2008,24/08/2008,Volleyball,0,1,0,1
+Lloy Ball,36,United States,2008,24/08/2008,Volleyball,1,0,0,1
+Yury Berezhko,24,Russia,2008,24/08/2008,Volleyball,0,0,1,1
+Lindsey Berg,28,United States,2008,24/08/2008,Volleyball,0,1,0,1
+Heather Bown,29,United States,2008,24/08/2008,Volleyball,0,1,0,1
+Bruninho,22,Brazil,2008,24/08/2008,Volleyball,0,1,0,1
+Carol,31,Brazil,2008,24/08/2008,Volleyball,1,0,0,1
+Dante,27,Brazil,2008,24/08/2008,Volleyball,0,1,0,1
+Nicole Davis,26,United States,2008,24/08/2008,Volleyball,0,1,0,1
+Escadinha,32,Brazil,2008,24/08/2008,Volleyball,0,1,0,1
+Fabi,28,Brazil,2008,24/08/2008,Volleyball,1,0,0,1
+Fabiana,23,Brazil,2008,24/08/2008,Volleyball,1,0,0,1
+Feng Kun,29,China,2008,24/08/2008,Volleyball,0,0,1,1
+Fofão,38,Brazil,2008,24/08/2008,Volleyball,1,0,0,1
+Gabe Gardner,32,United States,2008,24/08/2008,Volleyball,1,0,0,1
+Giba,31,Brazil,2008,24/08/2008,Volleyball,0,1,0,1
+Kim Glass,23,United States,2008,24/08/2008,Volleyball,0,1,0,1
+Sergey Grankin,23,Russia,2008,24/08/2008,Volleyball,0,0,1,1
+Gustavo,32,Brazil,2008,24/08/2008,Volleyball,0,1,0,1
+Tayyiba Haneef-Park,29,United States,2008,24/08/2008,Volleyball,0,1,0,1
+Kevin Hansen,26,United States,2008,24/08/2008,Volleyball,1,0,0,1
+André Heller,32,Brazil,2008,24/08/2008,Volleyball,0,1,0,1
+Tom Hoff,35,United States,2008,24/08/2008,Volleyball,1,0,0,1
+Pereira de Carvalho Endres Jaque,24,Brazil,2008,24/08/2008,Volleyball,1,0,0,1
+Jennifer Joines,25,United States,2008,24/08/2008,Volleyball,0,1,0,1
+Vadim Khamuttskikh,38,Russia,2008,24/08/2008,Volleyball,0,0,1,1
+Aleksandr Korneyev,27,Russia,2008,24/08/2008,Volleyball,0,0,1,1
+Aleksandr Kosaryev,30,Russia,2008,24/08/2008,Volleyball,0,0,1,1
+Aleksey Kuleshov,29,Russia,2008,24/08/2008,Volleyball,0,0,1,1
+Rich Lambourne,33,United States,2008,24/08/2008,Volleyball,1,0,0,1
+David Lee,26,United States,2008,24/08/2008,Volleyball,1,0,0,1
+Li Juan,27,China,2008,24/08/2008,Volleyball,0,0,1,1
+Liu Yanan,27,China,2008,24/08/2008,Volleyball,0,0,1,1
+Ma Yunwen,21,China,2008,24/08/2008,Volleyball,0,0,1,1
+Marcelinho,33,Brazil,2008,24/08/2008,Volleyball,0,1,0,1
+Mari,24,Brazil,2008,24/08/2008,Volleyball,1,0,0,1
+Maksim Mikhaylov,20,Russia,2008,24/08/2008,Volleyball,0,0,1,1
+Ryan Millar,30,United States,2008,24/08/2008,Volleyball,1,0,0,1
+Murilo,27,Brazil,2008,24/08/2008,Volleyball,0,1,0,1
+André Nascimento,29,Brazil,2008,24/08/2008,Volleyball,0,1,0,1
+Ogonna Nnamani,25,United States,2008,24/08/2008,Volleyball,0,1,0,1
+Aleksey Ostapenko,22,Russia,2008,24/08/2008,Volleyball,0,0,1,1
+Paula,26,Brazil,2008,24/08/2008,Volleyball,1,0,0,1
+Semyon Poltavsky,27,Russia,2008,24/08/2008,Volleyball,0,0,1,1
+Reid Priddy,30,United States,2008,24/08/2008,Volleyball,1,0,0,1
+Rodrigão,29,Brazil,2008,24/08/2008,Volleyball,0,1,0,1
+Sean Rooney,25,United States,2008,24/08/2008,Volleyball,1,0,0,1
+Riley Salmon,32,United States,2008,24/08/2008,Volleyball,1,0,0,1
+Samuel,24,Brazil,2008,24/08/2008,Volleyball,0,1,0,1
+Sassá,25,Brazil,2008,24/08/2008,Volleyball,1,0,0,1
+Danielle Scott-Arruda,35,United States,2008,24/08/2008,Volleyball,0,1,0,1
+Sheilla,25,Brazil,2008,24/08/2008,Volleyball,1,0,0,1
+Clay Stanley,30,United States,2008,24/08/2008,Volleyball,1,0,0,1
+Stacy Sykora,31,United States,2008,24/08/2008,Volleyball,0,1,0,1
+Sergey Tetyukhin,32,Russia,2008,24/08/2008,Volleyball,0,0,1,1
+Thaísa,21,Brazil,2008,24/08/2008,Volleyball,1,0,0,1
+Logan Tom,27,United States,2008,24/08/2008,Volleyball,0,1,0,1
+Scott Touzinsky,26,United States,2008,24/08/2008,Volleyball,1,0,0,1
+Valeskinha,32,Brazil,2008,24/08/2008,Volleyball,1,0,0,1
+Aleksey Verbov,26,Russia,2008,24/08/2008,Volleyball,0,0,1,1
+Aleksandr Volkov,23,Russia,2008,24/08/2008,Volleyball,0,0,1,1
+Walewska,29,Brazil,2008,24/08/2008,Volleyball,1,0,0,1
+Wang Yimei,20,China,2008,24/08/2008,Volleyball,0,0,1,1
+Wei Qiuyue,19,China,2008,24/08/2008,Volleyball,0,0,1,1
+Kim Willoughby,27,United States,2008,24/08/2008,Volleyball,0,1,0,1
+Xu Yunli,21,China,2008,24/08/2008,Volleyball,0,0,1,1
+Xue Ming,21,China,2008,24/08/2008,Volleyball,0,0,1,1
+Yang Hao,28,China,2008,24/08/2008,Volleyball,0,0,1,1
+Zhang Na,28,China,2008,24/08/2008,Volleyball,0,0,1,1
+Zhao Ruirui,26,China,2008,24/08/2008,Volleyball,0,0,1,1
+Zhou Suhong,29,China,2008,24/08/2008,Volleyball,0,0,1,1
+Pavel Abramov,25,Russia,2004,29/08/2004,Volleyball,0,0,1,1
+Anderson,30,Brazil,2004,29/08/2004,Volleyball,1,0,0,1
+Yevgeniya Artamonova-Estes,29,Russia,2004,29/08/2004,Volleyball,0,1,0,1
+Sergey Baranov,23,Russia,2004,29/08/2004,Volleyball,0,0,1,1
+Zoila Barros,28,Cuba,2004,29/08/2004,Volleyball,0,0,1,1
+Yelena Batukhtina-Tyurina,33,Russia,2004,29/08/2004,Volleyball,0,1,0,1
+Rosir Calderon,19,Cuba,2004,29/08/2004,Volleyball,0,0,1,1
+Nancy Carrillo,18,Cuba,2004,29/08/2004,Volleyball,0,0,1,1
+Matej Cernic,25,Italy,2004,29/08/2004,Volleyball,0,1,0,1
+Chen Jing,28,China,2004,29/08/2004,Volleyball,1,0,0,1
+Olga Chukanova,24,Russia,2004,29/08/2004,Volleyball,0,1,0,1
+Alberto Cisolla,26,Italy,2004,29/08/2004,Volleyball,0,1,0,1
+Paolo Cozzi,24,Italy,2004,29/08/2004,Volleyball,0,1,0,1
+Dante,23,Brazil,2004,29/08/2004,Volleyball,1,0,0,1
+Stanislav Dineykin,30,Russia,2004,29/08/2004,Volleyball,0,0,1,1
+Escadinha,28,Brazil,2004,29/08/2004,Volleyball,1,0,0,1
+Alessandro Fei,25,Italy,2004,29/08/2004,Volleyball,0,1,0,1
+Feng Kun,25,China,2004,29/08/2004,Volleyball,1,0,0,1
+Ana Ivis Fernández,31,Cuba,2004,29/08/2004,Volleyball,0,0,1,1
+Yekaterina Gamova,23,Russia,2004,29/08/2004,Volleyball,0,1,0,1
+Andrea Giani,34,Italy,2004,29/08/2004,Volleyball,0,1,0,1
+Giba,27,Brazil,2004,29/08/2004,Volleyball,1,0,0,1
+Giovane,33,Brazil,2004,29/08/2004,Volleyball,1,0,0,1
+Gustavo,28,Brazil,2004,29/08/2004,Volleyball,1,0,0,1
+André Heller,28,Brazil,2004,29/08/2004,Volleyball,1,0,0,1
+Aleksey Kazakov,28,Russia,2004,29/08/2004,Volleyball,0,0,1,1
+Vadim Khamuttskikh,34,Russia,2004,29/08/2004,Volleyball,0,0,1,1
+Taras Khtey,22,Russia,2004,29/08/2004,Volleyball,0,0,1,1
+Aleksandr Kosaryev,26,Russia,2004,29/08/2004,Volleyball,0,0,1,1
+Aleksey Kuleshov,25,Russia,2004,29/08/2004,Volleyball,0,0,1,1
+Li Shan,24,China,2004,29/08/2004,Volleyball,1,0,0,1
+Liu Yanan,23,China,2004,29/08/2004,Volleyball,1,0,0,1
+Mayvelis Martínez,27,Cuba,2004,29/08/2004,Volleyball,0,0,1,1
+Luigi Mastrangelo,28,Italy,2004,29/08/2004,Volleyball,0,1,0,1
+Maurício,36,Brazil,2004,29/08/2004,Volleyball,1,0,0,1
+Liana Mesa,26,Cuba,2004,29/08/2004,Volleyball,0,0,1,1
+Anniara Muñoz,24,Cuba,2004,29/08/2004,Volleyball,0,0,1,1
+Nalbert,30,Brazil,2004,29/08/2004,Volleyball,1,0,0,1
+André Nascimento,25,Brazil,2004,29/08/2004,Volleyball,1,0,0,1
+Olga Nikolayeva,32,Russia,2004,29/08/2004,Volleyball,0,1,0,1
+Yaima Ortíz,22,Cuba,2004,29/08/2004,Volleyball,0,0,1,1
+Samuele Papi,31,Italy,2004,29/08/2004,Volleyball,0,1,0,1
+Damiano Pippi,32,Italy,2004,29/08/2004,Volleyball,0,1,0,1
+Yelena Plotnikova,26,Russia,2004,29/08/2004,Volleyball,0,1,0,1
+Daimí Ramírez,20,Cuba,2004,29/08/2004,Volleyball,0,0,1,1
+Ricardinho,28,Brazil,2004,29/08/2004,Volleyball,1,0,0,1
+Rodrigão,25,Brazil,2004,29/08/2004,Volleyball,1,0,0,1
+Yumilka Ruíz,26,Cuba,2004,29/08/2004,Volleyball,0,0,1,1
+Marta Sánchez,31,Cuba,2004,29/08/2004,Volleyball,0,0,1,1
+Andrea Sartoretti,33,Italy,2004,29/08/2004,Volleyball,0,1,0,1
+Marina Sheshenina,19,Russia,2004,29/08/2004,Volleyball,0,1,0,1
+Ventzislav Simeonov,27,Italy,2004,29/08/2004,Volleyball,0,1,0,1
+Lyubov Sokolova-Shashkova,26,Russia,2004,29/08/2004,Volleyball,0,1,0,1
+Song Nina,24,China,2004,29/08/2004,Volleyball,1,0,0,1
+Irina Tebenikhina,25,Russia,2004,29/08/2004,Volleyball,0,1,0,1
+Dulce Téllez,20,Cuba,2004,29/08/2004,Volleyball,0,0,1,1
+Sergey Tetyukhin,28,Russia,2004,29/08/2004,Volleyball,0,0,1,1
+Yelizaveta Tishchenko,29,Russia,2004,29/08/2004,Volleyball,0,1,0,1
+Paolo Tofoli,38,Italy,2004,29/08/2004,Volleyball,0,1,0,1
+Konstantin Ushakov,34,Russia,2004,29/08/2004,Volleyball,0,0,1,1
+Aleksey Verbov,22,Russia,2004,29/08/2004,Volleyball,0,0,1,1
+Valerio Vermiglio,28,Italy,2004,29/08/2004,Volleyball,0,1,0,1
+Wang Lina,26,China,2004,29/08/2004,Volleyball,1,0,0,1
+Yang Hao,24,China,2004,29/08/2004,Volleyball,1,0,0,1
+Andrey Yegorchev,26,Russia,2004,29/08/2004,Volleyball,0,0,1,1
+Zhang Na,24,China,2004,29/08/2004,Volleyball,1,0,0,1
+Zhang Ping,22,China,2004,29/08/2004,Volleyball,1,0,0,1
+Zhang Yuehong,28,China,2004,29/08/2004,Volleyball,1,0,0,1
+Zhao Ruirui,22,China,2004,29/08/2004,Volleyball,1,0,0,1
+Zhou Suhong,25,China,2004,29/08/2004,Volleyball,1,0,0,1
+Tai Aguero,23,Cuba,2000,01/10/2000,Volleyball,1,0,0,1
+Yevgeniya Artamonova-Estes,25,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Vladimir Batez,31,Serbia and Montenegro,2000,01/10/2000,Volleyball,1,0,0,1
+Yelena Batukhtina-Tyurina,29,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Anastasiya Belikova,21,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Regla Bell,30,Cuba,2000,01/10/2000,Volleyball,1,0,0,1
+Slobodan Boškan,25,Serbia and Montenegro,2000,01/10/2000,Volleyball,1,0,0,1
+Marco Bracci,34,Italy,2000,01/10/2000,Volleyball,0,0,1,1
+Mirko Corsano,26,Italy,2000,01/10/2000,Volleyball,0,0,1,1
+Marlenis Costa,27,Cuba,2000,01/10/2000,Volleyball,1,0,0,1
+Elisângela,21,Brazil,2000,01/10/2000,Volleyball,0,0,1,1
+Alessandro Fei,21,Italy,2000,01/10/2000,Volleyball,0,0,1,1
+Ana Ivis Fernández,27,Cuba,2000,01/10/2000,Volleyball,1,0,0,1
+Fofão,30,Brazil,2000,01/10/2000,Volleyball,0,0,1,1
+Mirka Francis,25,Cuba,2000,01/10/2000,Volleyball,1,0,0,1
+Yekaterina Gamova,19,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Andrea Gardini,34,Italy,2000,01/10/2000,Volleyball,0,0,1,1
+Aleksandr Gerasimov,25,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Andrija Geric,23,Serbia and Montenegro,2000,01/10/2000,Volleyball,1,0,0,1
+Andrea Giani,30,Italy,2000,01/10/2000,Volleyball,0,0,1,1
+Lena Godina,22,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Valery Goryushev,26,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Tatyana Gracheva,27,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Pasquale Gravina,30,Italy,2000,01/10/2000,Volleyball,0,0,1,1
+Nikola Grbic,27,Serbia and Montenegro,2000,01/10/2000,Volleyball,1,0,0,1
+Vladimir Grbic,29,Serbia and Montenegro,2000,01/10/2000,Volleyball,1,0,0,1
+Janina,27,Brazil,2000,01/10/2000,Volleyball,0,0,1,1
+Karin,28,Brazil,2000,01/10/2000,Volleyball,0,0,1,1
+Kátia,27,Brazil,2000,01/10/2000,Volleyball,0,0,1,1
+Aleksey Kazakov,24,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Kely,25,Brazil,2000,01/10/2000,Volleyball,0,0,1,1
+Vadim Khamuttskikh,30,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Kiki,20,Brazil,2000,01/10/2000,Volleyball,0,0,1,1
+Slobodan Kovac,33,Serbia and Montenegro,2000,01/10/2000,Volleyball,1,0,0,1
+Aleksey Kuleshov,21,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Leila,28,Brazil,2000,01/10/2000,Volleyball,0,0,1,1
+Mireya Luis,33,Cuba,2000,01/10/2000,Volleyball,1,0,0,1
+Luigi Mastrangelo,25,Italy,2000,01/10/2000,Volleyball,0,0,1,1
+Marco Meoni,27,Italy,2000,01/10/2000,Volleyball,0,0,1,1
+Ðula Mešter,28,Serbia and Montenegro,2000,01/10/2000,Volleyball,1,0,0,1
+Vasa Mijic,27,Serbia and Montenegro,2000,01/10/2000,Volleyball,1,0,0,1
+Ivan Miljkovic,21,Serbia and Montenegro,2000,01/10/2000,Volleyball,1,0,0,1
+Yevgeny Mitkov,28,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Nataliya Morozova,27,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Ruslan Olikhver,31,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Samuele Papi,27,Italy,2000,01/10/2000,Volleyball,0,0,1,1
+Olga Potashova,24,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Raquel,22,Brazil,2000,01/10/2000,Volleyball,0,0,1,1
+Ricarda,30,Brazil,2000,01/10/2000,Volleyball,0,0,1,1
+Simone Rosalba,24,Italy,2000,01/10/2000,Volleyball,0,0,1,1
+Yumilka Ruíz,22,Cuba,2000,01/10/2000,Volleyball,1,0,0,1
+Inessa Sargsyan,28,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Andrea Sartoretti,29,Italy,2000,01/10/2000,Volleyball,0,0,1,1
+Ilya Savelyev,29,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Igor Shulepov,27,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Lyubov Sokolova-Shashkova,22,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Sergey Tetyukhin,24,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Yelizaveta Tishchenko,25,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Paolo Tofoli,34,Italy,2000,01/10/2000,Volleyball,0,0,1,1
+Regla Torres,25,Cuba,2000,01/10/2000,Volleyball,1,0,0,1
+Konstantin Ushakov,30,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Yelena Vasilevskaya,22,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Virna,29,Brazil,2000,01/10/2000,Volleyball,0,0,1,1
+Goran Vujevic,27,Serbia and Montenegro,2000,01/10/2000,Volleyball,1,0,0,1
+Igor Vušurovic,25,Serbia and Montenegro,2000,01/10/2000,Volleyball,1,0,0,1
+Walewska,21,Brazil,2000,01/10/2000,Volleyball,0,0,1,1
+Roman Yakovlev,24,Russia,2000,01/10/2000,Volleyball,0,1,0,1
+Timo Boll,31,Germany,2012,12/08/2012,Table Tennis,0,0,1,1
+Ai Fukuhara,23,Japan,2012,12/08/2012,Table Tennis,0,1,0,1
+Guo Yue,24,China,2012,12/08/2012,Table Tennis,1,0,0,1
+Sayaka Hirano,27,Japan,2012,12/08/2012,Table Tennis,0,1,0,1
+Kasumi Ishikawa,19,Japan,2012,12/08/2012,Table Tennis,0,1,0,1
+Ju Se-Hyeok,32,South Korea,2012,12/08/2012,Table Tennis,0,1,0,1
+Li Jia Wei,30,Singapore,2012,12/08/2012,Table Tennis,0,0,1,1
+Ma Long,23,China,2012,12/08/2012,Table Tennis,1,0,0,1
+O Sang-Eun,35,South Korea,2012,12/08/2012,Table Tennis,0,1,0,1
+Bastian Steger,31,Germany,2012,12/08/2012,Table Tennis,0,0,1,1
+Wang Jue Gu,32,Singapore,2012,12/08/2012,Table Tennis,0,0,1,1
+Yu Seung-Min,29,South Korea,2012,12/08/2012,Table Tennis,0,1,0,1
+Timo Boll,27,Germany,2008,24/08/2008,Table Tennis,0,1,0,1
+Dang Ye-Seo,27,South Korea,2008,24/08/2008,Table Tennis,0,0,1,1
+Feng Tian Wei,21,Singapore,2008,24/08/2008,Table Tennis,0,1,0,1
+Kim Gyeong-A,31,South Korea,2008,24/08/2008,Table Tennis,0,0,1,1
+Li Jia Wei,27,Singapore,2008,24/08/2008,Table Tennis,0,1,0,1
+O Sang-Eun,31,South Korea,2008,24/08/2008,Table Tennis,0,0,1,1
+Dmitrij Ovtcharov,19,Germany,2008,24/08/2008,Table Tennis,0,1,0,1
+Park Mi-Yeong,26,South Korea,2008,24/08/2008,Table Tennis,0,0,1,1
+Christian Süß,23,Germany,2008,24/08/2008,Table Tennis,0,1,0,1
+Wang Jue Gu,28,Singapore,2008,24/08/2008,Table Tennis,0,1,0,1
+Yoon Jae-Young,25,South Korea,2008,24/08/2008,Table Tennis,0,0,1,1
+Yu Seung-Min,26,South Korea,2008,24/08/2008,Table Tennis,0,0,1,1
+Chen Qi,20,China,2004,29/08/2004,Table Tennis,1,0,0,1
+Guo Yue,16,China,2004,29/08/2004,Table Tennis,0,0,1,1
+Kim Gyeong-A,27,South Korea,2004,29/08/2004,Table Tennis,0,0,1,1
+Kim Hyang-Mi,24,North Korea,2004,29/08/2004,Table Tennis,0,1,0,1
+Ko Lai Chak,28,Hong Kong,2004,29/08/2004,Table Tennis,0,1,0,1
+Lee Eun-Sil,27,South Korea,2004,29/08/2004,Table Tennis,0,1,0,1
+Li Ching,29,Hong Kong,2004,29/08/2004,Table Tennis,0,1,0,1
+Ma Lin,24,China,2004,29/08/2004,Table Tennis,1,0,0,1
+Michael Maze,22,Denmark,2004,29/08/2004,Table Tennis,0,0,1,1
+Niu Jianfeng,23,China,2004,29/08/2004,Table Tennis,0,0,1,1
+Seog Eun-Mi,27,South Korea,2004,29/08/2004,Table Tennis,0,1,0,1
+Finn Tugwell,28,Denmark,2004,29/08/2004,Table Tennis,0,0,1,1
+Wang Hao,20,China,2004,29/08/2004,Table Tennis,0,1,0,1
+Wang Liqin,26,China,2004,29/08/2004,Table Tennis,0,0,1,1
+Wang Nan,25,China,2004,29/08/2004,Table Tennis,1,0,0,1
+Yu Seung-Min,22,South Korea,2004,29/08/2004,Table Tennis,1,0,0,1
+Chen Jing,31,Chinese Taipei,2000,01/10/2000,Table Tennis,0,0,1,1
+Patrick Chila,30,France,2000,01/10/2000,Table Tennis,0,0,1,1
+Jean-Philippe Gatien,31,France,2000,01/10/2000,Table Tennis,0,0,1,1
+Kim Mu-Gyo,25,South Korea,2000,01/10/2000,Table Tennis,0,0,1,1
+Sun Jin,20,China,2000,01/10/2000,Table Tennis,0,1,0,1
+Jan-Ove Waldner,34,Sweden,2000,01/10/2000,Table Tennis,0,1,0,1
+Wang Liqin,22,China,2000,01/10/2000,Table Tennis,1,0,0,1
+Yan Sen,25,China,2000,01/10/2000,Table Tennis,1,0,0,1
+Yang Ying,23,China,2000,01/10/2000,Table Tennis,0,1,0,1
+Yu Ji-Hye,24,South Korea,2000,01/10/2000,Table Tennis,0,0,1,1
+Alistair Brownlee,24,Great Britain,2012,12/08/2012,Triathlon,1,0,0,1
+Jonny Brownlee,22,Great Britain,2012,12/08/2012,Triathlon,0,0,1,1
+Erin Densham,27,Australia,2012,12/08/2012,Triathlon,0,0,1,1
+Javier Gómez,29,Spain,2012,12/08/2012,Triathlon,0,1,0,1
+Lisa Nordén,27,Sweden,2012,12/08/2012,Triathlon,0,1,0,1
+Nicola Spirig,30,Switzerland,2012,12/08/2012,Triathlon,1,0,0,1
+Bevan Docherty,31,New Zealand,2008,24/08/2008,Triathlon,0,0,1,1
+Vanessa Fernandes,22,Portugal,2008,24/08/2008,Triathlon,0,1,0,1
+Jan Frodeno,27,Germany,2008,24/08/2008,Triathlon,1,0,0,1
+Emma Moffatt,23,Australia,2008,24/08/2008,Triathlon,0,0,1,1
+Emma Snowsill,27,Australia,2008,24/08/2008,Triathlon,1,0,0,1
+Simon Whitfield,33,Canada,2008,24/08/2008,Triathlon,0,1,0,1
+Kate Allen,34,Austria,2004,29/08/2004,Triathlon,1,0,0,1
+Hamish Carter,33,New Zealand,2004,29/08/2004,Triathlon,1,0,0,1
+Bevan Docherty,27,New Zealand,2004,29/08/2004,Triathlon,0,1,0,1
+Loretta Harrop,29,Australia,2004,29/08/2004,Triathlon,0,1,0,1
+Sven Riederer,23,Switzerland,2004,29/08/2004,Triathlon,0,0,1,1
+Susan Williams,35,United States,2004,29/08/2004,Triathlon,0,0,1,1
+Michellie Jones,31,Australia,2000,01/10/2000,Triathlon,0,1,0,1
+Brigitte McMahon,33,Switzerland,2000,01/10/2000,Triathlon,1,0,0,1
+Magali Messmer,29,Switzerland,2000,01/10/2000,Triathlon,0,0,1,1
+Jan Rehula,26,Czech Republic,2000,01/10/2000,Triathlon,0,0,1,1
+Stephan Vuckovic,28,Germany,2000,01/10/2000,Triathlon,0,1,0,1
+Simon Whitfield,25,Canada,2000,01/10/2000,Triathlon,1,0,0,1
+Dong Dong,23,China,2012,12/08/2012,Trampoline,1,0,0,1
+He Wenna,23,China,2012,12/08/2012,Trampoline,0,0,1,1
+Huang Shanshan,26,China,2012,12/08/2012,Trampoline,0,1,0,1
+Lu Chunlong,23,China,2012,12/08/2012,Trampoline,0,0,1,1
+Rosie MacLennan,23,Canada,2012,12/08/2012,Trampoline,1,0,0,1
+Dmitry Ushakov,23,Russia,2012,12/08/2012,Trampoline,0,1,0,1
+Jason Burnett,21,Canada,2008,24/08/2008,Trampoline,0,1,0,1
+Karen Cockburn,28,Canada,2008,24/08/2008,Trampoline,0,1,0,1
+Dong Dong,19,China,2008,24/08/2008,Trampoline,0,0,1,1
+He Wenna,19,China,2008,24/08/2008,Trampoline,1,0,0,1
+Yekaterina Khilko,26,Uzbekistan,2008,24/08/2008,Trampoline,0,0,1,1
+Lu Chunlong,19,China,2008,24/08/2008,Trampoline,1,0,0,1
+Karen Cockburn,24,Canada,2004,29/08/2004,Trampoline,0,1,0,1
+Anna Dogonadze-Lilkendey,31,Germany,2004,29/08/2004,Trampoline,1,0,0,1
+Huang Shanshan,18,China,2004,29/08/2004,Trampoline,0,0,1,1
+Aleksandr Moskalenko,34,Russia,2004,29/08/2004,Trampoline,0,1,0,1
+Yuriy Nikitin,26,Ukraine,2004,29/08/2004,Trampoline,1,0,0,1
+Henrik Stehlik,23,Germany,2004,29/08/2004,Trampoline,0,0,1,1
+Karen Cockburn,20,Canada,2000,01/10/2000,Trampoline,0,0,1,1
+Irina Karavayeva,25,Russia,2000,01/10/2000,Trampoline,1,0,0,1
+Aleksandr Moskalenko,30,Russia,2000,01/10/2000,Trampoline,1,0,0,1
+Oksana Tsyhulova,26,Ukraine,2000,01/10/2000,Trampoline,0,1,0,1
+Mathieu Turgeon,21,Canada,2000,01/10/2000,Trampoline,0,0,1,1
+Ji Wallace,23,Australia,2000,01/10/2000,Trampoline,0,1,0,1
+Anastasiya Baryshnikova,21,Russia,2012,12/08/2012,Taekwondo,0,0,1,1
+Sebastian Crismanich,25,Argentina,2012,12/08/2012,Taekwondo,1,0,0,1
+Aleksey Denisenko,18,Russia,2012,12/08/2012,Taekwondo,0,0,1,1
+Robelis Despaigne,24,Cuba,2012,12/08/2012,Taekwondo,0,0,1,1
+María Espinoza,24,Mexico,2012,12/08/2012,Taekwondo,0,0,1,1
+Helena Fromm,25,Germany,2012,12/08/2012,Taekwondo,0,0,1,1
+Nicolás García,24,Spain,2012,12/08/2012,Taekwondo,0,1,0,1
+Joel González,22,Spain,2012,12/08/2012,Taekwondo,1,0,0,1
+Anne-Caroline Graffe,26,France,2012,12/08/2012,Taekwondo,0,1,0,1
+Marlene Harnois,25,France,2012,12/08/2012,Taekwondo,0,0,1,1
+Hou Yuzhuo,24,China,2012,12/08/2012,Taekwondo,0,1,0,1
+Hwang Gyeong-Seon,26,South Korea,2012,12/08/2012,Taekwondo,1,0,0,1
+Terrence Jennings,26,United States,2012,12/08/2012,Taekwondo,0,0,1,1
+Jade Jones,19,Great Britain,2012,12/08/2012,Taekwondo,1,0,0,1
+Lee Dae-Hun,20,South Korea,2012,12/08/2012,Taekwondo,0,1,0,1
+Liu Xiaobo,28,China,2012,12/08/2012,Taekwondo,0,0,1,1
+Milica Mandic,20,Serbia,2012,12/08/2012,Taekwondo,1,0,0,1
+Paige McPherson,21,United States,2012,12/08/2012,Taekwondo,0,0,1,1
+Carlo Molfetta,28,Italy,2012,12/08/2012,Taekwondo,1,0,0,1
+Mohammad Bagheri Motamed,26,Iran,2012,12/08/2012,Taekwondo,0,1,0,1
+Lutalo Muhammad,21,Great Britain,2012,12/08/2012,Taekwondo,0,0,1,1
+Oscar Muñoz,19,Colombia,2012,12/08/2012,Taekwondo,0,0,1,1
+Rohullah Nikpai,25,Afghanistan,2012,12/08/2012,Taekwondo,0,0,1,1
+Anthony Obame,23,Gabon,2012,12/08/2012,Taekwondo,0,1,0,1
+Mauro Sarmiento,29,Italy,2012,12/08/2012,Taekwondo,0,0,1,1
+Chanatip Sonkham,21,Thailand,2012,12/08/2012,Taekwondo,0,0,1,1
+Nur Tatar,19,Turkey,2012,12/08/2012,Taekwondo,0,1,0,1
+Servet Tazegül,23,Turkey,2012,12/08/2012,Taekwondo,1,0,0,1
+Tseng Li-Cheng,25,Chinese Taipei,2012,12/08/2012,Taekwondo,0,0,1,1
+Wu Jingyu,25,China,2012,12/08/2012,Taekwondo,1,0,0,1
+Brigitte Yagüe,31,Spain,2012,12/08/2012,Taekwondo,0,1,0,1
+Lucija Zaninovic,25,Croatia,2012,12/08/2012,Taekwondo,0,0,1,1
+Arman Chilmanov,24,Kazakhstan,2008,24/08/2008,Taekwondo,0,0,1,1
+Chu Mu-Yen,26,Chinese Taipei,2008,24/08/2008,Taekwondo,0,0,1,1
+Chika Chukwumerije,24,Nigeria,2008,24/08/2008,Taekwondo,0,0,1,1
+Dalia Contreras,24,Venezuela,2008,24/08/2008,Taekwondo,0,0,1,1
+Gwladys Epangue,25,France,2008,24/08/2008,Taekwondo,0,0,1,1
+María Espinoza,20,Mexico,2008,24/08/2008,Taekwondo,1,0,0,1
+Natália Falavigna,24,Brazil,2008,24/08/2008,Taekwondo,0,0,1,1
+Hwang Gyeong-Seon,22,South Korea,2008,24/08/2008,Taekwondo,1,0,0,1
+Im Su-Jeong,22,South Korea,2008,24/08/2008,Taekwondo,1,0,0,1
+Ja Dong-Min,21,South Korea,2008,24/08/2008,Taekwondo,1,0,0,1
+Diana Lopez,24,United States,2008,24/08/2008,Taekwondo,0,0,1,1
+Mark Lopez,26,United States,2008,24/08/2008,Taekwondo,0,1,0,1
+Steven Lopez,29,United States,2008,24/08/2008,Taekwondo,0,0,1,1
+Yulis Mercedes,28,Dominican Republic,2008,24/08/2008,Taekwondo,0,1,0,1
+Daynellis Montejo,23,Cuba,2008,24/08/2008,Taekwondo,0,0,1,1
+Alexandros Nikolaidis,28,Greece,2008,24/08/2008,Taekwondo,0,1,0,1
+Rohullah Nikpai,21,Afghanistan,2008,24/08/2008,Taekwondo,0,0,1,1
+Guillermo Pérez,28,Mexico,2008,24/08/2008,Taekwondo,1,0,0,1
+Buttree Puedpong,17,Thailand,2008,24/08/2008,Taekwondo,0,1,0,1
+Hadi Saei,32,Iran,2008,24/08/2008,Taekwondo,1,0,0,1
+Sandra Šaric,24,Croatia,2008,24/08/2008,Taekwondo,0,0,1,1
+Mauro Sarmiento,25,Italy,2008,24/08/2008,Taekwondo,0,1,0,1
+Karine Sergerie,23,Canada,2008,24/08/2008,Taekwondo,0,1,0,1
+Nina Solheim,29,Norway,2008,24/08/2008,Taekwondo,0,1,0,1
+Son Tae-Jin,20,South Korea,2008,24/08/2008,Taekwondo,1,0,0,1
+Sarah Stevenson,25,Great Britain,2008,24/08/2008,Taekwondo,0,0,1,1
+Sung Yu-Chi,26,Chinese Taipei,2008,24/08/2008,Taekwondo,0,0,1,1
+Azize Tanrikulu,22,Turkey,2008,24/08/2008,Taekwondo,0,1,0,1
+Servet Tazegül,19,Turkey,2008,24/08/2008,Taekwondo,0,0,1,1
+Wu Jingyu,21,China,2008,24/08/2008,Taekwondo,1,0,0,1
+Zhu Guo,23,China,2008,24/08/2008,Taekwondo,0,0,1,1
+Martina Zubcic,19,Croatia,2008,24/08/2008,Taekwondo,0,0,1,1
+Nia Abdallah,20,United States,2004,29/08/2004,Taekwondo,0,1,0,1
+Myriam Baverel,23,France,2004,29/08/2004,Taekwondo,0,1,0,1
+Yaowapa Boorapolchai,19,Thailand,2004,29/08/2004,Taekwondo,0,0,1,1
+Adriana Carmona,30,Venezuela,2004,29/08/2004,Taekwondo,0,0,1,1
+Chen Shih-Hsien,25,Chinese Taipei,2004,29/08/2004,Taekwondo,1,0,0,1
+Chen Zhong,21,China,2004,29/08/2004,Taekwondo,1,0,0,1
+Chu Mu-Yen,22,Chinese Taipei,2004,29/08/2004,Taekwondo,1,0,0,1
+Pascal Gentil,31,France,2004,29/08/2004,Taekwondo,0,0,1,1
+Huang Chih-Hsiung,27,Chinese Taipei,2004,29/08/2004,Taekwondo,0,1,0,1
+Hwang Gyeong-Seon,18,South Korea,2004,29/08/2004,Taekwondo,0,0,1,1
+Jang Ji-Won,24,South Korea,2004,29/08/2004,Taekwondo,1,0,0,1
+Youssef Karami,21,Iran,2004,29/08/2004,Taekwondo,0,0,1,1
+Yanely Labrada,22,Cuba,2004,29/08/2004,Taekwondo,0,1,0,1
+Steven Lopez,25,United States,2004,29/08/2004,Taekwondo,1,0,0,1
+Luo Wei,21,China,2004,29/08/2004,Taekwondo,1,0,0,1
+Mun Dae-Seong,27,South Korea,2004,29/08/2004,Taekwondo,1,0,0,1
+Elli Mystakidou,27,Greece,2004,29/08/2004,Taekwondo,0,1,0,1
+Alexandros Nikolaidis,24,Greece,2004,29/08/2004,Taekwondo,0,1,0,1
+Hadi Saei,28,Iran,2004,29/08/2004,Taekwondo,1,0,0,1
+Tamer Salah,22,Egypt,2004,29/08/2004,Taekwondo,0,0,1,1
+Iridia Salazar,22,Mexico,2004,29/08/2004,Taekwondo,0,0,1,1
+Óscar Salazar,26,Mexico,2004,29/08/2004,Taekwondo,0,1,0,1
+Song Myeong-Seop,20,South Korea,2004,29/08/2004,Taekwondo,0,0,1,1
+Bahri Tanrikulu,24,Turkey,2004,29/08/2004,Taekwondo,0,1,0,1
+Hamide Bikçin,22,Turkey,2000,01/10/2000,Taekwondo,0,0,1,1
+Dominique Bosshart,22,Canada,2000,01/10/2000,Taekwondo,0,0,1,1
+Lauren Burns,26,Australia,2000,01/10/2000,Taekwondo,1,0,0,1
+Chen Zhong,17,China,2000,01/10/2000,Taekwondo,1,0,0,1
+Chi Shu-Ju,17,Chinese Taipei,2000,01/10/2000,Taekwondo,0,0,1,1
+Faissal Ebnoutalib,29,Germany,2000,01/10/2000,Taekwondo,0,1,0,1
+Gabriel Esparza,27,Spain,2000,01/10/2000,Taekwondo,0,1,0,1
+Víctor Estrada,28,Mexico,2000,01/10/2000,Taekwondo,0,0,1,1
+Pascal Gentil,27,France,2000,01/10/2000,Taekwondo,0,0,1,1
+Trude Gundersen,23,Norway,2000,01/10/2000,Taekwondo,0,1,0,1
+Huang Chih-Hsiung,23,Chinese Taipei,2000,01/10/2000,Taekwondo,0,0,1,1
+Nataliya Ivanova,29,Russia,2000,01/10/2000,Taekwondo,0,1,0,1
+Jung Jae-Eun,20,South Korea,2000,01/10/2000,Taekwondo,1,0,0,1
+Kim Gyeong-Hun,25,South Korea,2000,01/10/2000,Taekwondo,1,0,0,1
+Lee Seon-Hui,21,South Korea,2000,01/10/2000,Taekwondo,1,0,0,1
+Steven Lopez,21,United States,2000,01/10/2000,Taekwondo,1,0,0,1
+Ángel Matos,23,Cuba,2000,01/10/2000,Taekwondo,1,0,0,1
+Urbia Meléndez,28,Cuba,2000,01/10/2000,Taekwondo,0,1,0,1
+Mikhail Mouroutsos,20,Greece,2000,01/10/2000,Taekwondo,1,0,0,1
+Yoriko Okamoto,29,Japan,2000,01/10/2000,Taekwondo,0,0,1,1
+Hadi Saei,24,Iran,2000,01/10/2000,Taekwondo,0,0,1,1
+Sin Jun-Sik,20,South Korea,2000,01/10/2000,Taekwondo,0,1,0,1
+Tr?n Hi?u Ngân,26,Vietnam,2000,01/10/2000,Taekwondo,0,1,0,1
+Daniel Trenton,23,Australia,2000,01/10/2000,Taekwondo,0,1,0,1
+Julien Benneteau,30,France,2012,12/08/2012,Tennis,0,0,1,1
+Bob Bryan,34,United States,2012,12/08/2012,Tennis,1,0,0,1
+Juan Martín del Potro,23,Argentina,2012,12/08/2012,Tennis,0,0,1,1
+Roger Federer,30,Switzerland,2012,12/08/2012,Tennis,0,1,0,1
+Richard Gasquet,26,France,2012,12/08/2012,Tennis,0,0,1,1
+Andrea Hlavácková,25,Czech Republic,2012,12/08/2012,Tennis,0,1,0,1
+Lucie Hradecká,27,Czech Republic,2012,12/08/2012,Tennis,0,1,0,1
+Mariya Kirilenko,25,Russia,2012,12/08/2012,Tennis,0,0,1,1
+Michaël Llodra,32,France,2012,12/08/2012,Tennis,0,1,0,1
+Max Mirnyi,35,Belarus,2012,12/08/2012,Tennis,1,0,0,1
+Nadiya Petrova,30,Russia,2012,12/08/2012,Tennis,0,0,1,1
+Lisa Raymond,38,United States,2012,12/08/2012,Tennis,0,0,1,1
+Laura Robson,18,Great Britain,2012,12/08/2012,Tennis,0,1,0,1
+Mariya Sharapova,25,Russia,2012,12/08/2012,Tennis,0,1,0,1
+Jo-Wilfried Tsonga,27,France,2012,12/08/2012,Tennis,0,1,0,1
+Venus Williams,32,United States,2012,12/08/2012,Tennis,1,0,0,1
+Simon Aspelin,34,Sweden,2008,24/08/2008,Tennis,0,1,0,1
+Bob Bryan,30,United States,2008,24/08/2008,Tennis,0,0,1,1
+Mike Bryan,30,United States,2008,24/08/2008,Tennis,0,0,1,1
+Yelena Dementyeva,26,Russia,2008,24/08/2008,Tennis,1,0,0,1
+Roger Federer,27,Switzerland,2008,24/08/2008,Tennis,1,0,0,1
+Fernando González,28,Chile,2008,24/08/2008,Tennis,0,1,0,1
+Thomas Johansson,33,Sweden,2008,24/08/2008,Tennis,0,1,0,1
+Anabel Medina,26,Spain,2008,24/08/2008,Tennis,0,1,0,1
+Rafael Nadal,22,Spain,2008,24/08/2008,Tennis,1,0,0,1
+Vivi Ruano,34,Spain,2008,24/08/2008,Tennis,0,1,0,1
+Dinara Safina,22,Russia,2008,24/08/2008,Tennis,0,1,0,1
+Stanislas Wawrinka,23,Switzerland,2008,24/08/2008,Tennis,1,0,0,1
+Serena Williams,26,United States,2008,24/08/2008,Tennis,1,0,0,1
+Venus Williams,28,United States,2008,24/08/2008,Tennis,1,0,0,1
+Yan Zi,23,China,2008,24/08/2008,Tennis,0,0,1,1
+Zheng Jie,25,China,2008,24/08/2008,Tennis,0,0,1,1
+Vera Zvonaryova,23,Russia,2008,24/08/2008,Tennis,0,0,1,1
+Novak Ðokovic,21,Serbia,2008,24/08/2008,Tennis,0,0,1,1
+Mario Ancic,20,Croatia,2004,29/08/2004,Tennis,0,0,1,1
+Mardy Fish,22,United States,2004,29/08/2004,Tennis,0,1,0,1
+Justine Henin-Hardenne,22,Belgium,2004,29/08/2004,Tennis,1,0,0,1
+Nicolas Kiefer,27,Germany,2004,29/08/2004,Tennis,0,1,0,1
+Li Ting,24,China,2004,29/08/2004,Tennis,1,0,0,1
+Ivan Ljubicic,25,Croatia,2004,29/08/2004,Tennis,0,0,1,1
+Conchita Martínez,32,Spain,2004,29/08/2004,Tennis,0,1,0,1
+Amélie Mauresmo,25,France,2004,29/08/2004,Tennis,0,1,0,1
+Alicia Molik,23,Australia,2004,29/08/2004,Tennis,0,0,1,1
+Vivi Ruano,30,Spain,2004,29/08/2004,Tennis,0,1,0,1
+Rainer Schüttler,28,Germany,2004,29/08/2004,Tennis,0,1,0,1
+Paola Suárez,28,Argentina,2004,29/08/2004,Tennis,0,0,1,1
+Sun Tiantian,22,China,2004,29/08/2004,Tennis,1,0,0,1
+Patricia Tarabini,36,Argentina,2004,29/08/2004,Tennis,0,0,1,1
+Kristie Boogert,26,Netherlands,2000,01/10/2000,Tennis,0,1,0,1
+Els Callens,30,Belgium,2000,01/10/2000,Tennis,0,0,1,1
+Alex Corretja,26,Spain,2000,01/10/2000,Tennis,0,0,1,1
+Albert Costa,25,Spain,2000,01/10/2000,Tennis,0,0,1,1
+Yelena Dementyeva,18,Russia,2000,01/10/2000,Tennis,0,1,0,1
+Arnaud Di Pasquale,21,France,2000,01/10/2000,Tennis,0,0,1,1
+Tommy Haas,22,Germany,2000,01/10/2000,Tennis,0,1,0,1
+Yevgeny Kafelnikov,26,Russia,2000,01/10/2000,Tennis,1,0,0,1
+Sébastien Lareau,27,Canada,2000,01/10/2000,Tennis,1,0,0,1
+Daniel Nestor,28,Canada,2000,01/10/2000,Tennis,1,0,0,1
+Miriam Oremans,28,Netherlands,2000,01/10/2000,Tennis,0,1,0,1
+Monica Seles,26,United States,2000,01/10/2000,Tennis,0,0,1,1
+Dominique Van Roost,27,Belgium,2000,01/10/2000,Tennis,0,0,1,1
+Serena Williams,18,United States,2000,01/10/2000,Tennis,1,0,0,1
+Todd Woodbridge,29,Australia,2000,01/10/2000,Tennis,0,1,0,1
+Mark Woodforde,34,Australia,2000,01/10/2000,Tennis,0,1,0,1
+Clara Basiana,21,Spain,2012,12/08/2012,Synchronized Swimming,0,0,1,1
+Alba Cabello,26,Spain,2012,12/08/2012,Synchronized Swimming,0,0,1,1
+Chang Si,25,China,2012,12/08/2012,Synchronized Swimming,0,1,0,1
+Chen Xiaojun,20,China,2012,12/08/2012,Synchronized Swimming,0,1,0,1
+Margalida Crespi,21,Spain,2012,12/08/2012,Synchronized Swimming,0,0,1,1
+Anastasiya Davydova,29,Russia,2012,12/08/2012,Synchronized Swimming,1,0,0,1
+Mariya Gromova,28,Russia,2012,12/08/2012,Synchronized Swimming,1,0,0,1
+Thais Henríquez,29,Spain,2012,12/08/2012,Synchronized Swimming,0,0,1,1
+Jiang Tingting,25,China,2012,12/08/2012,Synchronized Swimming,0,1,0,1
+Jiang Wenwen,25,China,2012,12/08/2012,Synchronized Swimming,0,1,0,1
+Elvira Khasyanova,31,Russia,2012,12/08/2012,Synchronized Swimming,1,0,0,1
+Paula Klamburg,22,Spain,2012,12/08/2012,Synchronized Swimming,0,0,1,1
+Darya Korobova,23,Russia,2012,12/08/2012,Synchronized Swimming,1,0,0,1
+Luo Xi,24,China,2012,12/08/2012,Synchronized Swimming,0,1,0,1
+Irene Montrucchio,20,Spain,2012,12/08/2012,Synchronized Swimming,0,0,1,1
+Aleksandra Patskevich,23,Russia,2012,12/08/2012,Synchronized Swimming,1,0,0,1
+Laia Pons,19,Spain,2012,12/08/2012,Synchronized Swimming,0,0,1,1
+Alla Shishkina,23,Russia,2012,12/08/2012,Synchronized Swimming,1,0,0,1
+Sun Wenyan,22,China,2012,12/08/2012,Synchronized Swimming,0,1,0,1
+Anzhelika Timanina,23,Russia,2012,12/08/2012,Synchronized Swimming,1,0,0,1
+Wu Yiwen,26,China,2012,12/08/2012,Synchronized Swimming,0,1,0,1
+Alba Cabello,22,Spain,2008,24/08/2008,Synchronized Swimming,0,1,0,1
+Raquel Corral,27,Spain,2008,24/08/2008,Synchronized Swimming,0,1,0,1
+Mariya Gromova,24,Russia,2008,24/08/2008,Synchronized Swimming,1,0,0,1
+Gu Beibei,27,China,2008,24/08/2008,Synchronized Swimming,0,0,1,1
+Saho Harada,25,Japan,2008,24/08/2008,Synchronized Swimming,0,0,1,1
+Thais Henríquez,25,Spain,2008,24/08/2008,Synchronized Swimming,0,1,0,1
+Huang Xuechen,18,China,2008,24/08/2008,Synchronized Swimming,0,0,1,1
+Nataliya Ishchenko,22,Russia,2008,24/08/2008,Synchronized Swimming,1,0,0,1
+Jiang Tingting,21,China,2008,24/08/2008,Synchronized Swimming,0,0,1,1
+Jiang Wenwen,21,China,2008,24/08/2008,Synchronized Swimming,0,0,1,1
+Elvira Khasyanova,27,Russia,2008,24/08/2008,Synchronized Swimming,1,0,0,1
+Olga Kuzhela,22,Russia,2008,24/08/2008,Synchronized Swimming,1,0,0,1
+Liu Ou,21,China,2008,24/08/2008,Synchronized Swimming,0,0,1,1
+Laura López,20,Spain,2008,24/08/2008,Synchronized Swimming,0,1,0,1
+Luo Xi,20,China,2008,24/08/2008,Synchronized Swimming,0,0,1,1
+Yelena Ovchinnikova,26,Russia,2008,24/08/2008,Synchronized Swimming,1,0,0,1
+Irina Rodríguez,30,Spain,2008,24/08/2008,Synchronized Swimming,0,1,0,1
+Svetlana Romashina,18,Russia,2008,24/08/2008,Synchronized Swimming,1,0,0,1
+Anna Shorina,25,Russia,2008,24/08/2008,Synchronized Swimming,1,0,0,1
+Sun Qiuting,22,China,2008,24/08/2008,Synchronized Swimming,0,0,1,1
+Emiko Suzuki,26,Japan,2008,24/08/2008,Synchronized Swimming,0,0,1,1
+Paola Tirados,28,Spain,2008,24/08/2008,Synchronized Swimming,0,1,0,1
+Wang Na,24,China,2008,24/08/2008,Synchronized Swimming,0,0,1,1
+Zhang Xiaohuan,28,China,2008,24/08/2008,Synchronized Swimming,0,0,1,1
+Yelena Azarova,31,Russia,2004,29/08/2004,Synchronized Swimming,1,0,0,1
+Olga Brusnikina,25,Russia,2004,29/08/2004,Synchronized Swimming,1,0,0,1
+Tammy Crow,27,United States,2004,29/08/2004,Synchronized Swimming,0,0,1,1
+Erin Dobratz,21,United States,2004,29/08/2004,Synchronized Swimming,0,0,1,1
+Michiyo Fujimaru,25,Japan,2004,29/08/2004,Synchronized Swimming,0,1,0,1
+Mariya Gromova,20,Russia,2004,29/08/2004,Synchronized Swimming,1,0,0,1
+Saho Harada,21,Japan,2004,29/08/2004,Synchronized Swimming,0,1,0,1
+Rebecca Jasontek,29,United States,2004,29/08/2004,Synchronized Swimming,0,0,1,1
+Naoko Kawashima,23,Japan,2004,29/08/2004,Synchronized Swimming,0,1,0,1
+Elvira Khasyanova,23,Russia,2004,29/08/2004,Synchronized Swimming,1,0,0,1
+Mariya Kiselyova,29,Russia,2004,29/08/2004,Synchronized Swimming,1,0,0,1
+Kanako Kitao,22,Japan,2004,29/08/2004,Synchronized Swimming,0,1,0,1
+Sara Lowe,20,United States,2004,29/08/2004,Synchronized Swimming,0,0,1,1
+Lauren McFall,24,United States,2004,29/08/2004,Synchronized Swimming,0,0,1,1
+Stephanie Nesbitt,19,United States,2004,29/08/2004,Synchronized Swimming,0,0,1,1
+Olga Novokshchenova,29,Russia,2004,29/08/2004,Synchronized Swimming,1,0,0,1
+Anna Shorina,22,Russia,2004,29/08/2004,Synchronized Swimming,1,0,0,1
+Emiko Suzuki,22,Japan,2004,29/08/2004,Synchronized Swimming,0,1,0,1
+Juri Tatsumi,24,Japan,2004,29/08/2004,Synchronized Swimming,0,1,0,1
+Yoko Yoneda,28,Japan,2004,29/08/2004,Synchronized Swimming,0,1,0,1
+Kendra Zanotto,22,United States,2004,29/08/2004,Synchronized Swimming,0,0,1,1
+Yelena Antonova,25,Russia,2000,01/10/2000,Synchronized Swimming,1,0,0,1
+Yelena Azarova,27,Russia,2000,01/10/2000,Synchronized Swimming,1,0,0,1
+Lyne Beaumont,22,Canada,2000,01/10/2000,Synchronized Swimming,0,0,1,1
+Claire Carver-Dias,23,Canada,2000,01/10/2000,Synchronized Swimming,0,0,1,1
+Erin Chan,21,Canada,2000,01/10/2000,Synchronized Swimming,0,0,1,1
+Virginie Dedieu,21,France,2000,01/10/2000,Synchronized Swimming,0,0,1,1
+Ayano Egami,20,Japan,2000,01/10/2000,Synchronized Swimming,0,1,0,1
+Raika Fujii,26,Japan,2000,01/10/2000,Synchronized Swimming,0,1,0,1
+Catherine Garceau,22,Canada,2000,01/10/2000,Synchronized Swimming,0,0,1,1
+Yoko Isoda,22,Japan,2000,01/10/2000,Synchronized Swimming,0,1,0,1
+Rei Jimbo,26,Japan,2000,01/10/2000,Synchronized Swimming,0,1,0,1
+Fanny Létourneau,21,Canada,2000,01/10/2000,Synchronized Swimming,0,0,1,1
+Myriam Lignot,25,France,2000,01/10/2000,Synchronized Swimming,0,0,1,1
+Kirstin Normand,26,Canada,2000,01/10/2000,Synchronized Swimming,0,0,1,1
+Olga Novokshchenova,25,Russia,2000,01/10/2000,Synchronized Swimming,1,0,0,1
+Yelena Soya,18,Russia,2000,01/10/2000,Synchronized Swimming,1,0,0,1
+Jacinthe Taillon,23,Canada,2000,01/10/2000,Synchronized Swimming,0,0,1,1
+Reidun Tatham,22,Canada,2000,01/10/2000,Synchronized Swimming,0,0,1,1
+Juri Tatsumi,21,Japan,2000,01/10/2000,Synchronized Swimming,0,1,0,1
+Yuliya Vasilyeva,22,Russia,2000,01/10/2000,Synchronized Swimming,1,0,0,1
+Olga Vasyukova,20,Russia,2000,01/10/2000,Synchronized Swimming,1,0,0,1
+Yoko Yoneda,24,Japan,2000,01/10/2000,Synchronized Swimming,0,1,0,1
+Yuko Yoneda,21,Japan,2000,01/10/2000,Synchronized Swimming,0,1,0,1
+Alyssa Anderson,21,United States,2012,12/08/2012,Swimming,1,0,0,1
+Haley Anderson,20,United States,2012,12/08/2012,Swimming,0,1,0,1
+Angie Bainbridge,22,Australia,2012,12/08/2012,Swimming,0,1,0,1
+Coralie Balmy,25,France,2012,12/08/2012,Swimming,0,0,1,1
+Alain Bernard,29,France,2012,12/08/2012,Swimming,1,0,0,1
+Charlotte Bonnet,17,France,2012,12/08/2012,Swimming,0,0,1,1
+Rachel Bootsma,18,United States,2012,12/08/2012,Swimming,1,0,0,1
+Cate Campbell,20,Australia,2012,12/08/2012,Swimming,1,0,0,1
+César Cielo Filho,25,Brazil,2012,12/08/2012,Swimming,0,0,1,1
+Tyler Clary,23,United States,2012,12/08/2012,Swimming,1,0,0,1
+Ryan Cochrane,23,Canada,2012,12/08/2012,Swimming,0,1,0,1
+Natalie Coughlin,29,United States,2012,12/08/2012,Swimming,0,0,1,1
+László Cseh Jr.,26,Hungary,2012,12/08/2012,Swimming,0,0,1,1
+Tommaso D'Orsogna,21,Australia,2012,12/08/2012,Swimming,0,0,1,1
+Dai Jun,20,China,2012,12/08/2012,Swimming,0,0,1,1
+Inge Dekker,26,Netherlands,2012,12/08/2012,Swimming,0,1,0,1
+Claire Donahue,23,United States,2012,12/08/2012,Swimming,1,0,0,1
+Conor Dwyer,23,United States,2012,12/08/2012,Swimming,1,0,0,1
+Ophélie Etienne,21,France,2012,12/08/2012,Swimming,0,0,1,1
+Blair Evans,21,Australia,2012,12/08/2012,Swimming,0,1,0,1
+Margaux Farrell,21,France,2012,12/08/2012,Swimming,0,0,1,1
+Jimmy Feigen,22,United States,2012,12/08/2012,Swimming,0,1,0,1
+Sergey Fesikov,23,Russia,2012,12/08/2012,Swimming,0,0,1,1
+Takuro Fujii,27,Japan,2012,12/08/2012,Swimming,0,1,0,1
+Fabien Gilot,28,France,2012,12/08/2012,Swimming,1,0,0,1
+Andrey Grechin,24,Russia,2012,12/08/2012,Swimming,0,0,1,1
+Martina Grimaldi,23,Italy,2012,12/08/2012,Swimming,0,0,1,1
+Dániel Gyurta,23,Hungary,2012,12/08/2012,Swimming,1,0,0,1
+Kosuke Hagino,17,Japan,2012,12/08/2012,Swimming,0,0,1,1
+Hao Yun,17,China,2012,12/08/2012,Swimming,0,0,1,1
+Brent Hayden,28,Canada,2012,12/08/2012,Swimming,0,0,1,1
+Femke Heemskerk,24,Netherlands,2012,12/08/2012,Swimming,0,1,0,1
+Natsumi Hoshi,21,Japan,2012,12/08/2012,Swimming,0,0,1,1
+Charlie Houchin,24,United States,2012,12/08/2012,Swimming,1,0,0,1
+Dan Izotov,20,Russia,2012,12/08/2012,Swimming,0,0,1,1
+Michael Jamieson,23,Great Britain,2012,12/08/2012,Swimming,0,1,0,1
+Jiang Haiqi,20,China,2012,12/08/2012,Swimming,0,0,1,1
+Jiao Liuyang,22,China,2012,12/08/2012,Swimming,1,0,0,1
+Leisel Jones,26,Australia,2012,12/08/2012,Swimming,0,1,0,1
+Yuka Kato,25,Japan,2012,12/08/2012,Swimming,0,0,1,1
+Kosuke Kitajima,29,Japan,2012,12/08/2012,Swimming,0,1,0,1
+Yevgeny Korotyshkin,29,Russia,2012,12/08/2012,Swimming,0,1,0,1
+Yolane Kukla,16,Australia,2012,12/08/2012,Swimming,1,0,0,1
+Yevgeny Lagunov,26,Russia,2012,12/08/2012,Swimming,0,0,1,1
+Breeja Larson,20,United States,2012,12/08/2012,Swimming,1,0,0,1
+Mylene Lazare,24,France,2012,12/08/2012,Swimming,0,0,1,1
+Katie Ledecky,15,United States,2012,12/08/2012,Swimming,1,0,0,1
+Libby Lenton-Trickett,27,Australia,2012,12/08/2012,Swimming,1,0,0,1
+Caitlin Leverenz,21,United States,2012,12/08/2012,Swimming,0,0,1,1
+Jason Lezak,36,United States,2012,12/08/2012,Swimming,0,1,0,1
+Li Xuanxu,18,China,2012,12/08/2012,Swimming,0,0,1,1
+Li Yunqi,18,China,2012,12/08/2012,Swimming,0,0,1,1
+Nikita Lobintsev,23,Russia,2012,12/08/2012,Swimming,0,0,1,1
+Lu Ying,23,China,2012,12/08/2012,Swimming,0,1,0,1
+Lu Zhiwu,23,China,2012,12/08/2012,Swimming,0,0,1,1
+Thomas Lurz,32,Germany,2012,12/08/2012,Swimming,0,1,0,1
+Grégory Mallet,28,France,2012,12/08/2012,Swimming,0,1,0,1
+Florent Manaudou,21,France,2012,12/08/2012,Swimming,1,0,0,1
+Tyler McGill,24,United States,2012,12/08/2012,Swimming,1,0,0,1
+Matt McLean,24,United States,2012,12/08/2012,Swimming,1,0,0,1
+Ruta Meilutyte,15,Lithuania,2012,12/08/2012,Swimming,1,0,0,1
+Vladimir Morozov,20,Russia,2012,12/08/2012,Swimming,0,0,1,1
+Lia Neal,17,United States,2012,12/08/2012,Swimming,0,0,1,1
+Jade Neilsen,21,Australia,2012,12/08/2012,Swimming,0,1,0,1
+Kylie Palmer,22,Australia,2012,12/08/2012,Swimming,0,1,0,1
+Lauren Perdue,21,United States,2012,12/08/2012,Swimming,1,0,0,1
+Thiago Pereira,26,Brazil,2012,12/08/2012,Swimming,0,1,0,1
+Brenton Rickard,28,Australia,2012,12/08/2012,Swimming,0,0,1,1
+Éva Risztov,26,Hungary,2012,12/08/2012,Swimming,1,0,0,1
+Hinkelien Schreuder,28,Netherlands,2012,12/08/2012,Swimming,0,1,0,1
+Eric Shanteau,28,United States,2012,12/08/2012,Swimming,1,0,0,1
+Hayden Stoeckel,27,Australia,2012,12/08/2012,Swimming,0,0,1,1
+Tang Yi,19,China,2012,12/08/2012,Swimming,0,0,1,1
+Matt Targett,26,Australia,2012,12/08/2012,Swimming,0,0,1,1
+Davis Tarwater,28,United States,2012,12/08/2012,Swimming,1,0,0,1
+Ryo Tateishi,23,Japan,2012,12/08/2012,Swimming,0,0,1,1
+Haruka Ueda,24,Japan,2012,12/08/2012,Swimming,0,0,1,1
+Cameron van der Burgh,24,South Africa,2012,12/08/2012,Swimming,1,0,0,1
+Peter Vanderkaay,28,United States,2012,12/08/2012,Swimming,0,0,1,1
+Shannon Vreeland,20,United States,2012,12/08/2012,Swimming,1,0,0,1
+Richard Weinberger,22,Canada,2012,12/08/2012,Swimming,0,0,1,1
+Amanda Weir,26,United States,2012,12/08/2012,Swimming,0,0,1,1
+Yuliya Yefimova,20,Russia,2012,12/08/2012,Swimming,0,0,1,1
+Anastasiya Zuyeva,22,Russia,2012,12/08/2012,Swimming,0,1,0,1
+Nathan Adrian,19,United States,2008,24/08/2008,Swimming,1,0,0,1
+Angie Bainbridge,18,Australia,2008,24/08/2008,Swimming,1,0,0,1
+Bronte Barratt,19,Australia,2008,24/08/2008,Swimming,1,0,0,1
+Ricky Berens,20,United States,2008,24/08/2008,Swimming,1,0,0,1
+Fréd Bousquet,27,France,2008,24/08/2008,Swimming,0,1,0,1
+Elaine Breeden,19,United States,2008,24/08/2008,Swimming,0,1,0,1
+Grant Brits,21,Australia,2008,24/08/2008,Swimming,0,0,1,1
+Caroline Burckle,22,United States,2008,24/08/2008,Swimming,0,0,1,1
+Ashley Callus,29,Australia,2008,24/08/2008,Swimming,0,0,1,1
+Milorad Cavic,24,Serbia,2008,24/08/2008,Swimming,0,1,0,1
+Ryan Cochrane,19,Canada,2008,24/08/2008,Swimming,0,0,1,1
+Ian Crocker,25,United States,2008,24/08/2008,Swimming,1,0,0,1
+Lara Davenport,24,Australia,2008,24/08/2008,Swimming,1,0,0,1
+Dave Davies,23,Great Britain,2008,24/08/2008,Swimming,0,1,0,1
+Inge Dekker,22,Netherlands,2008,24/08/2008,Swimming,1,0,0,1
+Ash Delaney,22,Australia,2008,24/08/2008,Swimming,0,1,0,1
+Nick Ffrost,21,Australia,2008,24/08/2008,Swimming,0,0,1,1
+Alessia Filippi,21,Italy,2008,24/08/2008,Swimming,0,1,0,1
+Lotte Friis,20,Denmark,2008,24/08/2008,Swimming,0,0,1,1
+Takuro Fujii,23,Japan,2008,24/08/2008,Swimming,0,0,1,1
+Mark Gangloff,26,United States,2008,24/08/2008,Swimming,1,0,0,1
+Fabien Gilot,24,France,2008,24/08/2008,Swimming,0,1,0,1
+Brendan Hansen,27,United States,2008,24/08/2008,Swimming,1,0,0,1
+Femke Heemskerk,20,Netherlands,2008,24/08/2008,Swimming,1,0,0,1
+Lara Ilchenko,19,Russia,2008,24/08/2008,Swimming,1,0,0,1
+Sara Isakovic,20,Slovenia,2008,24/08/2008,Swimming,0,1,0,1
+Dan Izotov,16,Russia,2008,24/08/2008,Swimming,0,1,0,1
+Jo Jackson,21,Great Britain,2008,24/08/2008,Swimming,0,0,1,1
+Larsen Jensen,22,United States,2008,24/08/2008,Swimming,0,0,1,1
+Jiao Liuyang,18,China,2008,24/08/2008,Swimming,0,1,0,1
+Cullen Jones,24,United States,2008,24/08/2008,Swimming,1,0,0,1
+Mirna Jukic,22,Austria,2008,24/08/2008,Swimming,0,0,1,1
+Klete Keller,26,United States,2008,24/08/2008,Swimming,1,0,0,1
+Ranomi Kromowidjojo,17,Netherlands,2008,24/08/2008,Swimming,1,0,0,1
+Yevgeny Lagunov,22,Russia,2008,24/08/2008,Swimming,0,1,0,1
+Liu Zige,19,China,2008,24/08/2008,Swimming,1,0,0,1
+Nikita Lobintsev,19,Russia,2008,24/08/2008,Swimming,0,1,0,1
+Thomas Lurz,28,Germany,2008,24/08/2008,Swimming,0,0,1,1
+Linda MacKenzie,24,Australia,2008,24/08/2008,Swimming,1,0,0,1
+Grégory Mallet,24,France,2008,24/08/2008,Swimming,0,1,0,1
+Christine Marshall,22,United States,2008,24/08/2008,Swimming,0,0,1,1
+Takeshi Matsuda,24,Japan,2008,24/08/2008,Swimming,0,0,1,1
+Oussama Mellouli,24,Tunisia,2008,24/08/2008,Swimming,1,0,0,1
+Alice Mills,22,Australia,2008,24/08/2008,Swimming,0,0,1,1
+Junichi Miyashita,24,Japan,2008,24/08/2008,Swimming,0,0,1,1
+Reiko Nakamura,26,Japan,2008,24/08/2008,Swimming,0,0,1,1
+Sara Nordenstam,25,Norway,2008,24/08/2008,Swimming,0,0,1,1
+Lacey Nymeyer,22,United States,2008,24/08/2008,Swimming,0,1,0,1
+Alexander Dale Oen,23,Norway,2008,24/08/2008,Swimming,0,1,0,1
+Kirk Palmer,21,Australia,2008,24/08/2008,Swimming,0,0,1,1
+Kylie Palmer,18,Australia,2008,24/08/2008,Swimming,1,0,0,1
+Cassie Patten,21,Great Britain,2008,24/08/2008,Swimming,0,0,1,1
+Keri-Anne Payne,20,Great Britain,2008,24/08/2008,Swimming,0,1,0,1
+Federica Pellegrini,20,Italy,2008,24/08/2008,Swimming,1,0,0,1
+Adam Pine,32,Australia,2008,24/08/2008,Swimming,0,1,0,1
+Mikhail Polishchuk,19,Russia,2008,24/08/2008,Swimming,0,1,0,1
+Megan Quann-Jendrick,24,United States,2008,24/08/2008,Swimming,0,1,0,1
+Hisayoshi Sato,21,Japan,2008,24/08/2008,Swimming,0,0,1,1
+Allison Schmitt,18,United States,2008,24/08/2008,Swimming,0,0,1,1
+Hinkelien Schreuder,24,Netherlands,2008,24/08/2008,Swimming,1,0,0,1
+Emily Seebohm,16,Australia,2008,24/08/2008,Swimming,1,0,0,1
+Emily prata,22,United States,2008,24/08/2008,Swimming,0,1,0,1
+Christian Sprenger,22,Australia,2008,24/08/2008,Swimming,0,1,0,1
+Boris Steimetz,21,France,2008,24/08/2008,Swimming,0,1,0,1
+Aleksandr Sukhorukov,20,Russia,2008,24/08/2008,Swimming,0,1,0,1
+Sun Ye,19,China,2008,24/08/2008,Swimming,0,0,1,1
+Tan Miao,21,China,2008,24/08/2008,Swimming,0,1,0,1
+Tang Jingzhi,21,China,2008,24/08/2008,Swimming,0,1,0,1
+Maarten van der Weijden,27,Netherlands,2008,24/08/2008,Swimming,1,0,0,1
+Manon van Rooijen,26,Netherlands,2008,24/08/2008,Swimming,1,0,0,1
+Kim Vandenberg,24,United States,2008,24/08/2008,Swimming,0,0,1,1
+Marleen Veldhuis,29,Netherlands,2008,24/08/2008,Swimming,1,0,0,1
+Erik Vendt,27,United States,2008,24/08/2008,Swimming,1,0,0,1
+Dave Walters,20,United States,2008,24/08/2008,Swimming,1,0,0,1
+Tarnee White,27,Australia,2008,24/08/2008,Swimming,1,0,0,1
+Ben Wildman-Tobriner,23,United States,2008,24/08/2008,Swimming,1,0,0,1
+Xu Tianlongzi,17,China,2008,24/08/2008,Swimming,0,0,1,1
+Yang Yu,23,China,2008,24/08/2008,Swimming,0,1,0,1
+Zhang Lin,21,China,2008,24/08/2008,Swimming,0,1,0,1
+Zhao Jing,17,China,2008,24/08/2008,Swimming,0,0,1,1
+Zhou Yafei,24,China,2008,24/08/2008,Swimming,0,0,1,1
+Zhu Qianwei,17,China,2008,24/08/2008,Swimming,0,1,0,1
+Georgina Bardach,20,Argentina,2004,29/08/2004,Swimming,0,0,1,1
+George Bovell,21,Trinidad and Tobago,2004,29/08/2004,Swimming,0,0,1,1
+Emiliano Brembilla,25,Italy,2004,29/08/2004,Swimming,0,0,1,1
+Federico Cappellazzo,23,Italy,2004,29/08/2004,Swimming,0,0,1,1
+Simone Cercato,29,Italy,2004,29/08/2004,Swimming,0,0,1,1
+Lars Conrad,28,Germany,2004,29/08/2004,Swimming,0,1,0,1
+Haley Cope,25,United States,2004,29/08/2004,Swimming,0,1,0,1
+Ritz Correia,22,United States,2004,29/08/2004,Swimming,0,1,0,1
+László Cseh Jr.,18,Hungary,2004,29/08/2004,Swimming,0,0,1,1
+Petra Dallmann,25,Germany,2004,29/08/2004,Swimming,0,0,1,1
+Dave Davies,19,Great Britain,2004,29/08/2004,Swimming,0,0,1,1
+Inge Dekker,18,Netherlands,2004,29/08/2004,Swimming,0,0,1,1
+Duje Draganja,21,Croatia,2004,29/08/2004,Swimming,0,1,0,1
+Steffen Driesen,22,Germany,2004,29/08/2004,Swimming,0,1,0,1
+Hugues Duboscq,22,France,2004,29/08/2004,Swimming,0,0,1,1
+Nate Dusing,25,United States,2004,29/08/2004,Swimming,0,0,1,1
+Lyndon Ferns,20,South Africa,2004,29/08/2004,Swimming,1,0,0,1
+Solenne Figuès,25,France,2004,29/08/2004,Swimming,0,0,1,1
+Razvan Florea,23,Romania,2004,29/08/2004,Swimming,0,0,1,1
+Mark Gangloff,22,United States,2004,29/08/2004,Swimming,1,0,0,1
+Scott ouroblatt,25,United States,2004,29/08/2004,Swimming,1,0,0,1
+Daniela Götz,16,Germany,2004,29/08/2004,Swimming,0,0,1,1
+Janina-Kristin Götz,23,Germany,2004,29/08/2004,Swimming,0,0,1,1
+Chantal Groot,21,Netherlands,2004,29/08/2004,Swimming,0,0,1,1
+Dániel Gyurta,15,Hungary,2004,29/08/2004,Swimming,0,1,0,1
+Sara Harstick,22,Germany,2004,29/08/2004,Swimming,0,0,1,1
+Rhi Jeffrey,17,United States,2004,29/08/2004,Swimming,1,0,0,1
+Larsen Jensen,18,United States,2004,29/08/2004,Swimming,0,1,0,1
+Johan Kenkhuis,24,Netherlands,2004,29/08/2004,Swimming,0,1,0,1
+Dan Ketchum,22,United States,2004,29/08/2004,Swimming,1,0,0,1
+Tara Kirk,22,United States,2004,29/08/2004,Swimming,0,1,0,1
+Michael Klim,27,Australia,2004,29/08/2004,Swimming,0,1,0,1
+Stanislava Komarova,18,Russia,2004,29/08/2004,Swimming,0,1,0,1
+Annabel Kosten,27,Netherlands,2004,29/08/2004,Swimming,0,0,1,1
+Lenny Krayzelburg,28,United States,2004,29/08/2004,Swimming,1,0,0,1
+Jens Kruppa,28,Germany,2004,29/08/2004,Swimming,0,1,0,1
+Colleen Lanne,24,United States,2004,29/08/2004,Swimming,0,1,0,1
+Li Ji,18,China,2004,29/08/2004,Swimming,0,1,0,1
+Luo Xuejuan,20,China,2004,29/08/2004,Swimming,1,0,0,1
+Filippo Magnini,22,Italy,2004,29/08/2004,Swimming,0,0,1,1
+Antony Matkovich,27,Australia,2004,29/08/2004,Swimming,0,1,0,1
+Helge Meeuw,19,Germany,2004,29/08/2004,Swimming,0,1,0,1
+Malia Metella,22,France,2004,29/08/2004,Swimming,0,1,0,1
+Diana Munz,22,United States,2004,29/08/2004,Swimming,0,0,1,1
+Reiko Nakamura,22,Japan,2004,29/08/2004,Swimming,0,0,1,1
+Yuko Nakanishi,23,Japan,2004,29/08/2004,Swimming,0,0,1,1
+Ryk Neethling,26,South Africa,2004,29/08/2004,Swimming,1,0,0,1
+Yoshihiro Okumura,21,Japan,2004,29/08/2004,Swimming,0,0,1,1
+Pang Jiaying,19,China,2004,29/08/2004,Swimming,0,1,0,1
+Steve Parry,27,Great Britain,2004,29/08/2004,Swimming,0,0,1,1
+Todd Pearson,26,Australia,2004,29/08/2004,Swimming,0,1,0,1
+Federica Pellegrini,16,Italy,2004,29/08/2004,Swimming,0,1,0,1
+Matteo Pelliciari,25,Italy,2004,29/08/2004,Swimming,0,0,1,1
+Carly Piper,20,United States,2004,29/08/2004,Swimming,1,0,0,1
+Sarah Poewe,21,Germany,2004,29/08/2004,Swimming,0,0,1,1
+Anne Poleska,24,Germany,2004,29/08/2004,Swimming,0,0,1,1
+Camelia Potec,22,Romania,2004,29/08/2004,Swimming,1,0,0,1
+Giaan Rooney,21,Australia,2004,29/08/2004,Swimming,1,0,0,1
+Massimiliano Rosolino,26,Italy,2004,29/08/2004,Swimming,0,0,1,1
+Thomas Rupprath,27,Germany,2004,29/08/2004,Swimming,0,1,0,1
+Sarah Ryan,27,Australia,2004,29/08/2004,Swimming,1,0,0,1
+Jess Schipper,17,Australia,2004,29/08/2004,Swimming,1,0,0,1
+Andriy Serdinov,21,Ukraine,2004,29/08/2004,Swimming,0,0,1,1
+Ai Shibata,22,Japan,2004,29/08/2004,Swimming,1,0,0,1
+Nicholas Sprenger,19,Australia,2004,29/08/2004,Swimming,0,1,0,1
+Craig Stevens,24,Australia,2004,29/08/2004,Swimming,0,1,0,1
+Hannah Stockbauer,22,Germany,2004,29/08/2004,Swimming,0,0,1,1
+Darian Townsend,19,South Africa,2004,29/08/2004,Swimming,1,0,0,1
+Peter Vanderkaay,20,United States,2004,29/08/2004,Swimming,1,0,0,1
+Mark Veens,26,Netherlands,2004,29/08/2004,Swimming,0,1,0,1
+Marleen Veldhuis,25,Netherlands,2004,29/08/2004,Swimming,0,0,1,1
+Erik Vendt,23,United States,2004,29/08/2004,Swimming,0,1,0,1
+Dana Vollmer,16,United States,2004,29/08/2004,Swimming,1,0,0,1
+Gabe Woodward,25,United States,2004,29/08/2004,Swimming,0,0,1,1
+Xu Yanwei,20,China,2004,29/08/2004,Swimming,0,1,0,1
+Yang Yu,19,China,2004,29/08/2004,Swimming,0,1,0,1
+Mitja Zastrow,27,Netherlands,2004,29/08/2004,Swimming,0,1,0,1
+Zhu Yingwen,22,China,2004,29/08/2004,Swimming,0,1,0,1
+Klaas-Erik Zwering,23,Netherlands,2004,29/08/2004,Swimming,0,1,0,1
+Sam Arsenault,18,United States,2000,01/10/2000,Swimming,1,0,0,1
+Amanda Beard,18,United States,2000,01/10/2000,Swimming,0,0,1,1
+B. J. Bedford,27,United States,2000,01/10/2000,Swimming,1,0,0,1
+Lindsay Benko,23,United States,2000,01/10/2000,Swimming,1,0,0,1
+Kim Black,21,United States,2000,01/10/2000,Swimming,1,0,0,1
+Gustavo Borges,27,Brazil,2000,01/10/2000,Swimming,0,0,1,1
+Antje Buschschulte,21,Germany,2000,01/10/2000,Swimming,0,0,1,1
+Ashley Callus,21,Australia,2000,01/10/2000,Swimming,1,0,0,1
+Dyana Calub,24,Australia,2000,01/10/2000,Swimming,0,1,0,1
+Chad Carvin,26,United States,2000,01/10/2000,Swimming,0,1,0,1
+Ian Crocker,18,United States,2000,01/10/2000,Swimming,1,0,0,1
+Nate Dusing,21,United States,2000,01/10/2000,Swimming,0,1,0,1
+Meike Freitag,21,Germany,2000,01/10/2000,Swimming,0,0,1,1
+Lars Frölander,26,Sweden,2000,01/10/2000,Swimming,1,0,0,1
+Chris Fydler,27,Australia,2000,01/10/2000,Swimming,1,0,0,1
+Scott ouroblatt,21,United States,2000,01/10/2000,Swimming,0,1,0,1
+Elka Graham,18,Australia,2000,01/10/2000,Swimming,0,1,0,1
+Chantal Groot,17,Netherlands,2000,01/10/2000,Swimming,0,1,0,1
+Tommy Hannan,20,United States,2000,01/10/2000,Swimming,1,0,0,1
+Regan Harrison,22,Australia,2000,01/10/2000,Swimming,0,1,0,1
+Sara Harstick,19,Germany,2000,01/10/2000,Swimming,0,0,1,1
+Thamar Henneken,21,Netherlands,2000,01/10/2000,Swimming,0,1,0,1
+Penny Heyns,25,South Africa,2000,01/10/2000,Swimming,0,0,1,1
+Misty Hyman,21,United States,2000,01/10/2000,Swimming,1,0,0,1
+Carlos Jayme,20,Brazil,2000,01/10/2000,Swimming,0,0,1,1
+Louise Jöhncke,24,Sweden,2000,01/10/2000,Swimming,0,0,1,1
+Anna-Karin Kammerling,19,Sweden,2000,01/10/2000,Swimming,0,0,1,1
+Johan Kenkhuis,20,Netherlands,2000,01/10/2000,Swimming,0,0,1,1
+Kerstin Kielgaß,30,Germany,2000,01/10/2000,Swimming,0,0,1,1
+Bill Kirby,25,Australia,2000,01/10/2000,Swimming,1,0,0,1
+Ágnes Kovács,19,Hungary,2000,01/10/2000,Swimming,1,0,0,1
+Kristy Kowal,21,United States,2000,01/10/2000,Swimming,0,1,0,1
+Daniel Kowalski,25,Australia,2000,01/10/2000,Swimming,1,0,0,1
+Jens Kruppa,24,Germany,2000,01/10/2000,Swimming,0,0,1,1
+Josefin Lillhidade,20,Sweden,2000,01/10/2000,Swimming,0,0,1,1
+Tom Malchow,24,United States,2000,01/10/2000,Swimming,1,0,0,1
+Roxana Maracineanu,25,France,2000,01/10/2000,Swimming,0,1,0,1
+Sumika Minamoto,21,Japan,2000,01/10/2000,Swimming,0,0,1,1
+Ryan Mitchell,23,Australia,2000,01/10/2000,Swimming,0,1,0,1
+Curtis Myden,26,Canada,2000,01/10/2000,Swimming,0,0,1,1
+Miki Nakao,22,Japan,2000,01/10/2000,Swimming,0,0,1,1
+Justin Norris,20,Australia,2000,01/10/2000,Swimming,0,0,1,1
+Junko Onishi,25,Japan,2000,01/10/2000,Swimming,0,0,1,1
+Terence Parkin,20,South Africa,2000,01/10/2000,Swimming,0,1,0,1
+Aaron Peirsol,17,United States,2000,01/10/2000,Swimming,0,1,0,1
+Kieren Perkins,27,Australia,2000,01/10/2000,Swimming,0,1,0,1
+Erin Phenix,19,United States,2000,01/10/2000,Swimming,1,0,0,1
+Aleksandr Popov,28,Russia,2000,01/10/2000,Swimming,0,1,0,1
+Jamie Rauch,21,United States,2000,01/10/2000,Swimming,0,1,0,1
+Davide Rummolo,22,Italy,2000,01/10/2000,Swimming,0,0,1,1
+Thomas Rupprath,23,Germany,2000,01/10/2000,Swimming,0,0,1,1
+Sarah Ryan,23,Australia,2000,01/10/2000,Swimming,0,1,0,1
+Kaitlin Sandeno,17,United States,2000,01/10/2000,Swimming,0,0,1,1
+Xuxa Scherer,25,Brazil,2000,01/10/2000,Swimming,0,0,1,1
+Edvaldo Silva Filho,22,Brazil,2000,01/10/2000,Swimming,0,0,1,1
+Johanna Sjöberg,22,Sweden,2000,01/10/2000,Swimming,0,0,1,1
+Roman Sludnov,20,Russia,2000,01/10/2000,Swimming,0,0,1,1
+Torsten Spanneberg,25,Germany,2000,01/10/2000,Swimming,0,0,1,1
+Britta Steffen,16,Germany,2000,01/10/2000,Swimming,0,0,1,1
+Staciana Stitts,19,United States,2000,01/10/2000,Swimming,1,0,0,1
+Julia Stowers,18,United States,2000,01/10/2000,Swimming,1,0,0,1
+Malin Svahnström,20,Sweden,2000,01/10/2000,Swimming,0,0,1,1
+Denys Sylantiev,23,Ukraine,2000,01/10/2000,Swimming,0,1,0,1
+Yasuko Tajima,19,Japan,2000,01/10/2000,Swimming,0,1,0,1
+Masami Tanaka,21,Japan,2000,01/10/2000,Swimming,0,0,1,1
+Cristina Teuscher,22,United States,2000,01/10/2000,Swimming,0,0,1,1
+Chris Thompson,21,United States,2000,01/10/2000,Swimming,0,0,1,1
+Kirsten Thomson,16,Australia,2000,01/10/2000,Swimming,0,1,0,1
+Scott Tucker,24,United States,2000,01/10/2000,Swimming,0,1,0,1
+Franziska van Almsick,22,Germany,2000,01/10/2000,Swimming,0,0,1,1
+Mark van der Zijden,26,Netherlands,2000,01/10/2000,Swimming,0,0,1,1
+Jacinta Van Lint,22,Australia,2000,01/10/2000,Swimming,0,1,0,1
+Wilma van Rijn-van Hofwegen,29,Netherlands,2000,01/10/2000,Swimming,0,1,0,1
+Manon van Rooijen,18,Netherlands,2000,01/10/2000,Swimming,0,1,0,1
+Erik Vendt,19,United States,2000,01/10/2000,Swimming,0,1,0,1
+Josh Watson,23,Australia,2000,01/10/2000,Swimming,0,1,0,1
+Tarnee White,19,Australia,2000,01/10/2000,Swimming,0,1,0,1
+Tom Wilkens,24,United States,2000,01/10/2000,Swimming,0,0,1,1
+Marcel Wouda,28,Netherlands,2000,01/10/2000,Swimming,0,0,1,1
+Nina Zhivanevskaya,23,Spain,2000,01/10/2000,Swimming,0,0,1,1
+Martijn Zuijdweg,23,Netherlands,2000,01/10/2000,Swimming,0,0,1,1
